@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "eeee3ec72ee0bdd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42145606c255f14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "975e0e5243dee526",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Obsidian/Mapa Mental.canvas",
+                "viewState": {
+                  "x": 1625.3405882352938,
+                  "y": 470.71882352941174,
+                  "zoom": -1.5418937788292701
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6a8e055c8eca82c",
+    "type": "split",
+    "children": [
+      {
+        "id": "30c9660e7c238642",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90bf927dd7af94f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d90cab73df17cab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb7c795718ad6d6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc30061e53f1e7b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "98829ee32230a5c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d82b8a0dbe4c3e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/Mapa Mental.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f90b2f77cac4030",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/Mapa Mental.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17a492cb1b897ed8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7777b4f2211917a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/Mapa Mental.canvas"
+              }
+            }
+          },
+          {
+            "id": "31b849c86e5d4c11",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista de gráfico": false,
+      "switcher:Abrir quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "90bf927dd7af94f5",
+  "lastOpenFiles": [
+    "Obsidian/Materia/Basico/Derivadas.md",
+    "Obsidian/README.md",
+    "Obsidian/Calendario/22-07-2023.md",
+    "Obsidian/Calendario/21-07-2023.md",
+    "Obsidian/Materia/Continuidad.md",
+    "Obsidian",
+    "Obsidian/Mapa Mental.canvas",
+    "Obsidian/Materia/Basico/Límite.md",
+    "Obsidian/Materia/Basico",
+    "Obsidian/Materia/Basico/Topología.md",
+    "Obsidian/Materia/Regla de L'Hopital.md",
+    "Obsidian/Materia/Limites Iterados.md",
+    "Obsidian/Materia/Limite Funciones de Varias Variables.md",
+    "Obsidian/Grafica Funciones/Subconjunto y Limites.png",
+    "Obsidian/Grafica Funciones/SenCos.png",
+    "Obsidian/Grafica Funciones/Paraboloide.png",
+    "Obsidian/Grafica Funciones/Limite Existe.png",
+    "Obsidian/Grafica Funciones/Idea Limite Iterado.png",
+    "Obsidian/Materia",
+    "Obsidian/Calendario",
+    "Obsidian/Formulas/Formulas Limite Iterado.md",
+    "Calculo 2/Formula Limite Iterado 1.md",
+    "Obsidian/Formulas/Formulas Usuales.md",
+    "Obsidian/Formulas/Formulas Generales.md",
+    "Obsidian/Materia/Basico/Función.md",
+    "Obsidian/Formulas",
+    "Límite Iterado.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Obsidian/Grafica Funciones/Hiperboloide.png",
+    "Captura de pantalla 2023-07-21 a la(s) 22.48.56.png.md",
+    "Derividas.md",
+    "Límite.md",
+    "Obsidian/Grafica Funciones",
+    "Calculo/Calculo 2",
+    "sa,dfjahsdas.md",
+    "adsdasdas.md",
+    "Hola.md",
+    "Estructuras.md"
+  ]
+}
