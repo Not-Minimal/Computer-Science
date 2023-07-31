@@ -1,4 +1,9 @@
 {
   "accentColor": "",
-  "baseFontSize": 18
+  "baseFontSize": 15,
+  "theme": "system",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Product Sans",
+  "monospaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Source Code Pro"
 }

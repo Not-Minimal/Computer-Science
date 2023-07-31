@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e42145606c255f14",
+        "id": "62268d5707ac7ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "975e0e5243dee526",
+            "id": "8547ad17cf83fad8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Obsidian/Mapa Mental.canvas",
-                "viewState": {
-                  "x": 1625.3405882352938,
-                  "y": 470.71882352941174,
-                  "zoom": -1.5418937788292701
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -51,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "*",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -72,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Mapa Mental.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Mapa Mental.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +109,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian/Mapa Mental.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -140,12 +129,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,49 +144,62 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "audio-recorder:Empezar/Parar de grabar": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "8547ad17cf83fad8",
   "lastOpenFiles": [
-    "Obsidian/Materia/Basico/Derivadas.md",
-    "Obsidian/README.md",
-    "Obsidian/Calendario/22-07-2023.md",
-    "Obsidian/Calendario/21-07-2023.md",
-    "Obsidian/Materia/Continuidad.md",
-    "Obsidian",
-    "Obsidian/Mapa Mental.canvas",
-    "Obsidian/Materia/Basico/Límite.md",
-    "Obsidian/Materia/Basico",
-    "Obsidian/Materia/Basico/Topología.md",
-    "Obsidian/Materia/Regla de L'Hopital.md",
-    "Obsidian/Materia/Limites Iterados.md",
-    "Obsidian/Materia/Limite Funciones de Varias Variables.md",
-    "Obsidian/Grafica Funciones/Subconjunto y Limites.png",
-    "Obsidian/Grafica Funciones/SenCos.png",
-    "Obsidian/Grafica Funciones/Paraboloide.png",
-    "Obsidian/Grafica Funciones/Limite Existe.png",
-    "Obsidian/Grafica Funciones/Idea Limite Iterado.png",
-    "Obsidian/Materia",
-    "Obsidian/Calendario",
-    "Obsidian/Formulas/Formulas Limite Iterado.md",
-    "Calculo 2/Formula Limite Iterado 1.md",
-    "Obsidian/Formulas/Formulas Usuales.md",
-    "Obsidian/Formulas/Formulas Generales.md",
-    "Obsidian/Materia/Basico/Función.md",
-    "Obsidian/Formulas",
-    "Límite Iterado.md",
+    "Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Arboles Balanceados.md",
+    "Estructura de Datos/Materia/4. Arboles/Árbol Binario Completo.md",
+    "Estructura de Datos/Materia/4. Arboles/Árbol Binario.md",
+    "Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
+    "Estructura de Datos/Materia/7. Heap/Heap.md",
+    "Calculo/Materia/Regla de L'Hopital.md",
+    "Calculo/Formulas/Formulas Generales.md",
+    "Estructura de Datos/Estructura de Datos/Data Structure.md",
+    "Estructura de Datos/Materia/4. Arboles/Operaciones/Insertar Nodo.md",
+    "Estructura de Datos/Materia/4. Arboles/Operaciones/Eliminar Nodo.md",
+    "Estructura de Datos/Materia/4. Arboles/Operaciones",
+    "Pasted image 20230730111455.png",
+    "Calculo/Mapa Mental.canvas",
+    "Calculo/Materia/Basico/Topología.md",
+    "Estructura de Datos/Tareas/Tarea 2/Mapa Mental.canvas",
+    "Estructura de Datos/Tareas/Tarea 2/Función Liberar Memoria.md",
+    "Estructura de Datos/Tareas/Tarea 2/Estructura del Nodo.md",
+    "Estructura de Datos/Materia/1. Punteros/Funciones en C.md",
+    "Estructura de Datos/Arboles y Rotaciones.canvas",
+    "Estructura de Datos/Tareas/Tarea 2/Función Valor Minimo.md",
+    "Estructura de Datos/Tareas/Tarea 2/Función Inicializar.md",
+    "Estructura de Datos/Tareas/Tarea 2/Función Inserción.md",
+    "Estructura de Datos/Tareas/Tarea 2/Función Mostrar.md",
+    "Estructura de Datos/Tareas/Tarea 2/Función Búsqueda N°Reserva.md",
+    "Estructura de Datos/Tareas/Tarea 2/Función Búsqueda por Destino.md",
+    "Estructura de Datos/Tareas/Tarea 2/Función Eliminación.md",
+    "Estructura de Datos/Tareas/Tarea 2/Función Menu.md",
+    "Estructura de Datos/Tareas/Tarea 2/Función Principal.md",
+    "Estructura de Datos/Tareas/Tarea 2/Untitled 1.canvas",
+    "Estructura de Datos/Tareas/Tarea 2",
+    "Estructura de Datos/Tareas/Tarea 1",
+    "Estructura de Datos/Tareas",
+    "Calculo/Ejercicios Resueltos/Ejercicios Resueltos.md",
+    "Estructura de Datos/Materia/7. Heap/Imagenes/Comparaciones Heap.png",
+    "Calculo/Materia/Basico/Límite.md",
+    "Calculo/Materia/Basico/Derivadas.md",
+    "Estructura de Datos/Materia/8. Hash",
+    "Estructura de Datos/Materia/7. Heap/Imagenes",
+    "Estructura de Datos/Materia/7. Heap/Imagenes/Heap Structure.png",
+    "Estructura de Datos/Materia/7. Heap",
+    "Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Arbol Balanceado.png",
+    "Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Rotación Derecha.png",
+    "Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Rotación Izquierda.png",
+    "Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Obsidian/Grafica Funciones/Hiperboloide.png",
-    "Captura de pantalla 2023-07-21 a la(s) 22.48.56.png.md",
-    "Derividas.md",
-    "Límite.md",
-    "Obsidian/Grafica Funciones",
-    "Calculo/Calculo 2",
-    "sa,dfjahsdas.md",
-    "adsdasdas.md",
-    "Hola.md",
-    "Estructuras.md"
+    "Estructura de Datos/Estructura de Datos/Assets/LIFO-Stack.png",
+    "Estructura de Datos/Estructura de Datos/Assets/theta-notation.png",
+    "Estructura de Datos/Estructura de Datos/Assets/queue-2.png",
+    "Estructura de Datos/Estructura de Datos/Assets/queue.png",
+    "Estructura de Datos/Estructura de Datos/Data Structures/Queues",
+    "Estructura de Datos/Estructura de Datos/Data Structures"
   ]
 }
