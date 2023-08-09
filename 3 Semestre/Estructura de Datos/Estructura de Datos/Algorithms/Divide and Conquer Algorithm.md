@@ -21,4 +21,4 @@ Use the divide and conquer approach when the same subproblem is not solved multi
 -   The complexity for the multiplication of two matrices using the naive method is O(n3), whereas using the divide and conquer approach (i.e. Strassen's matrix multiplication) is O(n2.8074). This approach also simplifies other problems, such as the Tower of Hanoi.
 -   This approach is suitable for multiprocessing systems.
 -   It makes efficient use of memory caches.
-- Hi
+- Hi how are you

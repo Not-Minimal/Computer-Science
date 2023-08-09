@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithms/Divide and Conquer Algorithm.md",
+                "file": "Learn Java/Scanning Input.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithms/Divide and Conquer Algorithm.md",
+                "file": "Learn Java/Scanning Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithms/Divide and Conquer Algorithm.md",
+                "file": "Learn Java/Scanning Input.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithms/Divide and Conquer Algorithm.md"
+                "file": "Learn Java/Scanning Input.md"
               }
             }
           },
@@ -146,11 +146,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +165,15 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "346cb68ca49aa058",
   "lastOpenFiles": [
+    "Learn Java/Main.class",
+    "Learn Java/hotel.java",
+    "Malla Curricular.canvas",
+    "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Estructura del Nodo.md",
+    "Learn Java/Scanning Input.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithms/Divide and Conquer Algorithm.md",
+    "Learn Java",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithm.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Queue.md",
     "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf",
@@ -176,9 +184,6 @@
     "TopSecret/Administración General/Material Complementario/Guia de Fondos/Guía de Fondos Digital Final.pdf",
     "TopSecret/Administración General/Material Complementario/Guia de Fondos/Hagalo Simple.pdf",
     "TopSecret/Administración General/Material Complementario/Desarrollo Foda/FODA.pdf",
-    "TopSecret/Administración General/Material Complementario/Apoyo Financiero/Financiamiento Empresas Chile 2017.pdf",
-    "TopSecret/Actividades Extraprogramáticas/Apreciación Artística/Trabajo 1 - Pablo Montoya.pdf",
-    "Malla Curricular.canvas",
     "3 Semestre/Calculo/Formulas/Formulas Generales.md",
     "3 Semestre/Calculo/Calculo 2.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Stack.md",
@@ -199,10 +204,6 @@
     "6 Semestre/Formulación y Evaluación de Proyectos.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos.md",
     "2 Semestre/Algoritmos y Programación.md",
-    "3 Semestre/Estadistica y Probabilidades.md",
-    "2 Semestre/Algebra 2.md",
-    "1 Semestre/Algebra I.md",
-    "8 Semestre/Formación Integral Extra.md",
     "3 Semestre/Organigrama.canvas",
     "3 Semestre/Pasted image 20230730111455.png",
     "3 Semestre/Calculo/Mapa Mental.canvas",
