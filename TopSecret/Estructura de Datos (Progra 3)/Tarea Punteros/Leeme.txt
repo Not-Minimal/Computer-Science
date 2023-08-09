@@ -1,0 +1,54 @@
+Preguntas.
+
+1.1.-
+	int *valor_1, *valor_2;
+	valor_1 = valor_2;
+	valor_2 = (int*)malloc(sizeof(int)) ;
+	*valor_2 = 5;
+	printf("%d", *valor_1);
+
+	A) Imprime 5.
+	B) Imprime 6.
+	C) Imprime 7.
+	D) Ninguna de las anteriores.
+
+Respuesta: D, Ninguna de las anteriores.
+
+1.2.-
+	int valor_1 = 5, valor_2=1 ;
+	valor_1 = &valor_2;
+	printf("%d", valor_1);
+
+	A) Imprime 5.
+	B) Imprime 7.
+	C) Imprime 1.
+	D) Ninguna de las anteriores.
+
+Respuesta: D, Ninguna de las anteriores.
+
+1.3.-
+	int v[] = {1, 2, 3 ,4 , 5, 6, 7};
+	int *aux = (v + 4) ;
+	printf("%d", *(aux + 1));
+	
+	A) Imprime 4.
+	B) Imprime 5.
+	C) Imprime 6.
+	D) Ninguna de las anteriores.
+
+Respuesta: C, Imprime 6.
+
+1.4.-
+	int *aux1, aux2= 1;
+	aux1 = (int*)malloc(sizeof(int)) ;
+	*aux1 = 0;
+	aux1 = &aux2;
+	aux2++;
+	printf("%d", *aux1);
+
+	A) Imprime 1.
+	B) Imprime 2.
+	C) Imprime 3.
+	D) Ninguna de las anteriores.
+
+Respuesta: C, Imprime 2.

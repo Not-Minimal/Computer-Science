@@ -1,0 +1,38 @@
+Arreglos con punteros.
+
+int *Arreglo;	//Largo del arreglo no se define.
+
+Arreglo = (int*)malloc(sizeof(int)* LARGO_ARREGLO );	//Acá se define el largo del arreglo.
+
+
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~
+
+/* Guardar valores en el arreglo. */
+
+*(Arreglo + POSICION) = VALOR;
+
+for(i=0; i<LARGO_ARREGLO ;i++){
+
+	*(Arreglo + i) = Valor;
+
+}							++
+
+for(i=0; i<LARGO_ARREGLO ;i++){
+
+	printf("[%d]", *(Arreglo+i));
+
+}
+
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ 
+
+//Cuando se envia arreglo a funcion se manda desde la posición 0
+
+funcion(ARREGLO); || funcion(ARREGLO + Valor);
+
+~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~ * ~
+
+Funcion que retorne una dirección
+
+int*
+
+Retorna una dirección de memoria.

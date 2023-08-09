@@ -1,0 +1,20 @@
+# ------------- Datos del Alumno. -------------#
+
+Nombre: Pablo Israel Montoya Gutiérrez.
+Rut : 20.259.152-3
+Carrera: Ingeniería de Ejecución en Computación e Informática.
+Asignatura: Arquitectura de Computadores.
+Profesor: Patricio Galdames.
+
+# -------------------------------------------- #
+
+• Se agregó un informe donde se detalla la idea que se siguió para desarrollar
+los ejercicios solicitados y donde se encuentran también las preguntas de la
+parte 1 de la tarea 2.
+
+• El código de la tarea 1 implementando la función se encuentra en la carpeta
+"Ejercicios" con el nombre "Tarea1.s", el código sin la función implementada 
+que se pidió en la parte 1 de la tarea se encuentra en el informe hecho.
+
+• Las respuestas de la tarea 2 se encuentran en el informe. El código de la tarea 2
+se encuentra en la carpeta "Ejercicios" con el nombre "Tarea2.s"

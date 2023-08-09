@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "62268d5707ac7ca0",
+        "id": "253cd448ec2c5509",
         "type": "tabs",
         "children": [
           {
-            "id": "8547ad17cf83fad8",
+            "id": "6c8703e2effded9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf"
+              }
             }
           }
         ]
@@ -44,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "*",
+                "query": "tag:#Observación",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 217.5
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf"
+              }
             }
           },
           {
@@ -134,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,58 +155,60 @@
       "audio-recorder:Empezar/Parar de grabar": false
     }
   },
-  "active": "8547ad17cf83fad8",
+  "active": "90bf927dd7af94f5",
   "lastOpenFiles": [
-    "Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Arboles Balanceados.md",
-    "Estructura de Datos/Materia/4. Arboles/Árbol Binario Completo.md",
-    "Estructura de Datos/Materia/4. Arboles/Árbol Binario.md",
-    "Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
-    "Estructura de Datos/Materia/7. Heap/Heap.md",
-    "Calculo/Materia/Regla de L'Hopital.md",
-    "Calculo/Formulas/Formulas Generales.md",
-    "Estructura de Datos/Estructura de Datos/Data Structure.md",
-    "Estructura de Datos/Materia/4. Arboles/Operaciones/Insertar Nodo.md",
-    "Estructura de Datos/Materia/4. Arboles/Operaciones/Eliminar Nodo.md",
-    "Estructura de Datos/Materia/4. Arboles/Operaciones",
-    "Pasted image 20230730111455.png",
-    "Calculo/Mapa Mental.canvas",
-    "Calculo/Materia/Basico/Topología.md",
-    "Estructura de Datos/Tareas/Tarea 2/Mapa Mental.canvas",
-    "Estructura de Datos/Tareas/Tarea 2/Función Liberar Memoria.md",
-    "Estructura de Datos/Tareas/Tarea 2/Estructura del Nodo.md",
-    "Estructura de Datos/Materia/1. Punteros/Funciones en C.md",
-    "Estructura de Datos/Arboles y Rotaciones.canvas",
-    "Estructura de Datos/Tareas/Tarea 2/Función Valor Minimo.md",
-    "Estructura de Datos/Tareas/Tarea 2/Función Inicializar.md",
-    "Estructura de Datos/Tareas/Tarea 2/Función Inserción.md",
-    "Estructura de Datos/Tareas/Tarea 2/Función Mostrar.md",
-    "Estructura de Datos/Tareas/Tarea 2/Función Búsqueda N°Reserva.md",
-    "Estructura de Datos/Tareas/Tarea 2/Función Búsqueda por Destino.md",
-    "Estructura de Datos/Tareas/Tarea 2/Función Eliminación.md",
-    "Estructura de Datos/Tareas/Tarea 2/Función Menu.md",
-    "Estructura de Datos/Tareas/Tarea 2/Función Principal.md",
+    "TopSecret/Inglés I/Unit 1-2.pdf",
+    "TopSecret/Economía/Principios de Economía.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.1 - Teoria de Automatas.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/1 - Introduccion Analisis de Algoritmos y Teoria de Automatas.pdf",
+    "TopSecret/Administración General/Material Complementario/Guia de Fondos/Guía de Fondos Digital Final.pdf",
+    "TopSecret/Administración General/Material Complementario/Guia de Fondos/Hagalo Simple.pdf",
+    "TopSecret/Administración General/Material Complementario/Desarrollo Foda/FODA.pdf",
+    "TopSecret/Administración General/Material Complementario/Apoyo Financiero/Financiamiento Empresas Chile 2017.pdf",
+    "TopSecret/Actividades Extraprogramáticas/Apreciación Artística/Trabajo 1 - Pablo Montoya.pdf",
+    "Recording 20230808221006.webm",
+    "Recording 20230808220951.webm",
+    "Malla Curricular.canvas",
+    "3 Semestre/Calculo/Formulas/Formulas Generales.md",
+    "3 Semestre/Calculo/Calculo 2.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Stack.md",
+    "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Función Valor Minimo.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Queue.md",
+    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+    "6 Semestre/Ingles 3.md",
+    "5 Semestre/Ingles 2.md",
+    "4 Semestre/Ingles/Ingles.md",
+    "7 Semestre/Practica Profesional 2.md",
+    "5 Semestre/Sistemas de Información.md",
+    "3 Semestre/Administración General.md",
+    "5 Semestre/Sistemas Financieros y Contables.md",
+    "3 Semestre/Economía.md",
+    "2 Semestre/Cálculo 1.md",
+    "2 Semestre/Estructuras Discretas para Ciencias de la Computación.md",
+    "1 Semestre/Algoritmos y Bases de la Programación.md",
+    "7 Semestre/Gestión Empresarial.md",
+    "6 Semestre/Formulación y Evaluación de Proyectos.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos.md",
+    "2 Semestre/Algoritmos y Programación.md",
+    "3 Semestre/Estadistica y Probabilidades.md",
+    "2 Semestre/Algebra 2.md",
+    "1 Semestre/Algebra I.md",
+    "8 Semestre/Formación Integral Extra.md",
+    "3 Semestre/Organigrama.canvas",
+    "3 Semestre/Pasted image 20230730111455.png",
+    "3 Semestre/Calculo/Mapa Mental.canvas",
+    "3 Semestre/Estructura de Datos/Arboles y Rotaciones.canvas",
+    "3 Semestre/Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Rotación Izquierda.png",
+    "3 Semestre/Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Rotación Derecha.png",
+    "3 Semestre/Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Arbol Balanceado.png",
+    "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Mapa Mental.canvas",
     "Estructura de Datos/Tareas/Tarea 2/Untitled 1.canvas",
-    "Estructura de Datos/Tareas/Tarea 2",
-    "Estructura de Datos/Tareas/Tarea 1",
-    "Estructura de Datos/Tareas",
-    "Calculo/Ejercicios Resueltos/Ejercicios Resueltos.md",
-    "Estructura de Datos/Materia/7. Heap/Imagenes/Comparaciones Heap.png",
-    "Calculo/Materia/Basico/Límite.md",
-    "Calculo/Materia/Basico/Derivadas.md",
-    "Estructura de Datos/Materia/8. Hash",
-    "Estructura de Datos/Materia/7. Heap/Imagenes",
-    "Estructura de Datos/Materia/7. Heap/Imagenes/Heap Structure.png",
-    "Estructura de Datos/Materia/7. Heap",
-    "Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Arbol Balanceado.png",
-    "Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Rotación Derecha.png",
-    "Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Rotación Izquierda.png",
-    "Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes",
+    "3 Semestre/Estructura de Datos/Materia/7. Heap/Imagenes/Comparaciones Heap.png",
+    "3 Semestre/Estructura de Datos/Materia/7. Heap/Imagenes/Heap Structure.png",
     "Untitled 1.canvas",
-    "Estructura de Datos/Estructura de Datos/Assets/LIFO-Stack.png",
-    "Estructura de Datos/Estructura de Datos/Assets/theta-notation.png",
-    "Estructura de Datos/Estructura de Datos/Assets/queue-2.png",
-    "Estructura de Datos/Estructura de Datos/Assets/queue.png",
-    "Estructura de Datos/Estructura de Datos/Data Structures/Queues",
-    "Estructura de Datos/Estructura de Datos/Data Structures"
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/LIFO-Stack.png",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/theta-notation.png",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/queue-2.png",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/queue.png"
   ]
 }

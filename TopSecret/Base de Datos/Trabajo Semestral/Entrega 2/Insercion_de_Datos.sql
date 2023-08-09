@@ -1,0 +1,100 @@
+Insert into Pais values -- 1
+(1,'CHILE','SANTIAGO'),
+(2,'ALEMANIA','BERLIN'),
+(3,'FRANCIA','PARIS');
+
+Insert into Hotel values -- 2
+(10,'EL ARAUCANO'),
+(11,'ALONSO DE ERCILLA'),
+(12,'ALBORADA');
+
+Insert into Categoria values -- 3
+(100,'INDIVIDUAL'),
+(101,'COLECTIVO'),
+(102,'AMISTOSO');
+
+Insert into Medalla values -- 4
+(110,'ORO'),
+(111,'PLATA'),
+(112,'BRONCE');
+
+Insert into Deporte values -- 5
+(200,'NATACION'),
+(201,'HOCKEY'),
+(202,'ESGRIMA');
+
+Insert into Ciudad values -- 6
+(210, 1, 'CONCEPCION'),
+(211, 1, 'TALCAHUANO'),
+(212, 1, 'SAN PEDRO DE LA PAZ');
+
+Insert into Recinto values -- 7
+(500, 210, 'ESTADIO COLLAO', 30448),
+(501, 211, 'LA TORTUGA', 10000),
+(502, 211, 'CLUB HUACHIPATO', 1000);
+
+Insert into Delegacion values -- 8
+(1000, 1, 'TEAM CHILE'),
+(1001, 2, 'TEAM GER'),
+(1002, 1, 'ACADEMIA AUSTRAL');
+
+Insert into Competencia values -- 9
+(1100, 100, 502, 200, 'FINAL N', 10, '2016-08-10'),
+(1101, 101, 502, 201, 'FINAL H', 10, '2016-08-10'),
+(1102, 100, 501, 202, 'FINAL E', 10, '2016-08-08'),
+(1103, 100, 501, 202, 'FINAL ESGRIMA', 10, '2016-08-18'),
+(1104, 100, 501, 201, 'FINAL HOCKEY', 10, '2016-08-20');
+
+Insert into PreCompetencia values -- 10
+(1500, 1100, 502, 'CLASIFICATORIA N', '2016-08-02'),
+(1501, 1101, 502, 'CLASIFICATORIA H', '2016-08-02'),
+(1502, 1102, 501, 'CLASIFICATORIA E', '2016-08-02');
+
+Insert into Atleta values -- 11
+(10000, 1002, 'FABIAN', 'GUTIERREZ', 'CHILENA'),
+(10001, 1001, 'UDO', 'LINDEMANN', 'ALEMANA'),
+(10002, 1000, 'PABLO', 'MONTOYA', 'CHILENA'),
+(10003, 1000, 'PABLO', 'RIQUELME', 'CHILENA'),
+(10004, 1000, 'NICOLAS', 'ROBLES', 'CHILENA'),
+(10005, 1000, 'HUGO', 'MARCHANT', 'CHILENA'),
+(10006, 1000, 'BENJAMIN', 'CONTRERAS', 'CHILENA'),
+(10007, 1000, 'SAMUEL', 'SANHUEZA', 'CHILENA'),
+(10008, 1000, 'TOMAS', 'MONTECINOS', 'CHILENA'),
+(10009, 1000, 'SANTIAGO', 'DIAZ', 'CHILENA'),
+(10010, 1000, 'AGUSTIN', 'ROJAS', 'CHILENA'),
+(10011, 1000, 'LUCAS', 'TOLEDO', 'CHILENA'),
+(10012, 1000, 'GASPAR', 'SEPULVEDA', 'CHILENA'),
+(10013, 1000, 'ALONSO', 'MARTINEZ', 'CHILENA'),
+(10014, 1000, 'VICENTE', 'RODRIGUEZ', 'CHILENA'),
+(10015, 1000, 'MAXIMILIANO', 'FERNANDEZ', 'CHILENA'),
+(10016, 1000, 'JOAQUIN', 'GARCIA', 'CHILENA'),
+(10017, 1000, 'MATEO', 'GONZALEZ', 'CHILENA');
+
+Insert into Representa values -- 12
+(10000, 1000),
+(10001, 1001),
+(10002, 1002);
+
+Insert into Precompite values -- 13
+(10000, 1500),
+(10001, 1500),
+(10002, 1500);
+
+Insert into Compite values -- 14
+(10001, 1100, 10, '2016-08-10'),
+(100004, 1101, 10, '2016-08-18'),
+(100007, 1102, 10, '2016-08-20'),
+(10002, 1100, 10, '2016-08-10');
+
+Insert into Obtiene values -- 15
+(111, 10001, 1100),
+(110, 100004, 1101),
+(110, 100007, 1102),
+(112, 10002, 1100);
+
+Insert into Alojan values -- 16
+(1000, 10, '2016-08-01', '2016-08-31'),
+(1001, 11, '2016-08-01', '2016-08-31'),
+(1002, 12, '2016-08-01', '2016-08-31');
+
+-- Fin insercion

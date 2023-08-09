@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"Gerente de Compras","id":"e94ab6f0adf8504c","x":180,"y":140,"width":250,"height":60},
+		{"type":"text","text":"Gerente de Ventas","id":"e86f5e77220ad87c","x":-90,"y":140,"width":250,"height":60},
+		{"type":"text","text":"Gerente de Marketing","id":"5624292b01d02374","x":-360,"y":140,"width":250,"height":60},
+		{"type":"text","text":"Gerente de RRHH","id":"9bfa6bb4a6b05dcc","x":460,"y":140,"width":250,"height":60},
+		{"type":"text","text":"Gerente de Servicio al Cliente","id":"7a941393b64fa000","x":740,"y":140,"width":250,"height":60},
+		{"type":"text","text":"Gerente de Marketing Digital","id":"8cbd30657c703deb","x":1020,"y":140,"width":250,"height":60},
+		{"type":"text","text":"Gerente de Proyectos","id":"bc50ee83ae2835a6","x":1300,"y":140,"width":250,"height":60},
+		{"type":"text","text":"Personal de Proyectos","id":"c865ad33161664d2","x":1300,"y":260,"width":250,"height":60},
+		{"type":"text","text":"Gerencial General","id":"1dc19101c2552091","x":460,"y":-120,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0b3536d44d07bfde","fromNode":"1dc19101c2552091","fromSide":"bottom","toNode":"5624292b01d02374","toSide":"top"},
+		{"id":"642bad8189d24a82","fromNode":"1dc19101c2552091","fromSide":"bottom","toNode":"e86f5e77220ad87c","toSide":"top"},
+		{"id":"37f7aa5a6f14cd93","fromNode":"1dc19101c2552091","fromSide":"bottom","toNode":"e94ab6f0adf8504c","toSide":"top"},
+		{"id":"f1f282df619951aa","fromNode":"1dc19101c2552091","fromSide":"bottom","toNode":"9bfa6bb4a6b05dcc","toSide":"top"},
+		{"id":"1d9696a7a05a0a6c","fromNode":"1dc19101c2552091","fromSide":"bottom","toNode":"7a941393b64fa000","toSide":"top"},
+		{"id":"a45677c5e8297504","fromNode":"1dc19101c2552091","fromSide":"bottom","toNode":"8cbd30657c703deb","toSide":"top"},
+		{"id":"62d4f559fd763c09","fromNode":"1dc19101c2552091","fromSide":"bottom","toNode":"bc50ee83ae2835a6","toSide":"top"},
+		{"id":"260995f2c7685ebf","fromNode":"bc50ee83ae2835a6","fromSide":"bottom","toNode":"c865ad33161664d2","toSide":"top"}
+	]
+}
