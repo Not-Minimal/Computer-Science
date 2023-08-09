@@ -11,9 +11,11 @@
             "id": "6c8703e2effded9d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "diff-view",
               "state": {
-                "file": "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf"
+                "file": "3 Semestre/Taller Ejercicio Fisico.md",
+                "staged": false,
+                "hash": "59b96e7714bab5f77256f265d157555009ed551d"
               }
             }
           }
@@ -83,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -134,14 +132,21 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "96507a6f4d57897b",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,12 +156,13 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "audio-recorder:Empezar/Parar de grabar": false
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "96507a6f4d57897b",
   "lastOpenFiles": [
+    "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf",
     "TopSecret/Inglés I/Unit 1-2.pdf",
     "TopSecret/Economía/Principios de Economía.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.1 - Teoria de Automatas.pdf",
@@ -167,7 +173,6 @@
     "TopSecret/Administración General/Material Complementario/Apoyo Financiero/Financiamiento Empresas Chile 2017.pdf",
     "TopSecret/Actividades Extraprogramáticas/Apreciación Artística/Trabajo 1 - Pablo Montoya.pdf",
     "Recording 20230808221006.webm",
-    "Recording 20230808220951.webm",
     "Malla Curricular.canvas",
     "3 Semestre/Calculo/Formulas/Formulas Generales.md",
     "3 Semestre/Calculo/Calculo 2.md",
