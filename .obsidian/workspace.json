@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "253cd448ec2c5509",
+        "id": "be65d53a73c96145",
         "type": "tabs",
         "children": [
           {
-            "id": "6c8703e2effded9d",
+            "id": "346cb68ca49aa058",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "3 Semestre/Taller Ejercicio Fisico.md",
-                "staged": false,
-                "hash": "59b96e7714bab5f77256f265d157555009ed551d"
+                "file": "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithms/Divide and Conquer Algorithm.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Observación",
+                "query": "tag:#Algorithms",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithms/Divide and Conquer Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithms/Divide and Conquer Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithms/Divide and Conquer Algorithm.md"
+              }
             }
           },
           {
@@ -142,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,8 +164,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "96507a6f4d57897b",
+  "active": "90bf927dd7af94f5",
   "lastOpenFiles": [
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithm.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Queue.md",
     "TopSecret/I.A 2021 - 2/Mundos_Virtuales_IA_Clemente_Rubio_Manzano.pdf",
     "TopSecret/Inglés I/Unit 1-2.pdf",
     "TopSecret/Economía/Principios de Economía.pdf",
@@ -172,13 +178,11 @@
     "TopSecret/Administración General/Material Complementario/Desarrollo Foda/FODA.pdf",
     "TopSecret/Administración General/Material Complementario/Apoyo Financiero/Financiamiento Empresas Chile 2017.pdf",
     "TopSecret/Actividades Extraprogramáticas/Apreciación Artística/Trabajo 1 - Pablo Montoya.pdf",
-    "Recording 20230808221006.webm",
     "Malla Curricular.canvas",
     "3 Semestre/Calculo/Formulas/Formulas Generales.md",
     "3 Semestre/Calculo/Calculo 2.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Stack.md",
     "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Función Valor Minimo.md",
-    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Queue.md",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "6 Semestre/Ingles 3.md",
     "5 Semestre/Ingles 2.md",
