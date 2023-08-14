@@ -30,3 +30,5 @@ Do not confuse these literals:
 - `'A'` is a character, `"A"` is a string;
     
 - `'1'` is a character, `1` is an integer number.
+
+[[The Basic of a Program]]

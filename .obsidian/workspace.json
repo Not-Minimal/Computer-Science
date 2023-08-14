@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be65d53a73c96145",
+        "id": "2506823b3e766388",
         "type": "tabs",
         "children": [
           {
-            "id": "346cb68ca49aa058",
+            "id": "24e5a4af6415eb99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Scanning Input.md",
+                "file": "Learn Java/Integer Types and Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Algorithms",
+                "query": "tag:#asymptotic-notations",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Scanning Input.md",
+                "file": "Learn Java/Integer Types and Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Scanning Input.md",
+                "file": "Learn Java/Integer Types and Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Scanning Input.md"
+                "file": "Learn Java/Integer Types and Operations.md"
               }
             }
           },
@@ -165,13 +165,22 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "346cb68ca49aa058",
+  "active": "24e5a4af6415eb99",
   "lastOpenFiles": [
+    "Learn Java/Printing Data.md",
+    "Learn Java/Integer Types and Operations.md",
+    "Learn Java/Arithmmetic Operations.md",
+    "Malla Curricular.canvas",
     "Learn Java/Basic Literals.md",
     "Learn Java/Scanning Input.md",
+    "Learn Java/The Basic of a Program.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Asymptotic Analysis.md",
+    "3 Semestre/Calculo 2.md",
+    "Ingenieria-Informatica/LICENSE",
+    "Ingenieria-Informatica/README.md",
+    "Ingenieria-Informatica",
     "Learn Java/Main.class",
     "Learn Java/hotel.java",
-    "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Estructura del Nodo.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithms/Divide and Conquer Algorithm.md",
     "Learn Java",
@@ -182,8 +191,6 @@
     "TopSecret/Economía/Principios de Economía.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.1 - Teoria de Automatas.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/1 - Introduccion Analisis de Algoritmos y Teoria de Automatas.pdf",
-    "TopSecret/Administración General/Material Complementario/Guia de Fondos/Guía de Fondos Digital Final.pdf",
-    "TopSecret/Administración General/Material Complementario/Guia de Fondos/Hagalo Simple.pdf",
     "3 Semestre/Calculo/Formulas/Formulas Generales.md",
     "3 Semestre/Calculo/Calculo 2.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Stack.md",
@@ -197,13 +204,6 @@
     "3 Semestre/Administración General.md",
     "5 Semestre/Sistemas Financieros y Contables.md",
     "3 Semestre/Economía.md",
-    "2 Semestre/Cálculo 1.md",
-    "2 Semestre/Estructuras Discretas para Ciencias de la Computación.md",
-    "1 Semestre/Algoritmos y Bases de la Programación.md",
-    "7 Semestre/Gestión Empresarial.md",
-    "6 Semestre/Formulación y Evaluación de Proyectos.md",
-    "3 Semestre/Estructura de Datos/Estructura de Datos.md",
-    "2 Semestre/Algoritmos y Programación.md",
     "3 Semestre/Organigrama.canvas",
     "3 Semestre/Pasted image 20230730111455.png",
     "3 Semestre/Calculo/Mapa Mental.canvas",
