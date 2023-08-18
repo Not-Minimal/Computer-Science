@@ -11,11 +11,14 @@
             "id": "4f6fd2f9bf11e42a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Learn Java/Basic Literals.md",
-                "mode": "source",
-                "source": false
+                "file": "3 Semestre/Calculo 2/Mapa Mental.canvas",
+                "viewState": {
+                  "x": 1880,
+                  "y": -305,
+                  "zoom": -3.3883818672777912
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Basic Literals.md",
+                "file": "3 Semestre/Calculo 2/Mapa Mental.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Basic Literals.md",
+                "file": "3 Semestre/Calculo 2/Mapa Mental.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Basic Literals.md"
+                "file": "3 Semestre/Calculo 2/Mapa Mental.canvas"
               }
             }
           },
@@ -164,8 +167,15 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "4f6fd2f9bf11e42a",
   "lastOpenFiles": [
+    "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
+    "3 Semestre/Calculo 2/Mapa Mental.canvas",
+    "3 Semestre/Calculo 2/Formulas/Formulas Generales.md",
+    "3 Semestre/Calculo 2/Formulas/Formulas Limite Iterado.md",
+    "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 2.png",
+    "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 1.png",
+    "Learn Java/Basic Literals.md",
     "3 Semestre/Calculo 2/Materia/Basico/Topología.md",
     "3 Semestre/Calculo 2/Materia/Basico/Límite.md",
     "3 Semestre/Calculo 2/Materia/Basico/Función.md",
@@ -183,17 +193,11 @@
     "3 Semestre/Calculo 2/Grafica Funciones/Idea Limite Iterado.png",
     "3 Semestre/Calculo 2/Grafica Funciones/Hiperboloide.png",
     "3 Semestre/Calculo 2/Formulas/Formulas Usuales.md",
-    "3 Semestre/Calculo 2/Formulas/Formulas Limite Iterado.md",
-    "3 Semestre/Calculo 2/Formulas/Formulas Generales.md",
     "3 Semestre/Calculo 2/Ejercicios Resueltos/Ejercicios Resueltos.md",
-    "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 2.png",
-    "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 1.png",
     "3 Semestre/Calculo 2/Calendario/22-07-2023.md",
     "3 Semestre/Calculo 2/Calendario/21-07-2023.md",
     "3 Semestre/Calculo 2/README.md",
     "3 Semestre/Calculo 2/Materia",
-    "3 Semestre/Calculo 2/Mapa Mental.canvas",
-    "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
     "3 Semestre/Calculo 2/Grafica Funciones",
     "3 Semestre/Calculo 2/Formulas",
     "3 Semestre/Calculo 2/Ejercicios Resueltos",
@@ -210,8 +214,6 @@
     "Learn Java/Relational Operators.md",
     "Learn Java/Integer Types and Operations.md",
     "Learn Java/Conditional Statement.md",
-    "Learn Java/Comments.md",
-    "Learn Java/Calling a Method.md",
     "Malla Curricular.canvas",
     "3 Semestre/Organigrama.canvas",
     "3 Semestre/Pasted image 20230730111455.png",
