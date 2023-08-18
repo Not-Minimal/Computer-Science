@@ -102,3 +102,5 @@ See? No more lines need to be changed in this code.
 ##### Conclusion
 
 In this topic, you learned about using integer types `int` and `long` to perform various arithmetic operations. Now you have enough knowledge to write useful programs that process data. You may use the template above for solving this topic's code challenges. Try to give meaningful names to variables when solving problems.
+
+[[The While and Do-While Loops]]

@@ -32,3 +32,4 @@ Do not confuse these literals:
 - `'1'` is a character, `1` is an integer number.
 
 [[The Basic of a Program]]
+[[Types and Variables]]

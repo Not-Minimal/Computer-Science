@@ -67,4 +67,4 @@ This is one of the most important things to understand from the **Hello World**
 
 It is important that **"Hello, World!"** is not a keyword or an identifier; it is just a text to be printed.
 
-[[Scanning Input]]
+[[1. Scanning Input]]
