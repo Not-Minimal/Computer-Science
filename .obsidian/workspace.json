@@ -164,7 +164,8 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Empezar/Parar de grabar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "4f6fd2f9bf11e42a",
