@@ -164,11 +164,10 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Empezar/Parar de grabar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian42-brat:BRAT": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "4f6fd2f9bf11e42a",
+  "active": "c7777b4f2211917a",
   "lastOpenFiles": [
     "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
     "3 Semestre/Calculo 2/Mapa Mental.canvas",
