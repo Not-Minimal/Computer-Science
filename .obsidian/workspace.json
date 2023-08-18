@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Semestre/Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
+                "file": "Branching Statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 200.5
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Semestre/Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
+                "file": "Branching Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Semestre/Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
+                "file": "Branching Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Semestre/Estructura de Datos/Materia/7. Heap/Introducción Heap.md"
+                "file": "Branching Statements.md"
               }
             }
           },
@@ -165,8 +165,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "4f6fd2f9bf11e42a",
   "lastOpenFiles": [
+    "3 Semestre/Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
+    "Branching Statements.md",
     "3 Semestre/Estructura de Datos/Materia/9. Arboles B/Apunte.Árboles B.pdf",
     "3 Semestre/Estructura de Datos/Materia/Arboles B/Sin confirmar 863055.crdownload",
     "3 Semestre/Estructura de Datos/Materia/7. Heap/heaps.pdf",
@@ -181,10 +183,9 @@
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Árbol Binario Completo.md",
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Árbol Binario.md",
     "3 Semestre/Estructura de Datos/Materia/2. Listas Lineales/Listas Lineales.pdf",
-    "3 Semestre/Estructura de Datos/Materia/4. Arboles/2. Árboles Binarios.pdf",
     "3 Semestre/Estructura de Datos/Materia/1. Punteros/Funciones en C.md",
-    "Increment and Decrement.md",
-    "Ternary Operator.md",
+    "Learn Java/Ejercicios/Increment and Decrement.md",
+    "Learn Java/Ejercicios/Ternary Operator.md",
     "Learn Java/Conditional Statement.md",
     "3 Semestre/Taller Ejercicio Fisico.md",
     "3 Semestre/Resumen Certamen 2.md",
@@ -208,7 +209,6 @@
     "3 Semestre/Calculo 2/Materia/Limites Iterados.md",
     "3 Semestre/Calculo 2/Materia/Limite y Continuidad.md",
     "3 Semestre/Calculo 2/Materia/Limite Funciones de Varias Variables.md",
-    "3 Semestre/Calculo 2/Materia/Continuidad.md",
     "3 Semestre/Calculo 2/Grafica Funciones/Subconjunto y Limites.png",
     "3 Semestre/Calculo 2/Grafica Funciones/SenCos.png",
     "3 Semestre/Calculo 2/Grafica Funciones/Paraboloide.png",
