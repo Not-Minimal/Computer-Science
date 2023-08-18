@@ -1,4 +1,4 @@
-## Informe de la carrera de Ingeniería Informática
+## Ingeniería Informática
 
 La carrera de Ingeniería Informática es una carrera de pregrado que se enfoca en el diseño, desarrollo e implementación de sistemas informáticos. Los estudiantes de esta carrera aprenden sobre una amplia gama de temas, incluyendo matemáticas, ciencias de la computación, ingeniería de software y arquitectura de computadoras.
 

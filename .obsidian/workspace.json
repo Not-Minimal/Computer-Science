@@ -11,14 +11,11 @@
             "id": "4f6fd2f9bf11e42a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3 Semestre/Calculo 2/Mapa Mental.canvas",
-                "viewState": {
-                  "x": 1880,
-                  "y": -305,
-                  "zoom": -3.3883818672777912
-                }
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Semestre/Calculo 2/Mapa Mental.canvas",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Semestre/Calculo 2/Mapa Mental.canvas",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Semestre/Calculo 2/Mapa Mental.canvas"
+                "file": "Readme.md"
               }
             }
           },
@@ -167,10 +164,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "c7777b4f2211917a",
+  "active": "4f6fd2f9bf11e42a",
   "lastOpenFiles": [
-    "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
     "3 Semestre/Calculo 2/Mapa Mental.canvas",
+    "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
     "3 Semestre/Calculo 2/Formulas/Formulas Generales.md",
     "3 Semestre/Calculo 2/Formulas/Formulas Limite Iterado.md",
     "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 2.png",
