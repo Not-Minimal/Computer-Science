@@ -111,3 +111,5 @@ The picture below demonstrates such a tree for the example with computers.
 
   
 This example completes our examination of conditional statements.
+
+[[Ternary Operator]]
