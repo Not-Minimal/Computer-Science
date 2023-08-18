@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"type":"text","text":"Funciones de Varias Variables\n$$f(x,x_0,...,x_n)$$","id":"e8f6cf533075706e","x":-200,"y":-120,"width":250,"height":140,"color":"1"},
+		{"type":"file","file":"Calculo/Materia/Basico/Topología.md","id":"0ee6d4b5780d19b6","x":160,"y":-1480,"width":670,"height":1017},
+		{"type":"file","file":"Calculo/Formulas/Formulas Generales.md","id":"dcb67059dc063757","x":960,"y":-1480,"width":670,"height":1017},
+		{"type":"file","file":"Calculo/Materia/Limite Funciones de Varias Variables.md","id":"224c9d46daf8a970","x":160,"y":-350,"width":670,"height":1220},
+		{"type":"file","file":"Calculo/Formulas/Formulas Limite Iterado.md","id":"eb1ba68be67f1e4b","x":960,"y":110,"width":670,"height":760},
+		{"type":"file","file":"Calculo/Formulas/Formulas Usuales.md","id":"4a896311fa8c7832","x":960,"y":-350,"width":670,"height":400},
+		{"type":"file","file":"Calculo/Materia/Continuidad.md","id":"73ac7aa9e38ca645","x":1760,"y":-350,"width":575,"height":1220},
+		{"type":"text","text":"$$f(x,y) = sin(x)cos(y)$$","id":"e92e665ed4e8c4b1","x":2380,"y":-971,"width":310,"height":100},
+		{"type":"file","file":"Calculo/Grafica Funciones/SenCos.png","id":"8c784fc0b5da3908","x":2380,"y":-811,"width":310,"height":199},
+		{"type":"text","text":"$$f(x,y) = \\frac{1}{(x^2 + y^2)}$$\n","id":"05fcda3d20f111f1","x":1760,"y":-971,"width":310,"height":100},
+		{"type":"text","text":"Gráficas Usuales","id":"c79d8b95716db901","x":2080,"y":-1311,"width":250,"height":60},
+		{"type":"text","text":"$$f(x,y)=x^2+y^2$$\n","id":"e2c452db6d7e9dd4","x":2080,"y":-971,"width":290,"height":100},
+		{"type":"file","file":"Calculo/Grafica Funciones/Paraboloide.png","id":"67a3c42999b78e07","x":2080,"y":-811,"width":290,"height":199},
+		{"type":"file","file":"Calculo/Grafica Funciones/Hiperboloide.png","id":"5057b8cf2cafe523","x":1760,"y":-811,"width":310,"height":199},
+		{"type":"file","file":"Calculo/Materia/Limite y Continuidad.md","id":"8356762200f0bff4","x":2480,"y":-350,"width":680,"height":1220},
+		{"type":"file","file":"Calculo/Ejercicios Resueltos/Ejercicios Resueltos.md","id":"fee38e4a9a0ce8fc","x":3320,"y":-350,"width":640,"height":1220},
+		{"type":"file","file":"Calculo/Materia/Regla de L'Hopital.md","id":"01a189a261ff83d6","x":2810,"y":-1480,"width":830,"height":1017}
+	],
+	"edges":[
+		{"id":"a7e59375c22bd5d5","fromNode":"0ee6d4b5780d19b6","fromSide":"right","toNode":"dcb67059dc063757","toSide":"left"},
+		{"id":"63a469cf2be20119","fromNode":"e8f6cf533075706e","fromSide":"right","toNode":"0ee6d4b5780d19b6","toSide":"left"},
+		{"id":"2d8a0c81a6df676b","fromNode":"c79d8b95716db901","fromSide":"bottom","toNode":"e92e665ed4e8c4b1","toSide":"top"},
+		{"id":"18cd410aa487c6c1","fromNode":"c79d8b95716db901","fromSide":"bottom","toNode":"e2c452db6d7e9dd4","toSide":"top"},
+		{"id":"0740b09364f73def","fromNode":"224c9d46daf8a970","fromSide":"right","toNode":"4a896311fa8c7832","toSide":"left"},
+		{"id":"e85cf71041a8602a","fromNode":"224c9d46daf8a970","fromSide":"right","toNode":"eb1ba68be67f1e4b","toSide":"left"},
+		{"id":"df951311a6bd04c1","fromNode":"eb1ba68be67f1e4b","fromSide":"right","toNode":"73ac7aa9e38ca645","toSide":"left"},
+		{"id":"8da7d9748dd29b25","fromNode":"4a896311fa8c7832","fromSide":"right","toNode":"73ac7aa9e38ca645","toSide":"left"},
+		{"id":"361c0faa73a54316","fromNode":"c79d8b95716db901","fromSide":"bottom","toNode":"05fcda3d20f111f1","toSide":"top"},
+		{"id":"258427d88313e0f9","fromNode":"05fcda3d20f111f1","fromSide":"bottom","toNode":"5057b8cf2cafe523","toSide":"top"},
+		{"id":"f8b29eb6fad25ffa","fromNode":"e2c452db6d7e9dd4","fromSide":"bottom","toNode":"67a3c42999b78e07","toSide":"top"},
+		{"id":"c8e52f0e40e68865","fromNode":"e92e665ed4e8c4b1","fromSide":"bottom","toNode":"8c784fc0b5da3908","toSide":"top"},
+		{"id":"ddc697cd7da8f28c","fromNode":"0ee6d4b5780d19b6","fromSide":"bottom","toNode":"224c9d46daf8a970","toSide":"top"},
+		{"id":"cd5e103f3839efa7","fromNode":"e8f6cf533075706e","fromSide":"right","toNode":"224c9d46daf8a970","toSide":"left"},
+		{"id":"220253701fd5cdce","fromNode":"dcb67059dc063757","fromSide":"right","toNode":"c79d8b95716db901","toSide":"left"},
+		{"id":"902ead3a925ac639","fromNode":"8356762200f0bff4","fromSide":"right","toNode":"fee38e4a9a0ce8fc","toSide":"left"},
+		{"id":"64c356216650bdb1","fromNode":"73ac7aa9e38ca645","fromSide":"right","toNode":"8356762200f0bff4","toSide":"left"},
+		{"id":"59c7ed7187cac5e2","fromNode":"8356762200f0bff4","fromSide":"bottom","toNode":"eb1ba68be67f1e4b","toSide":"bottom"}
+	]
+}
