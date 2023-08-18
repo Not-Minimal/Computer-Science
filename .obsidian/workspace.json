@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Branching Statements.md",
+                "file": "Learn Java/Ternary Operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Branching Statements.md",
+                "file": "Learn Java/Ternary Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Branching Statements.md",
+                "file": "Learn Java/Ternary Operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Branching Statements.md"
+                "file": "Learn Java/Ternary Operator.md"
               }
             }
           },
@@ -165,10 +165,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "4f6fd2f9bf11e42a",
+  "active": "90bf927dd7af94f5",
   "lastOpenFiles": [
+    "Learn Java/Increment and Decrement.md",
+    "Readme.md",
+    "Learn Java/Branching Statements.md",
     "3 Semestre/Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
-    "Branching Statements.md",
     "3 Semestre/Estructura de Datos/Materia/9. Arboles B/Apunte.Árboles B.pdf",
     "3 Semestre/Estructura de Datos/Materia/Arboles B/Sin confirmar 863055.crdownload",
     "3 Semestre/Estructura de Datos/Materia/7. Heap/heaps.pdf",
@@ -184,8 +186,7 @@
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Árbol Binario.md",
     "3 Semestre/Estructura de Datos/Materia/2. Listas Lineales/Listas Lineales.pdf",
     "3 Semestre/Estructura de Datos/Materia/1. Punteros/Funciones en C.md",
-    "Learn Java/Ejercicios/Increment and Decrement.md",
-    "Learn Java/Ejercicios/Ternary Operator.md",
+    "Learn Java/Ternary Operator.md",
     "Learn Java/Conditional Statement.md",
     "3 Semestre/Taller Ejercicio Fisico.md",
     "3 Semestre/Resumen Certamen 2.md",
@@ -193,7 +194,6 @@
     "3 Semestre/Estadistica y Probabilidades.md",
     "3 Semestre/Organigrama.canvas",
     "3 Semestre/Administración General.md",
-    "Readme.md",
     "3 Semestre/Calculo 2/Mapa Mental.canvas",
     "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
     "3 Semestre/Calculo 2/Formulas/Formulas Generales.md",
