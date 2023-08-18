@@ -11,11 +11,9 @@
             "id": "4f6fd2f9bf11e42a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Crear empresa/2.- Guia empresas en Chile.pdf"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 217.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Crear empresa/2.- Guia empresas en Chile.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Crear empresa/2.- Guia empresas en Chile.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Crear empresa/2.- Guia empresas en Chile.pdf"
               }
             }
           },
@@ -150,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +166,24 @@
   },
   "active": "4f6fd2f9bf11e42a",
   "lastOpenFiles": [
+    "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Crear empresa/1.- Creacion empresa.pdf",
+    "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Emprendiendo mi primer negocio.pdf",
+    "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Evaluaciones/2.- Evaluación final Emprendimiento (Nota 70).pdf",
+    "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Evaluaciones/1.- Canvas Pablo Montoya (Nota 69).pdf",
+    "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Crear empresa/2.- Guia empresas en Chile.pdf",
+    "TopSecret/Administración General/Unidad 5/4- Control.pdf",
+    "TopSecret/Administración General/Unidad 5/1 - Planificación.pdf",
+    "TopSecret/Administración General/Unidad 4/4 - Producción.pdf",
+    "TopSecret/Administración General/Unidad 4/3 - Comercialización.pdf",
+    "TopSecret/Administración General/Unidad 4/2 - Finanzas.pdf",
+    "TopSecret/Administración General/Unidad 4/1 - RRHH.pdf",
+    "3 Semestre/Taller Ejercicio Fisico.md",
+    "3 Semestre/Resumen Certamen 2.md",
+    "3 Semestre/Pasted image 20230730111455.png",
+    "3 Semestre/Estadistica y Probabilidades.md",
+    "3 Semestre/Organigrama.canvas",
+    "3 Semestre/Administración General.md",
+    "Readme.md",
     "3 Semestre/Calculo 2/Mapa Mental.canvas",
     "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
     "3 Semestre/Calculo 2/Formulas/Formulas Generales.md",
@@ -182,7 +200,6 @@
     "3 Semestre/Calculo 2/Materia/Limite y Continuidad.md",
     "3 Semestre/Calculo 2/Materia/Limite Funciones de Varias Variables.md",
     "3 Semestre/Calculo 2/Materia/Continuidad.md",
-    "3 Semestre/Calculo 2/Materia/Basico",
     "3 Semestre/Calculo 2/Grafica Funciones/Subconjunto y Limites.png",
     "3 Semestre/Calculo 2/Grafica Funciones/SenCos.png",
     "3 Semestre/Calculo 2/Grafica Funciones/Paraboloide.png",
@@ -194,26 +211,10 @@
     "3 Semestre/Calculo 2/Calendario/22-07-2023.md",
     "3 Semestre/Calculo 2/Calendario/21-07-2023.md",
     "3 Semestre/Calculo 2/README.md",
-    "3 Semestre/Calculo 2/Materia",
-    "3 Semestre/Calculo 2/Grafica Funciones",
-    "3 Semestre/Calculo 2/Formulas",
-    "3 Semestre/Calculo 2/Ejercicios Resueltos",
-    "3 Semestre/Calculo 2/Calendario",
-    "3 Semestre/Calculo 2",
-    "Readme.md",
-    "Ingenieria-Informatica",
-    "Learn Java/hotel.class",
-    "Learn Java/Ejercicios/ejercicio1.class",
     "Learn Java/Types and Variables.md",
     "Learn Java/The While and Do-While Loops.md",
     "Learn Java/The For-Loop.md",
-    "Learn Java/The Basic of a Program.md",
-    "Learn Java/Relational Operators.md",
-    "Learn Java/Integer Types and Operations.md",
-    "Learn Java/Conditional Statement.md",
     "Malla Curricular.canvas",
-    "3 Semestre/Organigrama.canvas",
-    "3 Semestre/Pasted image 20230730111455.png",
     "3 Semestre/Calculo/Mapa Mental.canvas",
     "3 Semestre/Estructura de Datos/Arboles y Rotaciones.canvas",
     "3 Semestre/Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Rotación Izquierda.png",
