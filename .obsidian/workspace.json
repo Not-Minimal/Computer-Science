@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84b60a0320dce038",
+        "id": "b539631bf7f94b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6fd2f9bf11e42a",
+            "id": "6c86ebc3fb408eed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#asymptotic-notations",
+                "query": "path:",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
               "state": {
                 "file": "Learn Java/Ternary Operator.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,8 +165,24 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "6c86ebc3fb408eed",
   "lastOpenFiles": [
+    "Recording 20230818162424.webm",
+    "18-08-2023.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/big-o-notation.png",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Asymptotic Analysis.md",
+    "3 Semestre/Calculo 2/Materia/Limites Iterados.md",
+    "3 Semestre/Calculo 2/Materia/Limite Funciones de Varias Variables.md",
+    "3 Semestre/Calculo 2/Formulas/Formulas Limite Iterado.md",
+    "3 Semestre/Calculo 2/Materia/Continuidad.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithm.md",
+    "Learn Java/Boolean and Logical Operations.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Stack.md",
+    "Learn Java/Conditional Statement.md",
+    "Learn Java/The While and Do-While Loops.md",
+    "Learn Java/2. Arithmmetic Operations.md",
+    "Learn Java/Ternary Operator.md",
     "Learn Java/Increment and Decrement.md",
     "Readme.md",
     "Learn Java/Branching Statements.md",
@@ -186,29 +202,15 @@
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Árbol Binario.md",
     "3 Semestre/Estructura de Datos/Materia/2. Listas Lineales/Listas Lineales.pdf",
     "3 Semestre/Estructura de Datos/Materia/1. Punteros/Funciones en C.md",
-    "Learn Java/Ternary Operator.md",
-    "Learn Java/Conditional Statement.md",
     "3 Semestre/Taller Ejercicio Fisico.md",
     "3 Semestre/Resumen Certamen 2.md",
     "3 Semestre/Pasted image 20230730111455.png",
     "3 Semestre/Estadistica y Probabilidades.md",
     "3 Semestre/Organigrama.canvas",
-    "3 Semestre/Administración General.md",
     "3 Semestre/Calculo 2/Mapa Mental.canvas",
     "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
-    "3 Semestre/Calculo 2/Formulas/Formulas Generales.md",
-    "3 Semestre/Calculo 2/Formulas/Formulas Limite Iterado.md",
     "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 2.png",
     "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 1.png",
-    "Learn Java/Basic Literals.md",
-    "3 Semestre/Calculo 2/Materia/Basico/Topología.md",
-    "3 Semestre/Calculo 2/Materia/Basico/Límite.md",
-    "3 Semestre/Calculo 2/Materia/Basico/Función.md",
-    "3 Semestre/Calculo 2/Materia/Basico/Derivadas.md",
-    "3 Semestre/Calculo 2/Materia/Regla de L'Hopital.md",
-    "3 Semestre/Calculo 2/Materia/Limites Iterados.md",
-    "3 Semestre/Calculo 2/Materia/Limite y Continuidad.md",
-    "3 Semestre/Calculo 2/Materia/Limite Funciones de Varias Variables.md",
     "3 Semestre/Calculo 2/Grafica Funciones/Subconjunto y Limites.png",
     "3 Semestre/Calculo 2/Grafica Funciones/SenCos.png",
     "3 Semestre/Calculo 2/Grafica Funciones/Paraboloide.png",
@@ -218,7 +220,6 @@
     "Malla Curricular.canvas",
     "3 Semestre/Calculo/Mapa Mental.canvas",
     "3 Semestre/Estructura de Datos/Arboles y Rotaciones.canvas",
-    "3 Semestre/Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Imagenes/Rotación Izquierda.png",
     "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Mapa Mental.canvas",
     "Estructura de Datos/Tareas/Tarea 2/Untitled 1.canvas",
     "Untitled 1.canvas"
