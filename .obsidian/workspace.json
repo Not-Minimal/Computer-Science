@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Ternary Operator.md",
+                "file": "Learn Java/Switch Statement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Ternary Operator.md",
+                "file": "Learn Java/Switch Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Ternary Operator.md",
+                "file": "Learn Java/Switch Statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Ternary Operator.md"
+                "file": "Learn Java/Switch Statement.md"
               }
             }
           },
@@ -167,6 +167,9 @@
   },
   "active": "6c86ebc3fb408eed",
   "lastOpenFiles": [
+    "Learn Java/Branching Statements.md",
+    "Learn Java/Switch Statement.md",
+    "Learn Java/Ternary Operator.md",
     "Recording 20230818162424.webm",
     "18-08-2023.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
@@ -182,10 +185,8 @@
     "Learn Java/Conditional Statement.md",
     "Learn Java/The While and Do-While Loops.md",
     "Learn Java/2. Arithmmetic Operations.md",
-    "Learn Java/Ternary Operator.md",
     "Learn Java/Increment and Decrement.md",
     "Readme.md",
-    "Learn Java/Branching Statements.md",
     "3 Semestre/Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
     "3 Semestre/Estructura de Datos/Materia/9. Arboles B/Apunte.Árboles B.pdf",
     "3 Semestre/Estructura de Datos/Materia/Arboles B/Sin confirmar 863055.crdownload",
@@ -200,7 +201,6 @@
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/1. ÁRBOLES GENERALES.pdf",
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Árbol Binario Completo.md",
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Árbol Binario.md",
-    "3 Semestre/Estructura de Datos/Materia/2. Listas Lineales/Listas Lineales.pdf",
     "3 Semestre/Estructura de Datos/Materia/1. Punteros/Funciones en C.md",
     "3 Semestre/Taller Ejercicio Fisico.md",
     "3 Semestre/Resumen Certamen 2.md",
