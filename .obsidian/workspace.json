@@ -11,12 +11,8 @@
             "id": "6c86ebc3fb408eed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn Java/Sizes and Ranges.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Sizes and Ranges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Sizes and Ranges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learn Java/Sizes and Ranges.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,15 +154,29 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Empezar/Parar de grabar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "random-note:Abrir nota al azar": false
     }
   },
-  "active": "6c86ebc3fb408eed",
+  "active": "90bf927dd7af94f5",
   "lastOpenFiles": [
-    "Learn Java/Units of Information.md",
+    "Notas Diarias",
+    "Learn Java/The For-Loop.md",
+    "Learn Java/The Basic of a Program.md",
     "Learn Java/Sizes and Ranges.md",
-    "Learn Java/Switch Statement.md",
+    "Learn Java/Integer Types and Operations.md",
+    "Learn Java/Increment and Decrement.md",
+    "Learn Java/Comments.md",
     "Learn Java/Branching Statements.md",
+    "Learn Java/Boolean and Logical Operations.md",
+    "Learn Java/Basic Literals.md",
+    "Learn Java/3. Printing Data.md",
+    "Learn Java/2. Arithmmetic Operations.md",
+    "Learn Java/1. Scanning Input.md",
+    "Learn Java/Units of Information.md",
+    "Learn Java/Types and Variables.md",
+    "Learn Java/Calling a Method.md",
+    "Learn Java/Switch Statement.md",
     "Learn Java/Ternary Operator.md",
     "Recording 20230818162424.webm",
     "18-08-2023.md",
@@ -182,29 +188,16 @@
     "3 Semestre/Calculo 2/Formulas/Formulas Limite Iterado.md",
     "3 Semestre/Calculo 2/Materia/Continuidad.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Algorithm.md",
-    "Learn Java/Boolean and Logical Operations.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Stack.md",
-    "Learn Java/Conditional Statement.md",
-    "Learn Java/The While and Do-While Loops.md",
-    "Learn Java/2. Arithmmetic Operations.md",
-    "Learn Java/Increment and Decrement.md",
-    "Readme.md",
-    "3 Semestre/Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
     "3 Semestre/Estructura de Datos/Materia/9. Arboles B/Apunte.Árboles B.pdf",
     "3 Semestre/Estructura de Datos/Materia/Arboles B/Sin confirmar 863055.crdownload",
     "3 Semestre/Estructura de Datos/Materia/7. Heap/heaps.pdf",
-    "3 Semestre/Estructura de Datos/Materia/7. Heap/Heap.md",
     "3 Semestre/Estructura de Datos/Materia/7. Heap/2010 Montículo Binario o Binary Heap.pdf",
     "3 Semestre/Estructura de Datos/Materia/6. Arboles Binarios de Busqueda/Arbol Binario de Busqueda.pdf",
     "3 Semestre/Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Árboles AVL.pdf",
     "3 Semestre/Estructura de Datos/Materia/5. Arboles Binarios Balanceados/AVL CairóGuadarti.pdf",
-    "3 Semestre/Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Arboles Balanceados.md",
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Apunte Árboles Binarios.pdf",
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/1. ÁRBOLES GENERALES.pdf",
-    "3 Semestre/Estructura de Datos/Materia/4. Arboles/Árbol Binario Completo.md",
-    "3 Semestre/Estructura de Datos/Materia/4. Arboles/Árbol Binario.md",
-    "3 Semestre/Estructura de Datos/Materia/1. Punteros/Funciones en C.md",
-    "3 Semestre/Taller Ejercicio Fisico.md",
     "3 Semestre/Pasted image 20230730111455.png",
     "3 Semestre/Organigrama.canvas",
     "3 Semestre/Calculo 2/Mapa Mental.canvas",

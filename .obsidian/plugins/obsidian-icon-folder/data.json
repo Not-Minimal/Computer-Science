@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "Fas1",
       "Fab42Group"
     ],
     "recentlyUsedIconsSize": 5,
@@ -17,6 +18,5 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  },
-  "1 Semestre": "Fab42Group"
+  }
 }
