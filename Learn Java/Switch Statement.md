@@ -132,3 +132,5 @@ Java 12 introduced some new features allowing to use **switch** as an [expres
 ##### Conclusion
 
 When you have a limited number of cases to choose from, switch statements can help you avoid extensive if-else constructions. For that, you need the `switch` keyword to introduce the value to evaluate, and `case` for each of the possible values. Do not forget to also use the `break` keyword to avoid executing extra cases and `default` branch to indicate the default behavior.
+
+[[Units of Information]]

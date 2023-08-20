@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Switch Statement.md",
+                "file": "Learn Java/Sizes and Ranges.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Switch Statement.md",
+                "file": "Learn Java/Sizes and Ranges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Switch Statement.md",
+                "file": "Learn Java/Sizes and Ranges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Switch Statement.md"
+                "file": "Learn Java/Sizes and Ranges.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "6c86ebc3fb408eed",
   "lastOpenFiles": [
-    "Learn Java/Branching Statements.md",
+    "Learn Java/Units of Information.md",
+    "Learn Java/Sizes and Ranges.md",
     "Learn Java/Switch Statement.md",
+    "Learn Java/Branching Statements.md",
     "Learn Java/Ternary Operator.md",
     "Recording 20230818162424.webm",
     "18-08-2023.md",
@@ -203,9 +205,7 @@
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Árbol Binario.md",
     "3 Semestre/Estructura de Datos/Materia/1. Punteros/Funciones en C.md",
     "3 Semestre/Taller Ejercicio Fisico.md",
-    "3 Semestre/Resumen Certamen 2.md",
     "3 Semestre/Pasted image 20230730111455.png",
-    "3 Semestre/Estadistica y Probabilidades.md",
     "3 Semestre/Organigrama.canvas",
     "3 Semestre/Calculo 2/Mapa Mental.canvas",
     "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
