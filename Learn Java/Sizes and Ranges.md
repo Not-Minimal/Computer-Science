@@ -70,3 +70,5 @@ You will often use this type in conditionals and as a result of comparing two nu
     
 
 Remember that knowledge of sizes and ranges of data types may help you with interviews.
+
+[[Type Casting]]
