@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Functional Decomposition.md",
+                "file": "Learn Java/The Main Method.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "106d0dcd3af76795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "iTerm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Functional Decomposition.md",
+                "file": "iTerm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Functional Decomposition.md",
+                "file": "iTerm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Functional Decomposition.md"
+                "file": "iTerm.md"
               }
             }
           },
@@ -167,40 +182,40 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "a6bd98f4441ef83c",
+  "active": "106d0dcd3af76795",
   "lastOpenFiles": [
-    "3 Semestre/Calculo 2/Materia/Basico/Función.md",
+    "Learn Java/The Main Method.md",
+    "iTerm.md",
+    "3 Semestre/Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
+    "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Función Inserción.md",
+    "1 Semestre/Comunicación y Argumentación.md",
+    "3 Semestre/Calculo 2/Materia/Limites Iterados.md",
+    "Learn Java/Units of Information.md",
+    "4 Semestre/Ingles/Ingles.md",
+    "Learn Java/Types and Variables.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Queues/Circular Queue.md",
+    "3 Semestre/Estructura de Datos/Materia/4. Arboles/Operaciones/Insertar Nodo.md",
+    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
+    "3 Semestre/Calculo 2/Formulas/Formulas Generales.md",
+    "1 Semestre/Programa Tutores.md",
+    "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Función Búsqueda por Destino.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Stack.md",
+    "3 Semestre/Calculo 2/Materia/Limite y Continuidad.md",
+    "Learn Java/2. Arithmmetic Operations.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structure.md",
+    "6 Semestre/Formulación y Evaluación de Proyectos.md",
+    "3 Semestre/Estructura de Datos/Materia/1. Punteros/Funciones en C.md",
+    "6 Semestre/Inteligencia Artificial.md",
+    "3 Semestre/Calculo 2/Materia/Basico/Topología.md",
+    "3 Semestre/Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Arboles Balanceados.md",
+    "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Función Menu.md",
     "Learn Java/Functional Decomposition.md",
     "Learn Java/Ejercicios/KatesMathFunction.class",
     "Learn Java/Ejercicios/KatesMathFunction.java",
     "Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
-    "JAJA.md",
-    "Learn Java/The Main Method.md",
-    "Learn Java/Declaring a Method.md",
-    "Learn Java/Type Casting.md",
     "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Crear empresa/2.- Guia empresas en Chile.pdf",
-    "Learn Java/Conditional Statement.md",
-    "Readme.md",
     "Malla Curricular.canvas",
-    "Learn Java/Units of Information.md",
-    "Learn Java/The While and Do-While Loops.md",
-    "Learn Java/The Basic of a Program.md",
-    "Learn Java/Switch Statement.md",
-    "Learn Java/Integer Types and Operations.md",
-    "Learn Java/Sizes and Ranges.md",
-    "1 Semestre/Algoritmos y Bases de la Programación.md",
     "Notas Diarias",
-    "Learn Java/The For-Loop.md",
-    "Learn Java/Increment and Decrement.md",
-    "Learn Java/Comments.md",
-    "Learn Java/Branching Statements.md",
-    "Learn Java/Boolean and Logical Operations.md",
-    "Learn Java/Basic Literals.md",
-    "Learn Java/3. Printing Data.md",
-    "Learn Java/2. Arithmmetic Operations.md",
-    "Learn Java/1. Scanning Input.md",
-    "Learn Java/Types and Variables.md",
-    "Learn Java/Calling a Method.md",
     "Recording 20230818162424.webm",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/big-o-notation.png",
