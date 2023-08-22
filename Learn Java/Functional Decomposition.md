@@ -158,7 +158,7 @@ In this topic, we have learned the importance of functional decomposition. It is
 Functional decomposition is not key to everything, but using this approach will help you create neat and understandable programs that are easy to work with.
 ## Kate's math function Problem
 
-Here is a math function that Kate wants to use in her program:
+Here is a math [[Función]] that Kate wants to use in her program:
 
 ![[Captura de pantalla 2023-08-21 a la(s) 23.40.44.png]]
 

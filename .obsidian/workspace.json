@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b539631bf7f94b9a",
+        "id": "984706e21ec42b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "23e887ecb8cdbff0",
+            "id": "a6bd98f4441ef83c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Learn Java/Functional Decomposition.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learn Java/Functional Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learn Java/Functional Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Learn Java/Functional Decomposition.md"
+              }
             }
           },
           {
@@ -158,8 +167,9 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "23e887ecb8cdbff0",
+  "active": "a6bd98f4441ef83c",
   "lastOpenFiles": [
+    "3 Semestre/Calculo 2/Materia/Basico/Función.md",
     "Learn Java/Functional Decomposition.md",
     "Learn Java/Ejercicios/KatesMathFunction.class",
     "Learn Java/Ejercicios/KatesMathFunction.java",
