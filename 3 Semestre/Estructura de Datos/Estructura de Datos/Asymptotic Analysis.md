@@ -29,7 +29,7 @@ There are mainly three asymptotic notations:
 
 ### #big-o-notation
 
-Big-O notation represents the upper bound of the running time of an algorithm. Thus, it gives the worst-case complexity of an algorithm.
+[[Big-O Notation]] represents the upper bound of the running time of an algorithm. Thus, it gives the worst-case complexity of an algorithm.
 
 ![[big-o-notation.png]]
 

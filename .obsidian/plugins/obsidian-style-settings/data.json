@@ -27,5 +27,6 @@
   "anuppuccin-theme-settings@@anp-safari-tab-radius": 10,
   "anuppuccin-theme-settings@@anp-safari-tab-gap": 10,
   "anuppuccin-theme-settings@@anp-safari-border-width": 0,
-  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout"
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true
 }

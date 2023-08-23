@@ -5,5 +5,8 @@
   "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "Product Sans",
   "monospaceFontFamily": "Source Code Pro",
-  "textFontFamily": "Source Code Pro"
+  "textFontFamily": "Source Code Pro",
+  "enabledCssSnippets": [
+    "academic-pdf-export"
+  ]
 }

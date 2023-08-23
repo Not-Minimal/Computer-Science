@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "984706e21ec42b4e",
+        "id": "2c29f4d913dca15f",
         "type": "tabs",
         "children": [
           {
-            "id": "a6bd98f4441ef83c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn Java/The Main Method.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "106d0dcd3af76795",
+            "id": "6964326ca12ec734",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#big-o-notation",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -84,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -182,17 +167,35 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "106d0dcd3af76795",
+  "active": "90bf927dd7af94f5",
   "lastOpenFiles": [
-    "Learn Java/The Main Method.md",
+    "Malla Curricular.canvas",
+    "Learn Java/RoadMap Java.pdf",
     "iTerm.md",
+    "Learn Java/Notes/Overloading.md",
+    "Learn Java/Notes/Big-O Notation.md",
+    "Learn Java/Images/Logarithmic Complexity.png",
+    "Learn Java/Images/Constant Complexity.png",
+    "Learn Java/Notes",
+    "Learn Java/Images",
+    "Learn Java/Images/Exponential Complexity.png",
+    "Learn Java/Images/Quadratic Complexity.png",
+    "Learn Java/Images/Linear Complexity.png",
+    "Learn Java/Notes/Array.md",
+    "Learn Java/Notes/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Asymptotic Analysis.md",
+    "Learn Java/Notes/Primitive and Reference Types.md",
+    "Learn Java/Ejercicios/overloading.java",
+    "Learn Java/Notes/Type Casting.md",
+    "Learn Java/Notes/Functional Decomposition.md",
+    "Learn Java/Notes/The Main Method.md",
     "3 Semestre/Estructura de Datos/Materia/7. Heap/Introducción Heap.md",
     "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Función Inserción.md",
     "1 Semestre/Comunicación y Argumentación.md",
     "3 Semestre/Calculo 2/Materia/Limites Iterados.md",
-    "Learn Java/Units of Information.md",
+    "Learn Java/Notes/Units of Information.md",
     "4 Semestre/Ingles/Ingles.md",
-    "Learn Java/Types and Variables.md",
+    "Learn Java/Notes/Types and Variables.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Queues/Circular Queue.md",
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Operaciones/Insertar Nodo.md",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
@@ -201,40 +204,21 @@
     "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Función Búsqueda por Destino.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Stack.md",
     "3 Semestre/Calculo 2/Materia/Limite y Continuidad.md",
-    "Learn Java/2. Arithmmetic Operations.md",
-    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structure.md",
-    "6 Semestre/Formulación y Evaluación de Proyectos.md",
-    "3 Semestre/Estructura de Datos/Materia/1. Punteros/Funciones en C.md",
-    "6 Semestre/Inteligencia Artificial.md",
-    "3 Semestre/Calculo 2/Materia/Basico/Topología.md",
-    "3 Semestre/Estructura de Datos/Materia/5. Arboles Binarios Balanceados/Arboles Balanceados.md",
-    "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Función Menu.md",
-    "Learn Java/Functional Decomposition.md",
+    "Learn Java/Notes/2. Arithmmetic Operations.md",
     "Learn Java/Ejercicios/KatesMathFunction.class",
     "Learn Java/Ejercicios/KatesMathFunction.java",
-    "Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
     "TopSecret/Actividades Extraprogramáticas/Emprendiendo con mi primer negocio/Crear empresa/2.- Guia empresas en Chile.pdf",
-    "Malla Curricular.canvas",
     "Notas Diarias",
     "Recording 20230818162424.webm",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/big-o-notation.png",
     "3 Semestre/Estructura de Datos/Materia/9. Arboles B/Apunte.Árboles B.pdf",
-    "3 Semestre/Estructura de Datos/Materia/Arboles B/Sin confirmar 863055.crdownload",
-    "3 Semestre/Estructura de Datos/Materia/7. Heap/heaps.pdf",
-    "3 Semestre/Estructura de Datos/Materia/7. Heap/2010 Montículo Binario o Binary Heap.pdf",
-    "3 Semestre/Estructura de Datos/Materia/6. Arboles Binarios de Busqueda/Arbol Binario de Busqueda.pdf",
     "3 Semestre/Pasted image 20230730111455.png",
     "3 Semestre/Organigrama.canvas",
     "3 Semestre/Calculo 2/Mapa Mental.canvas",
     "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
     "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 2.png",
     "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 1.png",
-    "3 Semestre/Calculo 2/Grafica Funciones/Subconjunto y Limites.png",
-    "3 Semestre/Calculo 2/Grafica Funciones/SenCos.png",
-    "3 Semestre/Calculo 2/Grafica Funciones/Paraboloide.png",
-    "3 Semestre/Calculo 2/Grafica Funciones/Limite Existe.png",
-    "3 Semestre/Calculo 2/Grafica Funciones/Idea Limite Iterado.png",
     "3 Semestre/Calculo/Mapa Mental.canvas",
     "3 Semestre/Estructura de Datos/Arboles y Rotaciones.canvas",
     "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Mapa Mental.canvas",
