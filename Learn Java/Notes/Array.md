@@ -178,3 +178,21 @@ Be careful when indexing elements of an array.
 ##### Conclusion
 
 An array is a collection of elements of the same type. It allows to store elements in memory sequentially and process them all together as one unit. In this topic, you learned how to declare, instantiate and initialize an array, as well as create an array with specified elements. We also showed you how to create an array using the `new` keyword, obtain an array's length, and access its elements to change their values.
+
+Example:
+```java
+public class Main {
+    public static void main(String[] args) {
+        int[] integerArray = new int[]{1, 2, 3, 4, 5};
+        System.out.println(arraySum(integerArray));
+    }
+    private static int arraySum(int[] arrayToSum) {
+        int sum = 0;
+        for (int number : arrayToSum) {
+            sum += number;
+        }
+        return sum;
+    }
+}
+```
+

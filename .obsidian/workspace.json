@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/Relational Operators.md",
+                "file": "Learn Java/Notes/Array.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 222
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/Relational Operators.md",
+                "file": "Learn Java/Notes/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/Relational Operators.md",
+                "file": "Learn Java/Notes/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/Relational Operators.md"
+                "file": "Learn Java/Notes/Array.md"
               }
             }
           },
@@ -169,8 +169,19 @@
   },
   "active": "5c12be81a4d64dc3",
   "lastOpenFiles": [
-    "boolean.md",
+    "Learn Java/Ejercicios/MysteryArray.class",
+    "Learn Java/Ejercicios/MysteryArray.java",
+    "7 Semestre/Electivo Especialidad 2.md",
+    "Learn Java/Notes/3. Printing Data.md",
+    "3 Semestre/Estructura de Datos/Materia/4. Arboles/Operaciones/Insertar Nodo.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Gramática/Gramática Libre de Contexto a Autómata con Pila.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Queues/Double Queue.md",
+    "6 Semestre/Sistemas Operativos.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - SelectionSort.md",
+    "Learn Java/Notes/Units of Information.md",
+    "6 Semestre/Electivo de Especialidad 1.md",
     "Learn Java/Notes/Relational Operators.md",
+    "boolean.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Máquinas de Turing - Notación Modular.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Dureza, Completitud y Teorema de Cook.md",
@@ -185,16 +196,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas/Teorema del Bombeo.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Autómata con Pila a Gramática Libre de Contexto.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Forma Normal De Chomsky.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Cómo computar en Autómatas Con Pilas.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Gramática/Gramática - Gramática Libre de Contexto.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Gramática/Gramática - Gramática Regular.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño/Técnicas de Diseño - BackTracking.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño/Técnicas de Diseño - Divide y Vencerás.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño/Técnicas de Diseño - Programación Dinámica.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño/Técnicas de Diseño - Algoritmo Voraz.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Preliminar a Técnicas de Diseño Sub-Estructura Optimal.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - QuickSort.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - HeapSort.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas",
@@ -207,7 +208,6 @@
     "Learn Java/RoadMap Java.pdf",
     "Learn Java/Images/Logarithmic Complexity.png",
     "Learn Java/Images/Constant Complexity.png",
-    "Learn Java/Notes",
     "Learn Java/Images/Exponential Complexity.png",
     "Learn Java/Images/Quadratic Complexity.png",
     "Learn Java/Images/Linear Complexity.png",
