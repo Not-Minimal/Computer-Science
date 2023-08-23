@@ -1,0 +1,1 @@
+[[Reducción Cook]]

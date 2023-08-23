@@ -119,7 +119,7 @@ true
 false
 ```
 
-It is possible not to use an additional variable to store the boolean result before output:
+It is possible not to use an additional variable to store the [[boolean]] result before output:
 
 ```java
 System.out.println((h1 >= h2) && (h2 >= h3));
