@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/Array.md",
+                "file": "Learn Java/Notes/Iterating Over Arrays.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/Array.md",
+                "file": "Learn Java/Notes/Iterating Over Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/Array.md",
+                "file": "Learn Java/Notes/Iterating Over Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/Array.md"
+                "file": "Learn Java/Notes/Iterating Over Arrays.md"
               }
             }
           },
@@ -169,6 +170,11 @@
   },
   "active": "5c12be81a4d64dc3",
   "lastOpenFiles": [
+    "Learn Java/Notes/The For-Loop.md",
+    "Learn Java/Notes/Iterating Over Arrays.md",
+    "Learn Java/Notes/Arrays as Parameters.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
+    "Learn Java/Notes/Array.md",
     "Learn Java/Ejercicios/MysteryArray.class",
     "Learn Java/Ejercicios/MysteryArray.java",
     "7 Semestre/Electivo Especialidad 2.md",
@@ -183,7 +189,6 @@
     "Learn Java/Notes/Relational Operators.md",
     "boolean.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Máquinas de Turing - Notación Modular.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Dureza, Completitud y Teorema de Cook.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Reducción Cook.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Reducción Turing.md",
@@ -193,9 +198,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing MultiCabeza y MultiCinta.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas/Teorema del Bombeo 2.0 - Como no Bombear.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas/Teorema del Bombeo.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Autómata con Pila a Gramática Libre de Contexto.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Forma Normal De Chomsky.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas",
@@ -205,7 +207,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración",
     "Malla Curricular.canvas",
-    "Learn Java/RoadMap Java.pdf",
     "Learn Java/Images/Logarithmic Complexity.png",
     "Learn Java/Images/Constant Complexity.png",
     "Learn Java/Images/Exponential Complexity.png",
