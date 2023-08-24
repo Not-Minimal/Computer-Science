@@ -4,17 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2c29f4d913dca15f",
+        "id": "3676368e686809de",
         "type": "tabs",
         "children": [
           {
-            "id": "92e824f50a19a3ff",
+            "id": "88e977d1329f95d9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png"
+                "file": "Write, Compile and Run.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
+            }
+          },
+          {
+            "id": "c85d1a37aec0805d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -67,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
+                "file": "Write, Compile and Run.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
+                "file": "Write, Compile and Run.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png"
+                "file": "Write, Compile and Run.md"
               }
             }
           },
@@ -164,10 +176,13 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "92e824f50a19a3ff",
+  "active": "88e977d1329f95d9",
   "lastOpenFiles": [
-    "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
+    "Final Variables.md",
+    "Write, Compile and Run.md",
+    "String.md",
     "Characters.md",
+    "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
     "Learn Java/Notes/Hexadecimal Numbers.md",
     "Learn Java/Notes/Types and Variables.md",
     "Learn Java/Notes/Units of Information.md",
@@ -194,8 +209,6 @@
     "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Queues/Double Queue.md",
     "6 Semestre/Sistemas Operativos.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - SelectionSort.md",
-    "6 Semestre/Electivo de Especialidad 1.md",
-    "Learn Java/Notes/Relational Operators.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas",
