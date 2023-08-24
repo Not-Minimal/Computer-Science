@@ -8,15 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c12be81a4d64dc3",
+            "id": "92e824f50a19a3ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Learn Java/Notes/Iterating Over Arrays.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222,
-    "collapsed": true
+    "width": 222
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -87,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/Iterating Over Arrays.md",
+                "file": "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/Iterating Over Arrays.md",
+                "file": "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/Iterating Over Arrays.md"
+                "file": "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png"
               }
             }
           },
@@ -168,51 +164,50 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "5c12be81a4d64dc3",
+  "active": "92e824f50a19a3ff",
   "lastOpenFiles": [
+    "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
+    "Characters.md",
+    "Learn Java/Notes/Hexadecimal Numbers.md",
+    "Learn Java/Notes/Types and Variables.md",
+    "Learn Java/Notes/Units of Information.md",
+    "Learn Java/Notes/The While and Do-While Loops.md",
+    "Learn Java/Notes/The Basic of a Program.md",
+    "Learn Java/Notes/Boolean and Logical Operations.md",
+    "Learn Java/Notes/Basic Literals.md",
+    "Learn Java/Notes/Array.md",
+    "Learn Java/Notes/3. Printing Data.md",
+    "Learn Java/Notes/2. Arithmmetic Operations.md",
+    "Learn Java/Notes/1. Scanning Input.md",
+    "Learn Java/Notes/Binary Numbers.md",
+    "Learn Java/Notes/Iterating Over Arrays.md",
     "Learn Java/Ejercicios/ShiftingElements.class",
     "Learn Java/Ejercicios/ShiftingElements.java",
     "Learn Java/Notes/The For-Loop.md",
-    "Learn Java/Notes/Iterating Over Arrays.md",
     "Learn Java/Notes/Arrays as Parameters.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
-    "Learn Java/Notes/Array.md",
     "Learn Java/Ejercicios/MysteryArray.class",
     "Learn Java/Ejercicios/MysteryArray.java",
     "7 Semestre/Electivo Especialidad 2.md",
-    "Learn Java/Notes/3. Printing Data.md",
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Operaciones/Insertar Nodo.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Gramática/Gramática Libre de Contexto a Autómata con Pila.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Queues/Double Queue.md",
     "6 Semestre/Sistemas Operativos.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - SelectionSort.md",
-    "Learn Java/Notes/Units of Information.md",
     "6 Semestre/Electivo de Especialidad 1.md",
     "Learn Java/Notes/Relational Operators.md",
-    "boolean.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Máquinas de Turing - Notación Modular.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Dureza, Completitud y Teorema de Cook.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Reducción Cook.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Reducción Turing.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Problema del Alto.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Máquina de Turing Universal.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing No Deterministas.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing MultiCabeza y MultiCinta.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Gramática",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva",
     "Malla Curricular.canvas",
     "Learn Java/Images/Logarithmic Complexity.png",
     "Learn Java/Images/Constant Complexity.png",
     "Learn Java/Images/Exponential Complexity.png",
     "Learn Java/Images/Quadratic Complexity.png",
     "Learn Java/Images/Linear Complexity.png",
-    "Learn Java/Notes/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/big-o-notation.png",
     "3 Semestre/Pasted image 20230730111455.png",
