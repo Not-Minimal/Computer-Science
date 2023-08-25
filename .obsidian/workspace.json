@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md"
+              }
             }
           },
           {
@@ -192,7 +196,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "79c883819b0275f4",
+  "active": "90bf927dd7af94f5",
   "lastOpenFiles": [
     "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
     "Algorithms and Data Structures/Notas/Flowcharts.md",
