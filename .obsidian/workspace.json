@@ -173,10 +173,11 @@
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Empezar/Parar de grabar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "random-note:Abrir nota al azar": false
+      "random-note:Abrir nota al azar": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7d90cab73df17cab",
+  "active": "88e977d1329f95d9",
   "lastOpenFiles": [
     "iTerm.md",
     "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
