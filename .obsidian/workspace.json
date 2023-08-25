@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write, Compile and Run.md",
+                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#big-o-notation",
+                "query": "tag:#Principles-techniques",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 222,
-    "collapsed": true
+    "width": 222
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write, Compile and Run.md",
+                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write, Compile and Run.md",
+                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write, Compile and Run.md"
+                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md"
               }
             }
           },
@@ -176,12 +176,18 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "88e977d1329f95d9",
+  "active": "7d90cab73df17cab",
   "lastOpenFiles": [
-    "Final Variables.md",
-    "Write, Compile and Run.md",
-    "String.md",
-    "Characters.md",
+    "iTerm.md",
+    "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
+    "Algorithms and Data Structures",
+    "Malla Curricular.canvas",
+    "Learn Java/Notes/Write, Compile and Run.md",
+    "Learn Java/Notes/Final Variables.md",
+    "Readme.md",
+    "Learn Java/RoadMap Java.pdf",
+    "Learn Java/Notes/String.md",
+    "Learn Java/Notes/Characters.md",
     "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
     "Learn Java/Notes/Hexadecimal Numbers.md",
     "Learn Java/Notes/Types and Variables.md",
@@ -206,16 +212,10 @@
     "7 Semestre/Electivo Especialidad 2.md",
     "3 Semestre/Estructura de Datos/Materia/4. Arboles/Operaciones/Insertar Nodo.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Gramática/Gramática Libre de Contexto a Autómata con Pila.md",
-    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structures/Queues/Double Queue.md",
-    "6 Semestre/Sistemas Operativos.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - SelectionSort.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Gramática",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos",
-    "Malla Curricular.canvas",
     "Learn Java/Images/Logarithmic Complexity.png",
     "Learn Java/Images/Constant Complexity.png",
     "Learn Java/Images/Exponential Complexity.png",
