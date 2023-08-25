@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88e977d1329f95d9",
+            "id": "91becc867a3354f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,16 +19,36 @@
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "eaa2959a9d27f0e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4430759c2fa8c57d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms and Data Structures/Notas/Complex constructions in pseudocode.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           },
           {
-            "id": "c85d1a37aec0805d",
+            "id": "79c883819b0275f4",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,46 +192,46 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "88e977d1329f95d9",
+  "active": "79c883819b0275f4",
   "lastOpenFiles": [
-    "iTerm.md",
     "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
+    "Algorithms and Data Structures/Notas/Flowcharts.md",
+    "Algorithms and Data Structures/Notas/Prim's algorithm.md",
+    "Algorithms and Data Structures/Notas/Kruskal's algorithm.md",
+    "Algorithms and Data Structures/Notas/Greedy algorithms.md",
+    "Algorithms and Data Structures/Notas/Cryptographic hash functions.md",
+    "Algorithms and Data Structures/Notas/Doubly linked list.md",
+    "Algorithms and Data Structures/Notas/Dynamic programming another approach.md",
+    "Algorithms and Data Structures/Notas/Hamming distance.md",
+    "Algorithms and Data Structures/Notas/String hashing.md",
+    "Algorithms and Data Structures/Notas/Knuth-Morris-Pratt algorithm.md",
+    "Algorithms and Data Structures/Notas/Collision handling probing.md",
+    "Algorithms and Data Structures/Notas/Prefix function.md",
+    "Algorithms and Data Structures/Notas/Edit distance alignment.md",
+    "Algorithms and Data Structures/Notas/Damerau–Levenshtein distance.md",
+    "Algorithms and Data Structures/Notas/Searching a substring.md",
+    "Algorithms and Data Structures/Notas/Kosaraju's algorithm.md",
+    "Algorithms and Data Structures/Notas/Tarjan's algorithm.md",
+    "Algorithms and Data Structures/Notas/Depth-first search.md",
+    "Algorithms and Data Structures/Notas/Binary search tree.md",
+    "Algorithms and Data Structures/Notas/Merge sort.md",
+    "Algorithms and Data Structures/Notas/Insertion sort.md",
+    "Algorithms and Data Structures/Notas/Lee's algorithm.md",
+    "Algorithms and Data Structures/Notas/Binary search.md",
+    "Algorithms and Data Structures/Notas/Dijkstra's algorithm.md",
+    "Algorithms and Data Structures/Notas/Bellman–Ford algorithm.md",
+    "Algorithms and Data Structures/Notas",
     "Algorithms and Data Structures",
     "Malla Curricular.canvas",
-    "Learn Java/Notes/Write, Compile and Run.md",
-    "Learn Java/Notes/Final Variables.md",
-    "Readme.md",
     "Learn Java/RoadMap Java.pdf",
-    "Learn Java/Notes/String.md",
-    "Learn Java/Notes/Characters.md",
     "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
-    "Learn Java/Notes/Hexadecimal Numbers.md",
-    "Learn Java/Notes/Types and Variables.md",
-    "Learn Java/Notes/Units of Information.md",
-    "Learn Java/Notes/The While and Do-While Loops.md",
-    "Learn Java/Notes/The Basic of a Program.md",
-    "Learn Java/Notes/Boolean and Logical Operations.md",
-    "Learn Java/Notes/Basic Literals.md",
-    "Learn Java/Notes/Array.md",
-    "Learn Java/Notes/3. Printing Data.md",
-    "Learn Java/Notes/2. Arithmmetic Operations.md",
-    "Learn Java/Notes/1. Scanning Input.md",
-    "Learn Java/Notes/Binary Numbers.md",
-    "Learn Java/Notes/Iterating Over Arrays.md",
     "Learn Java/Ejercicios/ShiftingElements.class",
     "Learn Java/Ejercicios/ShiftingElements.java",
-    "Learn Java/Notes/The For-Loop.md",
-    "Learn Java/Notes/Arrays as Parameters.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
     "Learn Java/Ejercicios/MysteryArray.class",
     "Learn Java/Ejercicios/MysteryArray.java",
-    "7 Semestre/Electivo Especialidad 2.md",
-    "3 Semestre/Estructura de Datos/Materia/4. Arboles/Operaciones/Insertar Nodo.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Gramática/Gramática Libre de Contexto a Autómata con Pila.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Gramática",
     "Learn Java/Images/Logarithmic Complexity.png",
     "Learn Java/Images/Constant Complexity.png",
     "Learn Java/Images/Exponential Complexity.png",
