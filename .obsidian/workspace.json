@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3676368e686809de",
+        "id": "67bb5a56c9259eda",
         "type": "tabs",
         "children": [
           {
-            "id": "91becc867a3354f8",
+            "id": "cd8327971757765c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "eaa2959a9d27f0e9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4430759c2fa8c57d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms and Data Structures/Notas/Complex constructions in pseudocode.md",
+                "file": "Running Programs on Computers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,15 +21,14 @@
             }
           },
           {
-            "id": "79c883819b0275f4",
+            "id": "e9790517f357adbc",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 222,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -114,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
+                "file": "Running Programs on Computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
+                "file": "Running Programs on Computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md"
+                "file": "Running Programs on Computers.md"
               }
             }
           },
@@ -196,8 +177,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "cd8327971757765c",
   "lastOpenFiles": [
+    "JVM, JRE And JDK.md",
+    "IDE.md",
+    "Parameters And Options.md",
+    "NPE.md",
+    "What Is An Exception.md",
+    "Errors in Programs.md",
+    "Learn Java/Notes/Write, Compile and Run.md",
+    "Running Programs on Computers.md",
+    "Comand Line Overview.md",
+    "Introduction to Operating Systems.md",
+    "Learn Java/Notes/Iterating Over Arrays.md",
+    "Learn Java/Notes/Final Variables.md",
+    "Learn Java/Notes/String.md",
+    "Learn Java/Notes/Characters.md",
+    "Learn Java/Notes/Hexadecimal Numbers.md",
+    "Learn Java/Notes/Binary Numbers.md",
+    "Algorithms and Data Structures/Notas/Complex constructions in pseudocode.md",
     "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
     "Algorithms and Data Structures/Notas/Flowcharts.md",
     "Algorithms and Data Structures/Notas/Prim's algorithm.md",
@@ -207,23 +205,6 @@
     "Algorithms and Data Structures/Notas/Doubly linked list.md",
     "Algorithms and Data Structures/Notas/Dynamic programming another approach.md",
     "Algorithms and Data Structures/Notas/Hamming distance.md",
-    "Algorithms and Data Structures/Notas/String hashing.md",
-    "Algorithms and Data Structures/Notas/Knuth-Morris-Pratt algorithm.md",
-    "Algorithms and Data Structures/Notas/Collision handling probing.md",
-    "Algorithms and Data Structures/Notas/Prefix function.md",
-    "Algorithms and Data Structures/Notas/Edit distance alignment.md",
-    "Algorithms and Data Structures/Notas/Damerau–Levenshtein distance.md",
-    "Algorithms and Data Structures/Notas/Searching a substring.md",
-    "Algorithms and Data Structures/Notas/Kosaraju's algorithm.md",
-    "Algorithms and Data Structures/Notas/Tarjan's algorithm.md",
-    "Algorithms and Data Structures/Notas/Depth-first search.md",
-    "Algorithms and Data Structures/Notas/Binary search tree.md",
-    "Algorithms and Data Structures/Notas/Merge sort.md",
-    "Algorithms and Data Structures/Notas/Insertion sort.md",
-    "Algorithms and Data Structures/Notas/Lee's algorithm.md",
-    "Algorithms and Data Structures/Notas/Binary search.md",
-    "Algorithms and Data Structures/Notas/Dijkstra's algorithm.md",
-    "Algorithms and Data Structures/Notas/Bellman–Ford algorithm.md",
     "Algorithms and Data Structures/Notas",
     "Algorithms and Data Structures",
     "Malla Curricular.canvas",
