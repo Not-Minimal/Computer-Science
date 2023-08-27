@@ -61,5 +61,6 @@ String result = a == b ? "equal" :
 ```
 
 At first, the outer ternary operator checks equality of `a` and `b` numbers. If it is true, `equal` is printed, otherwise, the nested ternary operator `a > b ? "more" : "less"` is calculated. To improve readability, the whole expression is divided into two lines.
+#ternary-operations
 
 [[Increment and Decrement]]

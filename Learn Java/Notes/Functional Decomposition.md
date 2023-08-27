@@ -216,7 +216,7 @@ return ((x * x) - 1);
 }
 }
 ```
-
+#divide-and-conquer 
 
 [[Overloading]]
 

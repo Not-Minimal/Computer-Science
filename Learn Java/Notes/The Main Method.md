@@ -80,5 +80,6 @@ In both cases, an error happens at runtime.
 ##### Conclusion
 
 So, the main method is the entry point of any Java program. It has a very specific syntax which you need to remember.
+#method 
 
 [[Functional Decomposition]]

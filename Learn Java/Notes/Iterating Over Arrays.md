@@ -136,6 +136,7 @@ As you can see, the absence of indices makes the code more readable. The for-eac
 ##### Conclusion
 
 Using loops is a convenient way to process an array of elements. You can perform various algorithms, iterate an array and read in from the standard input with a loop. A form of for-loop called for-each is commonly used to iterate through each element of an array, string, or collection without the elements' indices. There are some limitations to its use, but it makes the code more readable and allows us to avoid the `ArrayIndexOutOfBoundsException`.
+#int #for-loop #do-while #Characters #String-algorithms 
 
 [[Binary Numbers]]
 [[Introduction to Operating Systems]]

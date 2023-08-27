@@ -66,3 +66,5 @@ for (int i = 1; i <= n; i = i * 2){
 ```
 
 ![[Logarithmic Complexity.png]]
+
+[[Best, average and worst cases]]

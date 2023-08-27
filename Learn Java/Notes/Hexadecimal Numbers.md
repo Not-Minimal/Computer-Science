@@ -105,7 +105,7 @@ As you can see, there are many ways to use HEX. In this topic, we have covered t
 
 We hope that this information will be helpful to you in the future. But for now, let's turn to practice!
 
-#Hexadecimal-Numbers
+#Hexadecimal-Numbers 
 [[Characters]]
 
 

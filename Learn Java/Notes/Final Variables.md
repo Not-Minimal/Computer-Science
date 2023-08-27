@@ -106,6 +106,8 @@ There is also a counterargument: massive use of the `final` keyword makes your
 Thus, in our learning examples, we will not always write the `final` keyword, but sometimes you will see such examples. In your solutions, you can write or avoid this keyword. During your real work as a programmer, we hope that the issue of using finals will be standardized for all programmers in the project.
 
 Interestingly, the `final` keyword can also be used in some different contexts, not only for declaring constants. We will learn other ways to use this keyword in the next topics.
+#Final-Variables
+
 
 [[Write, Compile and Run]]
 [[Iterating Over Arrays]]

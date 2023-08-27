@@ -44,6 +44,7 @@ Here is a table with commonly used units of information according to modern inte
 |Terabyte|TB|10^12 B (1000 GB)|Tebibyte|TiB|2^40 B (or 1024 GiB)|
 |Petabyte|PB|10^15 B (1000 TB)|Pebibyte|PiB|2^50 B (or 1024 TiB)|
 
+#Kilobyte #Megabyte #Gigabyte #Terabyte #Petabyte
 Of course, not all units of measurement are listed here. We hope this classification will not confuse you.
 
 Note that some people and organizations still prefer **kilo**, **mega**, and **giga** to describe powers of two. In this course, we follow the recommendations of the IEC and use the modern prefixes **kibi**, **mebi**, and **gibi**.

@@ -108,6 +108,8 @@ int n = null; // it won't compile
 ```
 
 Unfortunately, the frequent use of the `null` value can easily lead to errors in the program and complicate the code. Try to avoid `null` whenever it is possible, only use it if you really need it.
+#new-keyword
+
 
 [[overloading.java]]
 [[Array]]

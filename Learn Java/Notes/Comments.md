@@ -70,5 +70,7 @@ class Program {
 ```
 
 Do not be afraid if you have not understood **the documentation comments** completely. This will be considered in other topics.
+#Comments
+
 
 [[Boolean and Logical Operations]]

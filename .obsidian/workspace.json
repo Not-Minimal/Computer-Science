@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running Programs on Computers.md",
+                "file": "Learn Java/Notes/What Is An Exception.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,11 +24,17 @@
             "id": "e9790517f357adbc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms and Data Structures/Notas/Fixed-size array.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Principles-techniques",
+                "query": "tag:#kilobyte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -95,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running Programs on Computers.md",
+                "file": "Algorithms and Data Structures/Notas/Fixed-size array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running Programs on Computers.md",
+                "file": "Algorithms and Data Structures/Notas/Fixed-size array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running Programs on Computers.md"
+                "file": "Algorithms and Data Structures/Notas/Fixed-size array.md"
               }
             }
           },
@@ -177,38 +182,38 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "cd8327971757765c",
+  "active": "e9790517f357adbc",
   "lastOpenFiles": [
-    "JVM, JRE And JDK.md",
-    "IDE.md",
-    "Parameters And Options.md",
-    "NPE.md",
-    "What Is An Exception.md",
-    "Errors in Programs.md",
-    "Learn Java/Notes/Write, Compile and Run.md",
-    "Running Programs on Computers.md",
-    "Comand Line Overview.md",
-    "Introduction to Operating Systems.md",
-    "Learn Java/Notes/Iterating Over Arrays.md",
-    "Learn Java/Notes/Final Variables.md",
-    "Learn Java/Notes/String.md",
-    "Learn Java/Notes/Characters.md",
-    "Learn Java/Notes/Hexadecimal Numbers.md",
-    "Learn Java/Notes/Binary Numbers.md",
+    "Algorithms and Data Structures/Notas/Data structures.md",
+    "Algorithms and Data Structures/Notas/Best, average and worst cases.md",
+    "Learn Java/Notes/Big-O Notation.md",
     "Algorithms and Data Structures/Notas/Complex constructions in pseudocode.md",
+    "Algorithms and Data Structures/Notas/The big O notation.md",
+    "Algorithms and Data Structures/Notas/Pseudocode basics.md",
+    "Algorithms and Data Structures/Pseudocode.md",
+    "Learn Java/Notes/What Is An Exception.md",
+    "Learn Java/Notes/Write, Compile and Run.md",
+    "Learn Java/RoadMap Java.pdf",
+    "Learn Java/Notes/Units of Information.md",
+    "Learn Java/Notes/Types and Variables.md",
+    "Learn Java/Notes/Type Casting.md",
+    "Learn Java/Notes/The While and Do-While Loops.md",
+    "Learn Java/Notes/The Main Method.md",
+    "Learn Java/Notes/The For-Loop.md",
+    "Learn Java/Notes/The Basic of a Program.md",
+    "Learn Java/Notes/Ternary Operator.md",
+    "Learn Java/Notes/Switch Statement.md",
+    "Learn Java/Notes/String.md",
+    "Learn Java/Notes/Sizes and Ranges.md",
+    "Learn Java/Notes/Relational Operators.md",
+    "Learn Java/Notes/Primitive and Reference Types.md",
+    "Learn Java/Notes/Overloading.md",
+    "Learn Java/Notes/Iterating Over Arrays.md",
+    "Learn Java/Notes/Integer Types and Operations.md",
     "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
-    "Algorithms and Data Structures/Notas/Flowcharts.md",
-    "Algorithms and Data Structures/Notas/Prim's algorithm.md",
-    "Algorithms and Data Structures/Notas/Kruskal's algorithm.md",
-    "Algorithms and Data Structures/Notas/Greedy algorithms.md",
-    "Algorithms and Data Structures/Notas/Cryptographic hash functions.md",
-    "Algorithms and Data Structures/Notas/Doubly linked list.md",
-    "Algorithms and Data Structures/Notas/Dynamic programming another approach.md",
-    "Algorithms and Data Structures/Notas/Hamming distance.md",
     "Algorithms and Data Structures/Notas",
     "Algorithms and Data Structures",
     "Malla Curricular.canvas",
-    "Learn Java/RoadMap Java.pdf",
     "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
     "Learn Java/Ejercicios/ShiftingElements.class",
     "Learn Java/Ejercicios/ShiftingElements.java",

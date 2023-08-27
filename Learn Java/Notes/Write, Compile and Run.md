@@ -46,4 +46,6 @@ _Different programming languages can be used to write programs in the world of J
 - The Java Virtual Machine executes bytecode, giving low-level commands to the computer.
     
 - All JVMs are defined by the JVM specification, thus providing platform independence for programs.
+#Bytecode #JVMS #JRE #Compiler
+
 [[Errors in Programs]]

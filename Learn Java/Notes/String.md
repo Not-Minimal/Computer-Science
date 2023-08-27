@@ -187,4 +187,5 @@ System.out.println(second.equalsIgnoreCase(secondInUpperCase)); // true, it igno
 ```
 
 Do not forget the rules when comparing strings.
+#String-algorithms #method 
 [[Final Variables]]
