@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/0. The Basic of a Program.md",
+                "file": "iTerm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 200
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/0. The Basic of a Program.md",
+                "file": "iTerm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/0. The Basic of a Program.md",
+                "file": "iTerm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/0. The Basic of a Program.md"
+                "file": "iTerm.md"
               }
             }
           },
@@ -165,17 +165,22 @@
       "audio-recorder:Empezar/Parar de grabar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "random-note:Abrir nota al azar": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "406daa9acfe0d696",
   "lastOpenFiles": [
-    "Learn Java/Notes/1. Basic Literals.md",
+    "Crear app en React.md",
+    "iTerm.md",
+    "Readme.md",
+    "Learn Java/All.md",
     "Learn Java/Notes/0. The Basic of a Program.md",
+    "Learn Java/Notes/1. Basic Literals.md",
     "Learn Java/Notes/19. Calling a Method.md",
     "Learn Java/Notes/String 1.md",
     "Learn Java/Notes/25. Array.md",
-    "Learn Java/All.md",
     "Learn Java/Notes/41. JVM, JRE And JDK.md",
     "Algorithms and Data Structures/Notas/Searching a substring.md",
     "Learn Java/Notes/14. Branching Statements.md",
@@ -193,9 +198,6 @@
     "3 Semestre/Calculo 2/Formulas/Formulas Limite Iterado.md",
     "Algorithms and Data Structures/Notas/Best, average and worst cases.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Autómata con Pila a Gramática Libre de Contexto.md",
-    "5 Semestre/Sistemas de Información.md",
-    "5 Semestre/Metodología de Desarrollo.md",
-    "Algorithms and Data Structures/Notas/Bellman–Ford algorithm.md",
     "Algorithms and Data Structures/27/08",
     "Algorithms and Data Structures/27",
     "Learn Java/RoadMap Java.pdf",

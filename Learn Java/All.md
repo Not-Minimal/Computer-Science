@@ -4206,4 +4206,45 @@ The picture below demonstrates such a tree for the example with computers.
 
 This example completes our examination of conditional statements.
 
+A decision tree is a flowchart-like structure that represents a series of decisions or actions. It starts with a single node that represents the initial decision, and each subsequent node represents a new decision or action based on the previous one. In the case of buying a computer, a decision tree can help guide individuals through the various factors to consider before making a purchase.
+
+The decision tree for buying a computer could look something like this:
+
+1. Determine your budget:
+   - If your budget is less than $500, go to Node 2
+   - If your budget is between $500 and $1000, go to Node 3
+   - If your budget is more than $1000, go to Node 4
+
+2. Consider refurbished or used options:
+   - If you are open to buying refurbished or used computers, go to Node 5
+   - If you prefer only new computers, go to Node 6
+
+3. Determine your primary usage:
+   - If you primarily need the computer for basic tasks like web browsing and word processing, go to Node 7
+   - If you require more advanced tasks like photo/video editing or gaming, go to Node 8
+
+4. Decide on the operating system preference:
+   - If you prefer Windows OS, go to Node 9
+   - If you prefer macOS, go to Node 10
+
+5. Consider reputable websites or sellers offering refurbished computers:
+   - Research options and compare prices and warranties before making a final decision
+
+6. Explore options for new computers within your budget:
+   - Research reputable brands and models that fit your requirements in terms of performance and features
+
+7. Look for entry-level laptops or desktops from trusted brands:
+   - Check for customer reviews and ratings to assess reliability and performance
+
+8. Look for computers with higher specifications suited for advanced tasks:
+   - Research specific hardware requirements needed for photo/video editing or gaming
+
+9. Explore Windows-based laptops or desktops within your budget:
+   - Research various brands, models, and specifications that meet your needs and preferences
+
+10. Explore macOS-based laptops or desktops within your budget:
+    - Research various Apple products and models to find one that aligns with your requirements
+
+By following this decision tree, individuals can narrow down their options based on their budget, preferences for new or refurbished devices, primary usage, and operating system preference. This approach can help make the buying process more organized and ensure individuals choose a computer that meets their needs.
+
 [[10. Ternary Operator]]

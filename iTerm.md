@@ -12,3 +12,4 @@ brew upgrade tree // Tree View of documents
 omz update
 
 ```
+
