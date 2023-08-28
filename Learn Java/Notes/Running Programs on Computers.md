@@ -72,3 +72,5 @@ Below is an animation that executes all these steps.
 **Congratulations!** You have just started a simple program on your computer. Try to change this program if you would like to get more interesting results.
 
 Since Java 11, it is possible to compile and run Java source code file using a single command `java Main.java`. It will compile the file in-memory, so it does not produce a `.class` file. Many developers don't know this small but interesting feature.
+
+[[Introduction to OPP]]

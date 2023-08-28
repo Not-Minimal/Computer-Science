@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/What Is An Exception.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9790517f357adbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms and Data Structures/Notas/Fixed-size array.md",
+                "file": "Algorithms and Data Structures/Notas/Searching a substring.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kilobyte",
+                "query": "tag:#Encapsulation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms and Data Structures/Notas/Fixed-size array.md",
+                "file": "Algorithms and Data Structures/Notas/Searching a substring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms and Data Structures/Notas/Fixed-size array.md",
+                "file": "Algorithms and Data Structures/Notas/Searching a substring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms and Data Structures/Notas/Fixed-size array.md"
+                "file": "Algorithms and Data Structures/Notas/Searching a substring.md"
               }
             }
           },
@@ -182,35 +168,37 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e9790517f357adbc",
+  "active": "cd8327971757765c",
   "lastOpenFiles": [
-    "Algorithms and Data Structures/Notas/Data structures.md",
-    "Algorithms and Data Structures/Notas/Best, average and worst cases.md",
-    "Learn Java/Notes/Big-O Notation.md",
-    "Algorithms and Data Structures/Notas/Complex constructions in pseudocode.md",
-    "Algorithms and Data Structures/Notas/The big O notation.md",
+    "Learn Java/Notes/Branching Statements.md",
+    "Algorithms and Data Structures/Notas/Binary search tree.md",
+    "4 Semestre/Formación Integral.md",
+    "6 Semestre/Electivo de Especialidad 1.md",
     "Algorithms and Data Structures/Notas/Pseudocode basics.md",
-    "Algorithms and Data Structures/Pseudocode.md",
-    "Learn Java/Notes/What Is An Exception.md",
-    "Learn Java/Notes/Write, Compile and Run.md",
-    "Learn Java/RoadMap Java.pdf",
-    "Learn Java/Notes/Units of Information.md",
-    "Learn Java/Notes/Types and Variables.md",
-    "Learn Java/Notes/Type Casting.md",
-    "Learn Java/Notes/The While and Do-While Loops.md",
-    "Learn Java/Notes/The Main Method.md",
-    "Learn Java/Notes/The For-Loop.md",
-    "Learn Java/Notes/The Basic of a Program.md",
-    "Learn Java/Notes/Ternary Operator.md",
-    "Learn Java/Notes/Switch Statement.md",
-    "Learn Java/Notes/String.md",
-    "Learn Java/Notes/Sizes and Ranges.md",
-    "Learn Java/Notes/Relational Operators.md",
-    "Learn Java/Notes/Primitive and Reference Types.md",
-    "Learn Java/Notes/Overloading.md",
-    "Learn Java/Notes/Iterating Over Arrays.md",
-    "Learn Java/Notes/Integer Types and Operations.md",
+    "1 Semestre/Comunicación y Argumentación.md",
+    "8 Semestre/Formación Integral Extra.md",
+    "Algorithms and Data Structures/Notas/Breadth-first search.md",
+    "3 Semestre/Estadistica y Probabilidades.md",
+    "1 Semestre/Algoritmos y Bases de la Programación.md",
+    "Learn Java/Notes/2. Arithmmetic Operations.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Prueba Directa.md",
+    "3 Semestre/Calculo 2/Formulas/Formulas Limite Iterado.md",
+    "Algorithms and Data Structures/Notas/Best, average and worst cases.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Autómata con Pila a Gramática Libre de Contexto.md",
+    "5 Semestre/Sistemas de Información.md",
+    "5 Semestre/Metodología de Desarrollo.md",
+    "Algorithms and Data Structures/Notas/Bellman–Ford algorithm.md",
+    "6 Semestre/Ingeniería de Software.md",
+    "8 Semestre/Formación Integral.md",
+    "Learn Java/Notes/Running Programs on Computers.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing No Deterministas.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Data Structure.md",
     "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
+    "Learn Java/Notes/Big-O Notation.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - QuickSort.md",
+    "Algorithms and Data Structures/27/08",
+    "Algorithms and Data Structures/27",
+    "Learn Java/RoadMap Java.pdf",
     "Algorithms and Data Structures/Notas",
     "Algorithms and Data Structures",
     "Malla Curricular.canvas",
@@ -220,8 +208,6 @@
     "Learn Java/Ejercicios/MysteryArray.class",
     "Learn Java/Ejercicios/MysteryArray.java",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas",
     "Learn Java/Images/Logarithmic Complexity.png",
     "Learn Java/Images/Constant Complexity.png",
     "Learn Java/Images/Exponential Complexity.png",
