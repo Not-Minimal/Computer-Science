@@ -13,11 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iTerm.md",
+                "file": "46. Constructor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "8243f7677ff38596",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Classes",
+                "query": "tag:#OPP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iTerm.md",
+                "file": "46. Constructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iTerm.md",
+                "file": "46. Constructor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iTerm.md"
+                "file": "46. Constructor.md"
               }
             }
           },
@@ -172,8 +181,13 @@
   },
   "active": "406daa9acfe0d696",
   "lastOpenFiles": [
-    "Crear app en React.md",
+    "Learn Java/Notes/45. Instance Methods.md",
+    "46. Constructor.md",
+    "Learn Java/Notes/43. Introduction to OPP.md",
+    "Learn Java/Notes/9. Conditional Statement.md",
     "iTerm.md",
+    "Objetivo Fin de Año.md",
+    "Crear app en React.md",
     "Readme.md",
     "Learn Java/All.md",
     "Learn Java/Notes/0. The Basic of a Program.md",
@@ -193,11 +207,6 @@
     "Algorithms and Data Structures/Notas/Breadth-first search.md",
     "3 Semestre/Estadistica y Probabilidades.md",
     "1 Semestre/Algoritmos y Bases de la Programación.md",
-    "Learn Java/Notes/5. Arithmmetic Operations.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Prueba Directa.md",
-    "3 Semestre/Calculo 2/Formulas/Formulas Limite Iterado.md",
-    "Algorithms and Data Structures/Notas/Best, average and worst cases.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Autómata con Pila a Gramática Libre de Contexto.md",
     "Algorithms and Data Structures/27/08",
     "Algorithms and Data Structures/27",
     "Learn Java/RoadMap Java.pdf",
