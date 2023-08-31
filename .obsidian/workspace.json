@@ -11,12 +11,14 @@
             "id": "406daa9acfe0d696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Access Modifieres.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
+                "viewState": {
+                  "x": 1662.5,
+                  "y": -367.5,
+                  "zoom": -1.837056155441321
+                }
               }
             }
           },
@@ -74,12 +76,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Access Modifieres.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Access Modifieres.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Access Modifieres.md"
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas"
               }
             }
           },
@@ -181,14 +183,16 @@
   },
   "active": "406daa9acfe0d696",
   "lastOpenFiles": [
-    "47. Package.md",
-    "Access Modifieres.md",
+    "Learn Java/RoadMap Java.pdf",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
+    "Learn Java/Notes/48. Access Modifieres.md",
+    "Learn Java/Notes/47. Package.md",
     "Readme.md",
     "Learn Java/Notes/1. Scanning Input.md",
     "Learn Java/Notes/25. Array.md",
     "Learn Java/Notes/26. Arrays as Parameters.md",
     "Untitled",
-    "46. Constructor.md",
+    "Learn Java/Notes/46. Constructor.md",
     "Learn Java/Notes/45. Instance Methods.md",
     "Learn Java/Notes/43. Introduction to OPP.md",
     "Learn Java/Notes/9. Conditional Statement.md",
@@ -207,10 +211,8 @@
     "4 Semestre/Formación Integral.md",
     "6 Semestre/Electivo de Especialidad 1.md",
     "Algorithms and Data Structures/Notas/Pseudocode basics.md",
-    "1 Semestre/Comunicación y Argumentación.md",
     "Algorithms and Data Structures/27/08",
     "Algorithms and Data Structures/27",
-    "Learn Java/RoadMap Java.pdf",
     "Algorithms and Data Structures/Notas",
     "Algorithms and Data Structures",
     "Malla Curricular.canvas",
@@ -235,7 +237,6 @@
     "3 Semestre/Calculo/Mapa Mental.canvas",
     "3 Semestre/Estructura de Datos/Arboles y Rotaciones.canvas",
     "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Mapa Mental.canvas",
-    "Estructura de Datos/Tareas/Tarea 2/Untitled 1.canvas",
-    "Untitled 1.canvas"
+    "Estructura de Datos/Tareas/Tarea 2/Untitled 1.canvas"
   ]
 }
