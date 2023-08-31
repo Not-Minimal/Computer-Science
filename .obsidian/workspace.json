@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "46. Constructor.md",
+                "file": "Access Modifieres.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#OPP",
+                "query": "array[",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "46. Constructor.md",
+                "file": "Access Modifieres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "46. Constructor.md",
+                "file": "Access Modifieres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "46. Constructor.md"
+                "file": "Access Modifieres.md"
               }
             }
           },
@@ -181,6 +181,13 @@
   },
   "active": "406daa9acfe0d696",
   "lastOpenFiles": [
+    "47. Package.md",
+    "Access Modifieres.md",
+    "Readme.md",
+    "Learn Java/Notes/1. Scanning Input.md",
+    "Learn Java/Notes/25. Array.md",
+    "Learn Java/Notes/26. Arrays as Parameters.md",
+    "Untitled",
     "46. Constructor.md",
     "Learn Java/Notes/45. Instance Methods.md",
     "Learn Java/Notes/43. Introduction to OPP.md",
@@ -188,13 +195,11 @@
     "iTerm.md",
     "Objetivo Fin de Año.md",
     "Crear app en React.md",
-    "Readme.md",
     "Learn Java/All.md",
     "Learn Java/Notes/0. The Basic of a Program.md",
     "Learn Java/Notes/1. Basic Literals.md",
     "Learn Java/Notes/19. Calling a Method.md",
     "Learn Java/Notes/String 1.md",
-    "Learn Java/Notes/25. Array.md",
     "Learn Java/Notes/41. JVM, JRE And JDK.md",
     "Algorithms and Data Structures/Notas/Searching a substring.md",
     "Learn Java/Notes/14. Branching Statements.md",
@@ -203,10 +208,6 @@
     "6 Semestre/Electivo de Especialidad 1.md",
     "Algorithms and Data Structures/Notas/Pseudocode basics.md",
     "1 Semestre/Comunicación y Argumentación.md",
-    "8 Semestre/Formación Integral Extra.md",
-    "Algorithms and Data Structures/Notas/Breadth-first search.md",
-    "3 Semestre/Estadistica y Probabilidades.md",
-    "1 Semestre/Algoritmos y Bases de la Programación.md",
     "Algorithms and Data Structures/27/08",
     "Algorithms and Data Structures/27",
     "Learn Java/RoadMap Java.pdf",
@@ -218,7 +219,6 @@
     "Learn Java/Ejercicios/ShiftingElements.java",
     "Learn Java/Ejercicios/MysteryArray.class",
     "Learn Java/Ejercicios/MysteryArray.java",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras",
     "Learn Java/Images/Logarithmic Complexity.png",
     "Learn Java/Images/Constant Complexity.png",
     "Learn Java/Images/Exponential Complexity.png",
