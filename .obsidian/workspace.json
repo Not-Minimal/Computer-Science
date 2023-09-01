@@ -11,14 +11,12 @@
             "id": "406daa9acfe0d696",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
-                "viewState": {
-                  "x": 1662.5,
-                  "y": -367.5,
-                  "zoom": -1.837056155441321
-                }
+                "file": "49. Getters and Setters.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -80,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
+                "file": "49. Getters and Setters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
+                "file": "49. Getters and Setters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas"
+                "file": "49. Getters and Setters.md"
               }
             }
           },
@@ -183,17 +180,22 @@
   },
   "active": "406daa9acfe0d696",
   "lastOpenFiles": [
-    "Learn Java/RoadMap Java.pdf",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Learn Java/Notes/48. Access Modifieres.md",
+    "49. Getters and Setters.md",
+    "TopSecret/Paradigmas de la Programación (Progra 4)/Materia/9.- Resumen - Diagrama de Clases.pdf",
+    "Learn Java/Notes/28. Hexadecimal Numbers.md",
+    "Learn Java/Notes/25. Array.md",
+    "Learn Java/Notes/30. String.md",
+    "Algorithms and Data Structures/Notas/String basics.md",
+    "Learn Java/Notes/45. Instance Methods.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
+    "Learn Java/RoadMap Java.pdf",
     "Learn Java/Notes/47. Package.md",
     "Readme.md",
     "Learn Java/Notes/1. Scanning Input.md",
-    "Learn Java/Notes/25. Array.md",
     "Learn Java/Notes/26. Arrays as Parameters.md",
     "Untitled",
     "Learn Java/Notes/46. Constructor.md",
-    "Learn Java/Notes/45. Instance Methods.md",
     "Learn Java/Notes/43. Introduction to OPP.md",
     "Learn Java/Notes/9. Conditional Statement.md",
     "iTerm.md",
@@ -208,9 +210,6 @@
     "Algorithms and Data Structures/Notas/Searching a substring.md",
     "Learn Java/Notes/14. Branching Statements.md",
     "Algorithms and Data Structures/Notas/Binary search tree.md",
-    "4 Semestre/Formación Integral.md",
-    "6 Semestre/Electivo de Especialidad 1.md",
-    "Algorithms and Data Structures/Notas/Pseudocode basics.md",
     "Algorithms and Data Structures/27/08",
     "Algorithms and Data Structures/27",
     "Algorithms and Data Structures/Notas",
@@ -220,7 +219,6 @@
     "Learn Java/Ejercicios/ShiftingElements.class",
     "Learn Java/Ejercicios/ShiftingElements.java",
     "Learn Java/Ejercicios/MysteryArray.class",
-    "Learn Java/Ejercicios/MysteryArray.java",
     "Learn Java/Images/Logarithmic Complexity.png",
     "Learn Java/Images/Constant Complexity.png",
     "Learn Java/Images/Exponential Complexity.png",
