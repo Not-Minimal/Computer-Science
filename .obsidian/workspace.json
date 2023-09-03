@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49. Getters and Setters.md",
+                "file": "50. Inheritance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "array[",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "49. Getters and Setters.md",
+                "file": "50. Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "49. Getters and Setters.md",
+                "file": "50. Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "49. Getters and Setters.md"
+                "file": "50. Inheritance.md"
               }
             }
           },
@@ -164,24 +165,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Abrir vista de gráfico": false,
-      "switcher:Abrir quick switcher": false,
-      "canvas:Create new canvas": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "zk-prefixer:Crear nueva nota única": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Empezar/Parar de grabar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "random-note:Abrir nota al azar": false,
-      "zk-prefixer:Create new unique note": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "406daa9acfe0d696",
   "lastOpenFiles": [
+    "Learn Java/Notes/49. Getters and Setters.md",
+    "50. Inheritance.md",
     "Learn Java/Notes/48. Access Modifieres.md",
-    "49. Getters and Setters.md",
+    "Learn Java/Notes/8. Relational Operators.md",
+    "Learn Java/Notes/46. Constructor.md",
     "TopSecret/Paradigmas de la Programación (Progra 4)/Materia/9.- Resumen - Diagrama de Clases.pdf",
     "Learn Java/Notes/28. Hexadecimal Numbers.md",
     "Learn Java/Notes/25. Array.md",
@@ -195,7 +199,6 @@
     "Learn Java/Notes/1. Scanning Input.md",
     "Learn Java/Notes/26. Arrays as Parameters.md",
     "Untitled",
-    "Learn Java/Notes/46. Constructor.md",
     "Learn Java/Notes/43. Introduction to OPP.md",
     "Learn Java/Notes/9. Conditional Statement.md",
     "iTerm.md",
@@ -208,8 +211,6 @@
     "Learn Java/Notes/String 1.md",
     "Learn Java/Notes/41. JVM, JRE And JDK.md",
     "Algorithms and Data Structures/Notas/Searching a substring.md",
-    "Learn Java/Notes/14. Branching Statements.md",
-    "Algorithms and Data Structures/Notas/Binary search tree.md",
     "Algorithms and Data Structures/27/08",
     "Algorithms and Data Structures/27",
     "Algorithms and Data Structures/Notas",
