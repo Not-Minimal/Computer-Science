@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "51. Protected Modifier.md",
+                "file": "52. Referencing SubClass Objects.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "51. Protected Modifier.md",
+                "file": "52. Referencing SubClass Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "51. Protected Modifier.md",
+                "file": "52. Referencing SubClass Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "51. Protected Modifier.md"
+                "file": "52. Referencing SubClass Objects.md"
               }
             }
           },
@@ -181,8 +181,9 @@
   },
   "active": "406daa9acfe0d696",
   "lastOpenFiles": [
-    "50. Inheritance.md",
     "51. Protected Modifier.md",
+    "52. Referencing SubClass Objects.md",
+    "50. Inheritance.md",
     "Learn Java/Notes/29. Characters.md",
     "Learn Java/Notes/49. Getters and Setters.md",
     "Learn Java/Notes/48. Access Modifieres.md",
@@ -210,7 +211,6 @@
     "Learn Java/Notes/0. The Basic of a Program.md",
     "Learn Java/Notes/1. Basic Literals.md",
     "Learn Java/Notes/19. Calling a Method.md",
-    "Learn Java/Notes/String 1.md",
     "Algorithms and Data Structures/27/08",
     "Algorithms and Data Structures/27",
     "Algorithms and Data Structures/Notas",
