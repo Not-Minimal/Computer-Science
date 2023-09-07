@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"file","file":"1 Semestre/Algebra I.md","id":"73039a10b300ed09","x":-102,"y":28,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"1 Semestre/Algebra 1/Algebra I.md","id":"73039a10b300ed09","x":-102,"y":28,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"1 Semestre/Nociones de Computación e Informatica.md","id":"849a709cf42f30c0","x":-102,"y":480,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"1 Semestre/Algoritmos y Bases de la Programación.md","id":"510b46c4b533c17a","x":-102,"y":920,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"1 Semestre/Introducción a la Ingeniería.md","id":"f63363e2dedc411a","x":-102,"y":1360,"width":400,"height":400,"color":"4"},
@@ -15,7 +15,7 @@
 		{"type":"file","file":"3 Semestre/Economía.md","id":"64e91867ecf359e5","x":880,"y":1820,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"3 Semestre/Taller Ejercicio Fisico.md","id":"b77f050378c981ff","x":880,"y":2280,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"3 Semestre/Estadistica y Probabilidades.md","id":"8431d6b9fa249046","x":880,"y":28,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"3 Semestre/Calculo 2.md","id":"5ed4ac20d05891e9","x":880,"y":480,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"3 Semestre/Calculo 2/Calculo 2.md","id":"5ed4ac20d05891e9","x":880,"y":480,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md","id":"b4721b87a061dcb9","x":1360,"y":28,"width":400,"height":400},
 		{"type":"file","file":"4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md","id":"66997ab27adcaf77","x":1360,"y":1360,"width":400,"height":400},
 		{"type":"file","file":"4 Semestre/Paradigmas de la Programación/Paradigmas de la Programación.md","id":"e440358952f50b26","x":1360,"y":920,"width":400,"height":400},
@@ -42,8 +42,8 @@
 		{"type":"file","file":"6 Semestre/Electivo de Especialidad 1.md","id":"2d59b8eb09a226cb","x":2320,"y":1360,"width":400,"height":400},
 		{"type":"file","file":"7 Semestre/Electivo Especialidad 2.md","id":"69f5cc1523c01077","x":2800,"y":1360,"width":400,"height":400},
 		{"type":"file","file":"8 Semestre/Electivo Especialidad 3.md","id":"afe962eb118ec207","x":3280,"y":1360,"width":400,"height":400},
-		{"type":"file","file":"2 Semestre/Cálculo 1.md","id":"a2a56c071e780bd8","x":400,"y":480,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"2 Semestre/Algebra 2.md","id":"aaae41cac5aac976","x":400,"y":28,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"2 Semestre/Calculo 1/Cálculo 1.md","id":"a2a56c071e780bd8","x":400,"y":480,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"2 Semestre/Algebra 2/Algebra 2.md","id":"aaae41cac5aac976","x":400,"y":28,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"7 Semestre/Comunicación de Datos y Redes.md","id":"2040699af1b260e9","x":2800,"y":480,"width":400,"height":400},
 		{"type":"file","file":"7 Semestre/Taller de Desarrollo.md","id":"b9ff404006e7cd1d","x":2800,"y":28,"width":400,"height":400}
 	],
