@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50. Inheritance.md",
+                "file": "51. Protected Modifier.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,12 +74,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50. Inheritance.md",
+                "file": "51. Protected Modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50. Inheritance.md",
+                "file": "51. Protected Modifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50. Inheritance.md"
+                "file": "51. Protected Modifier.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "406daa9acfe0d696",
   "lastOpenFiles": [
-    "Learn Java/Notes/49. Getters and Setters.md",
     "50. Inheritance.md",
+    "51. Protected Modifier.md",
+    "Learn Java/Notes/29. Characters.md",
+    "Learn Java/Notes/49. Getters and Setters.md",
     "Learn Java/Notes/48. Access Modifieres.md",
     "Learn Java/Notes/8. Relational Operators.md",
     "Learn Java/Notes/46. Constructor.md",
@@ -209,8 +211,6 @@
     "Learn Java/Notes/1. Basic Literals.md",
     "Learn Java/Notes/19. Calling a Method.md",
     "Learn Java/Notes/String 1.md",
-    "Learn Java/Notes/41. JVM, JRE And JDK.md",
-    "Algorithms and Data Structures/Notas/Searching a substring.md",
     "Algorithms and Data Structures/27/08",
     "Algorithms and Data Structures/27",
     "Algorithms and Data Structures/Notas",
