@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/50. Inheritance.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - HeapSort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 397
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/50. Inheritance.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - HeapSort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/50. Inheritance.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - HeapSort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/50. Inheritance.md"
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - HeapSort.md"
               }
             }
           },
@@ -170,8 +170,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "be4978d7f0ba358f",
+  "active": "90bf927dd7af94f5",
   "lastOpenFiles": [
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - BubbleSort.md",
+    "Learn Java/Notes/50. Inheritance.md",
     "3 Semestre/Estructura de Datos/Pasted image 20230730111455.png",
     "3 Semestre/Resumen Certamen 2.md",
     "3 Semestre/Taller Ejercicio Fisico.md",
@@ -187,7 +189,6 @@
     "1 Semestre/Algebra 1/Módulo 2/Numeros Complejos.pdf",
     "1 Semestre/Algebra 1/Módulo 2/Formativo N°2 - Numeros complejos.pdf",
     "Learn Java/Notes/51. Protected Modifier.md",
-    "Learn Java/Notes/50. Inheritance.md",
     "Learn Java/Notes/29. Characters.md",
     "Learn Java/Notes/49. Getters and Setters.md",
     "Learn Java/Notes/48. Access Modifieres.md",
