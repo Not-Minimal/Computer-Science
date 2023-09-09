@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Learn Java/Notes/55. Hiding and Overriding.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -116,7 +116,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -147,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,9 +171,10 @@
   },
   "active": "f609fda8cc7a4a1e",
   "lastOpenFiles": [
+    "Learn Java/Learn Java.md",
+    "Learn Java/Notes/55. Hiding and Overriding.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/circular-queue-imitation-2.png",
     "Learn Java/All.md",
-    "Learn Java/Learn Java.md",
     "Algorithms and Data Structures/09/09",
     "Algorithms and Data Structures/09",
     "Learn Java/Notes/42. Running Programs on Computers.md",
@@ -223,7 +223,6 @@
     "3 Semestre/Calculo 2/Mapa Mental.canvas",
     "3 Semestre/Calculo 2/Mapa Mental 2.canvas",
     "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 2.png",
-    "3 Semestre/Calculo 2/Ejercicios Resueltos/2 Ejercicio, Camino 1.png",
     "3 Semestre/Calculo/Mapa Mental.canvas",
     "3 Semestre/Estructura de Datos/Arboles y Rotaciones.canvas",
     "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Mapa Mental.canvas",
