@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/56. Polymorphism.md",
+                "file": "Learn Java/Notes/57. Objects.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 232
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/56. Polymorphism.md",
+                "file": "Learn Java/Notes/57. Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/56. Polymorphism.md",
+                "file": "Learn Java/Notes/57. Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/56. Polymorphism.md"
+                "file": "Learn Java/Notes/57. Objects.md"
               }
             }
           },
@@ -152,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +170,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f609fda8cc7a4a1e",
+  "active": "90bf927dd7af94f5",
   "lastOpenFiles": [
+    "Learn Java/Notes/56. Polymorphism.md",
     "Learn Java/Notes/55. Hiding and Overriding.md",
     "Learn Java/Notes/54. The Keyword Super.md",
     "Learn Java/Notes/53. Referencing Subclass Objects.md",
@@ -193,8 +194,7 @@
     "Learn Java/Notes/37. What Is An Exception.md",
     "Learn Java/Notes/36. Errors in Programs.md",
     "Learn Java/Notes/35. Write, Compile and Run.md",
-    "57. Objects.md",
-    "Learn Java/Notes/56. Polymorphism.md",
+    "Learn Java/Notes/57. Objects.md",
     "Learn Java/Notes/34. Comand Line Overview.md",
     "Learn Java/Notes/33. Introduction to Operating Systems.md",
     "Learn Java/Notes/32. Iterating Over Arrays.md",
