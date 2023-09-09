@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/55. Hiding and Overriding.md",
-                "mode": "preview",
+                "file": "Learn Java/Notes/44. Defining Classes.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 322
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/55. Hiding and Overriding.md",
+                "file": "Learn Java/Notes/44. Defining Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/55. Hiding and Overriding.md",
+                "file": "Learn Java/Notes/44. Defining Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/55. Hiding and Overriding.md"
+                "file": "Learn Java/Notes/44. Defining Classes.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,47 +170,47 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f609fda8cc7a4a1e",
+  "active": "90bf927dd7af94f5",
   "lastOpenFiles": [
-    "Learn Java/Learn Java.md",
-    "Learn Java/Notes/55. Hiding and Overriding.md",
-    "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/circular-queue-imitation-2.png",
-    "Learn Java/All.md",
-    "Algorithms and Data Structures/09/09",
-    "Algorithms and Data Structures/09",
-    "Learn Java/Notes/42. Running Programs on Computers.md",
-    "Learn Java/output.md",
-    "archivo1.md",
-    "archivo3.md",
-    "archivo2.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Prueba Directa.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
-    "Algorithms and Data Structures/Notas/Pseudocode basics.md",
-    "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
-    "Algorithms and Data Structures/Pseudocode.md",
-    "Algorithms and Data Structures/Notas/Dijkstra's algorithm.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Reducción Cook.md",
-    "Learn Java/Notes/12. The While and Do-While Loops.md",
     "Learn Java/Notes/43. Introduction to OPP.md",
-    "3 Semestre/Administración General.md",
-    "3 Semestre/Estructura de Datos/Estructura de Datos.md",
-    "Learn Java/Notes/16. Units of Information.md",
-    "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Función Mostrar.md",
-    "Learn Java/Notes/54. The Keyword Super.md",
+    "Learn Java/Notes/42. Running Programs on Computers.md",
+    "Learn Java/Notes/41. JVM, JRE And JDK.md",
+    "Learn Java/Notes/40. IDE.md",
+    "Learn Java/Notes/39. Parameters And Options.md",
+    "Learn Java/Notes/38. NPE.md",
+    "Learn Java/Notes/37. What Is An Exception.md",
+    "Learn Java/Notes/36. Errors in Programs.md",
+    "Learn Java/Notes/35. Write, Compile and Run.md",
+    "Learn Java/Notes/34. Comand Line Overview.md",
+    "Learn Java/Notes/33. Introduction to Operating Systems.md",
+    "Learn Java/Notes/32. Iterating Over Arrays.md",
+    "Learn Java/Notes/31. Final Variables.md",
+    "Learn Java/Notes/29. Characters.md",
+    "Learn Java/Notes/28. Hexadecimal Numbers.md",
+    "Learn Java/Notes/27. Binary Numbers.md",
+    "Learn Java/Notes/26. Arrays as Parameters.md",
+    "Learn Java/Notes/25. Array.md",
+    "Learn Java/Notes/23. Overloading.md",
+    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
+    "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
+    "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
+    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
+    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
+    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
+    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_6_MicroArquitectura_IECI.pdf",
+    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_5_Lenguaje_Ensamblador.pdf",
+    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_4_Bloques_Digitales_Avanzados_IECI.pdf",
+    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_3_Dise+¦o_Logico_IECI.pdf",
+    "Learn Java/Notes/30. String.md",
+    "Learn Java/Notes/24. Primitive and Reference Types.md",
+    "Learn Java/Notes/22. Functional Decomposition.md",
+    "Learn Java/Notes/21. The Main Method.md",
+    "Learn Java/Notes/20. Declaring a Method.md",
     "Learn Java/Notes/19. Calling a Method.md",
     "Learn Java/Notes/18. Type Casting.md",
-    "Learn Java/Notes/17. Sizes and Ranges.md",
-    "Learn Java/Notes/15. Switch Statement.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/circular-queue-imitation-2.png",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "3 Semestre/Estructura de Datos/Pasted image 20230730111455.png",
-    "1 Semestre/Algebra 1/Módulo 1/2 Funciones.pdf",
-    "1 Semestre/Algebra 1/Módulo 1/3.pdf",
-    "1 Semestre/Algebra 1/Módulo 1/2.pdf",
-    "1 Semestre/Algebra 1/Módulo 1/1 Logica y Conjuntos.pdf",
-    "1 Semestre/Algebra 1/Módulo 1/1.pdf",
-    "3 Semestre/Estadistica y Probabilidades/Distribución Normal.pdf",
-    "2 Semestre/Calculo 1/Modulo 1/Guía 0 Estudio.pdf",
-    "1 Semestre/Algebra 1/Módulo 2/Polinomios.pdf",
     "Malla Curricular.canvas",
     "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
     "Learn Java/Images/Logarithmic Complexity.png",
