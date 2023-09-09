@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/55. Hiding and Overriding.md",
+                "file": "Learn Java/Notes/56. Polymorphism.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/55. Hiding and Overriding.md",
+                "file": "Learn Java/Notes/56. Polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/55. Hiding and Overriding.md",
+                "file": "Learn Java/Notes/56. Polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/55. Hiding and Overriding.md"
+                "file": "Learn Java/Notes/56. Polymorphism.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "f609fda8cc7a4a1e",
   "lastOpenFiles": [
+    "Learn Java/Notes/55. Hiding and Overriding.md",
     "Learn Java/Notes/54. The Keyword Super.md",
     "Learn Java/Notes/53. Referencing Subclass Objects.md",
     "Learn Java/Notes/52. Referencing SubClass Objects.md",
@@ -194,7 +195,6 @@
     "Learn Java/Notes/35. Write, Compile and Run.md",
     "57. Objects.md",
     "Learn Java/Notes/56. Polymorphism.md",
-    "Learn Java/Notes/55. Hiding and Overriding.md",
     "Learn Java/Notes/34. Comand Line Overview.md",
     "Learn Java/Notes/33. Introduction to Operating Systems.md",
     "Learn Java/Notes/32. Iterating Over Arrays.md",
