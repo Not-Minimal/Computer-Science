@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/44. Defining Classes.md",
+                "file": "Learn Java/Notes/42. Running Programs on Computers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 300
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/44. Defining Classes.md",
+                "file": "Learn Java/Notes/42. Running Programs on Computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/44. Defining Classes.md",
+                "file": "Learn Java/Notes/42. Running Programs on Computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/44. Defining Classes.md"
+                "file": "Learn Java/Notes/42. Running Programs on Computers.md"
               }
             }
           },
@@ -170,10 +170,8 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "f609fda8cc7a4a1e",
   "lastOpenFiles": [
-    "Learn Java/Notes/43. Introduction to OPP.md",
-    "Learn Java/Notes/42. Running Programs on Computers.md",
     "Learn Java/Notes/41. JVM, JRE And JDK.md",
     "Learn Java/Notes/40. IDE.md",
     "Learn Java/Notes/39. Parameters And Options.md",
@@ -181,6 +179,18 @@
     "Learn Java/Notes/37. What Is An Exception.md",
     "Learn Java/Notes/36. Errors in Programs.md",
     "Learn Java/Notes/35. Write, Compile and Run.md",
+    "Learn Java/Notes/44. Defining Classes.md",
+    "Learn Java/Notes/47. Package.md",
+    "57. Objects.md",
+    "Learn Java/Notes/56. Polymorphism.md",
+    "Learn Java/Notes/52. Referencing SubClass Objects.md",
+    "Learn Java/Notes/51. Protected Modifier.md",
+    "Learn Java/Notes/50. Inheritance.md",
+    "Learn Java/Notes/53. Referencing Subclass Objects.md",
+    "Learn Java/Notes/54. The Keyword Super.md",
+    "Learn Java/Notes/55. Hiding and Overriding.md",
+    "Learn Java/Notes/43. Introduction to OPP.md",
+    "Learn Java/Notes/42. Running Programs on Computers.md",
     "Learn Java/Notes/34. Comand Line Overview.md",
     "Learn Java/Notes/33. Introduction to Operating Systems.md",
     "Learn Java/Notes/32. Iterating Over Arrays.md",
@@ -188,9 +198,6 @@
     "Learn Java/Notes/29. Characters.md",
     "Learn Java/Notes/28. Hexadecimal Numbers.md",
     "Learn Java/Notes/27. Binary Numbers.md",
-    "Learn Java/Notes/26. Arrays as Parameters.md",
-    "Learn Java/Notes/25. Array.md",
-    "Learn Java/Notes/23. Overloading.md",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
     "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
     "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
@@ -201,13 +208,6 @@
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_5_Lenguaje_Ensamblador.pdf",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_4_Bloques_Digitales_Avanzados_IECI.pdf",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_3_Dise+¦o_Logico_IECI.pdf",
-    "Learn Java/Notes/30. String.md",
-    "Learn Java/Notes/24. Primitive and Reference Types.md",
-    "Learn Java/Notes/22. Functional Decomposition.md",
-    "Learn Java/Notes/21. The Main Method.md",
-    "Learn Java/Notes/20. Declaring a Method.md",
-    "Learn Java/Notes/19. Calling a Method.md",
-    "Learn Java/Notes/18. Type Casting.md",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/circular-queue-imitation-2.png",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "3 Semestre/Estructura de Datos/Pasted image 20230730111455.png",
