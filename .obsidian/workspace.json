@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ad6ffb341251524d",
+        "id": "8f52ea2fc3a2b15f",
         "type": "tabs",
         "children": [
           {
-            "id": "be4978d7f0ba358f",
+            "id": "f609fda8cc7a4a1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - HeapSort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Fundamentals",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397
+    "width": 200
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - HeapSort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - HeapSort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - HeapSort.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,46 +161,46 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "f609fda8cc7a4a1e",
   "lastOpenFiles": [
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - BubbleSort.md",
-    "Learn Java/Notes/50. Inheritance.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/circular-queue-imitation-2.png",
+    "Learn Java/All.md",
+    "Learn Java/Learn Java.md",
+    "Algorithms and Data Structures/09/09",
+    "Algorithms and Data Structures/09",
+    "Learn Java/Notes/42. Running Programs on Computers.md",
+    "Learn Java/output.md",
+    "archivo1.md",
+    "archivo3.md",
+    "archivo2.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Prueba Directa.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
+    "Algorithms and Data Structures/Notas/Pseudocode basics.md",
+    "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
+    "Algorithms and Data Structures/Pseudocode.md",
+    "Algorithms and Data Structures/Notas/Dijkstra's algorithm.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Reducción Cook.md",
+    "Learn Java/Notes/12. The While and Do-While Loops.md",
+    "Learn Java/Notes/43. Introduction to OPP.md",
+    "3 Semestre/Administración General.md",
+    "3 Semestre/Estructura de Datos/Estructura de Datos.md",
+    "Learn Java/Notes/16. Units of Information.md",
+    "3 Semestre/Estructura de Datos/Tareas/Tarea 2/Función Mostrar.md",
+    "Learn Java/Notes/54. The Keyword Super.md",
+    "Learn Java/Notes/19. Calling a Method.md",
+    "Learn Java/Notes/18. Type Casting.md",
+    "Learn Java/Notes/17. Sizes and Ranges.md",
+    "Learn Java/Notes/15. Switch Statement.md",
     "3 Semestre/Estructura de Datos/Pasted image 20230730111455.png",
-    "3 Semestre/Resumen Certamen 2.md",
-    "3 Semestre/Taller Ejercicio Fisico.md",
     "1 Semestre/Algebra 1/Módulo 1/2 Funciones.pdf",
     "1 Semestre/Algebra 1/Módulo 1/3.pdf",
     "1 Semestre/Algebra 1/Módulo 1/2.pdf",
     "1 Semestre/Algebra 1/Módulo 1/1 Logica y Conjuntos.pdf",
     "1 Semestre/Algebra 1/Módulo 1/1.pdf",
-    "Learn Java/Notes/52. Referencing SubClass Objects.md",
     "3 Semestre/Estadistica y Probabilidades/Distribución Normal.pdf",
     "2 Semestre/Calculo 1/Modulo 1/Guía 0 Estudio.pdf",
     "1 Semestre/Algebra 1/Módulo 2/Polinomios.pdf",
-    "1 Semestre/Algebra 1/Módulo 2/Numeros Complejos.pdf",
-    "1 Semestre/Algebra 1/Módulo 2/Formativo N°2 - Numeros complejos.pdf",
-    "Learn Java/Notes/51. Protected Modifier.md",
-    "Learn Java/Notes/29. Characters.md",
-    "Learn Java/Notes/49. Getters and Setters.md",
-    "Learn Java/Notes/48. Access Modifieres.md",
-    "Learn Java/Notes/8. Relational Operators.md",
-    "Learn Java/Notes/46. Constructor.md",
-    "Learn Java/Notes/28. Hexadecimal Numbers.md",
-    "Learn Java/Notes/25. Array.md",
-    "Learn Java/Notes/30. String.md",
-    "Algorithms and Data Structures/Notas/String basics.md",
-    "Learn Java/Notes/45. Instance Methods.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
-    "Learn Java/Notes/47. Package.md",
-    "Readme.md",
-    "Learn Java/Notes/1. Scanning Input.md",
-    "Learn Java/Notes/26. Arrays as Parameters.md",
-    "Learn Java/Notes/43. Introduction to OPP.md",
-    "Learn Java/Notes/9. Conditional Statement.md",
-    "iTerm.md",
-    "Objetivo Fin de Año.md",
-    "Crear app en React.md",
-    "Learn Java/All.md",
     "Malla Curricular.canvas",
     "Learn Java/Images/Captura de pantalla 2023-08-21 a la(s) 23.40.44.png",
     "Learn Java/Images/Logarithmic Complexity.png",
