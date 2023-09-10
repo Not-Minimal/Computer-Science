@@ -11,14 +11,12 @@
             "id": "f609fda8cc7a4a1e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
-                "viewState": {
-                  "x": 2634.4448984065125,
-                  "y": -1009.435275734979,
-                  "zoom": -3.2026475007732924
-                }
+                "file": "Learn Java/Notes/63. Throwing Exceptions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
+                "file": "Learn Java/Notes/63. Throwing Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
+                "file": "Learn Java/Notes/63. Throwing Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas"
+                "file": "Learn Java/Notes/63. Throwing Exceptions.md"
               }
             }
           },
@@ -174,6 +172,16 @@
   },
   "active": "f609fda8cc7a4a1e",
   "lastOpenFiles": [
+    "Learn Java/Notes/62. What is a Bug.md",
+    "Learn Java/Notes/63. Throwing Exceptions.md",
+    "Learn Java/Notes/61. Abstract Class.md",
+    "Learn Java/Notes/60. Exception Handling.md",
+    "Learn Java/Notes/59. Hierarchy of Exceptions.md",
+    "Learn Java/Notes/58. Random.md",
+    "Learn Java/Notes/57. Objects.md",
+    "Learn Java/Notes/52. Referencing SubClass Objects.md",
+    "Learn Java/Notes/55. Hiding and Overriding.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Recurrencias Telescópicas.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Reemplazo o Substitución.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Substitución Forward y Backward.md",
@@ -185,22 +193,12 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Prueba Directa.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Por Construcción.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Preliminar a Técnicas de Diseño Sub-Estructura Optimal.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Autómata con Pila a Gramática Libre de Contexto.md",
     "4 Semestre/Emprendiendo Mi Primer Negocio.md",
     "Learn Java/Learn Java.md",
-    "Learn Java/Notes/57. Objects.md",
     "Learn Java/Notes/56. Polymorphism.md",
-    "Learn Java/Notes/55. Hiding and Overriding.md",
     "Learn Java/Notes/54. The Keyword Super.md",
-    "Learn Java/Notes/53. Referencing Subclass Objects.md",
-    "Learn Java/Notes/52. Referencing SubClass Objects.md",
-    "Learn Java/Notes/51. Protected Modifier.md",
-    "Learn Java/Notes/48. Access Modifieres.md",
-    "Learn Java/Notes/50. Inheritance.md",
-    "Learn Java/Notes/49. Getters and Setters.md",
-    "Learn Java/Notes/47. Package.md",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
     "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
     "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
