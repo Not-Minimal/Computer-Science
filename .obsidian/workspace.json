@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "65. Custom Exceptions.md",
+                "file": "Learn Java/Notes/65. Custom Exceptions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "65. Custom Exceptions.md",
+                "file": "Learn Java/Notes/65. Custom Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "65. Custom Exceptions.md",
+                "file": "Learn Java/Notes/65. Custom Exceptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "65. Custom Exceptions.md"
+                "file": "Learn Java/Notes/65. Custom Exceptions.md"
               }
             }
           },
@@ -170,10 +170,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f609fda8cc7a4a1e",
+  "active": "90bf927dd7af94f5",
   "lastOpenFiles": [
-    "64. StringBuilder.md",
-    "65. Custom Exceptions.md",
+    "Learn Java/Notes/64. StringBuilder.md",
+    "Learn Java/Notes/65. Custom Exceptions.md",
     "Learn Java/Notes/63. Throwing Exceptions.md",
     "Learn Java/Notes/62. What is a Bug.md",
     "Learn Java/Notes/61. Abstract Class.md",
