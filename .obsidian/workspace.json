@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/65. Custom Exceptions.md",
+                "file": "67. Reading Files.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/65. Custom Exceptions.md",
+                "file": "67. Reading Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/65. Custom Exceptions.md",
+                "file": "67. Reading Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/65. Custom Exceptions.md"
+                "file": "67. Reading Files.md"
               }
             }
           },
@@ -172,13 +172,15 @@
   },
   "active": "f609fda8cc7a4a1e",
   "lastOpenFiles": [
+    "66. Files.md",
+    "67. Reading Files.md",
+    "Learn Java/Notes/65. Custom Exceptions.md",
     "Learn Java/Notes/64. StringBuilder.md",
     "Learn Java/Notes/63. Throwing Exceptions.md",
     "Learn Java/Notes/62. What is a Bug.md",
     "Learn Java/Notes/61. Abstract Class.md",
     "Learn Java/Notes/60. Exception Handling.md",
     "Learn Java/Notes/59. Hierarchy of Exceptions.md",
-    "Learn Java/Notes/65. Custom Exceptions.md",
     "Learn Java/Notes/58. Random.md",
     "Learn Java/Notes/57. Objects.md",
     "Learn Java/Notes/52. Referencing SubClass Objects.md",
@@ -197,8 +199,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Preliminar a Técnicas de Diseño Sub-Estructura Optimal.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Autómata con Pila a Gramática Libre de Contexto.md",
-    "4 Semestre/Emprendiendo Mi Primer Negocio.md",
-    "Learn Java/Learn Java.md",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
     "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
     "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
