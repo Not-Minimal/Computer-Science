@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "67. Reading Files.md",
+                "file": "66. Files.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "67. Reading Files.md",
+                "file": "66. Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "67. Reading Files.md",
+                "file": "66. Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "67. Reading Files.md"
+                "file": "66. Files.md"
               }
             }
           },
@@ -146,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,17 +171,22 @@
   },
   "active": "f609fda8cc7a4a1e",
   "lastOpenFiles": [
-    "66. Files.md",
+    "Learn Java/Notes/60. Exception Handling.md",
+    "72. Debugging Techniques.md",
+    "71. Introduction to Logging.md",
+    "70. Fields and Methods in Enums.md",
+    "69. Enums In Java.md",
+    "68. Static Members.md",
+    "Learn Java/Notes/57. Objects.md",
     "67. Reading Files.md",
+    "66. Files.md",
     "Learn Java/Notes/65. Custom Exceptions.md",
     "Learn Java/Notes/64. StringBuilder.md",
     "Learn Java/Notes/63. Throwing Exceptions.md",
     "Learn Java/Notes/62. What is a Bug.md",
     "Learn Java/Notes/61. Abstract Class.md",
-    "Learn Java/Notes/60. Exception Handling.md",
     "Learn Java/Notes/59. Hierarchy of Exceptions.md",
     "Learn Java/Notes/58. Random.md",
-    "Learn Java/Notes/57. Objects.md",
     "Learn Java/Notes/52. Referencing SubClass Objects.md",
     "Learn Java/Notes/55. Hiding and Overriding.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
@@ -194,11 +198,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Inducción Matemática.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Reducción al Absurdo.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Por Contradicción o Contraposición.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Prueba Directa.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Por Construcción.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Preliminar a Técnicas de Diseño Sub-Estructura Optimal.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Autómata con Pila a Gramática Libre de Contexto.md",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
     "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
     "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
