@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80. Math Library.md",
+                "file": "Learn Java/Notes/76. Input Streams.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80. Math Library.md",
+                "file": "Learn Java/Notes/76. Input Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80. Math Library.md",
+                "file": "Learn Java/Notes/76. Input Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80. Math Library.md"
+                "file": "Learn Java/Notes/76. Input Streams.md"
               }
             }
           },
@@ -171,14 +171,14 @@
   },
   "active": "f609fda8cc7a4a1e",
   "lastOpenFiles": [
-    "79. Array Exceptions.md",
-    "80. Math Library.md",
-    "81. Numeric literals.md",
-    "82. Garbage Collector.md",
-    "83. Types of references.md",
-    "78. Multidimensional Array.md",
-    "77. Try With Resources.md",
-    "76. Input Streams.md",
+    "Learn Java/Notes/80. Math Library.md",
+    "Learn Java/Notes/79. Array Exceptions.md",
+    "Learn Java/Notes/81. Numeric literals.md",
+    "Learn Java/Notes/82. Garbage Collector.md",
+    "Learn Java/Notes/83. Types of references.md",
+    "Learn Java/Notes/78. Multidimensional Array.md",
+    "Learn Java/Notes/77. Try With Resources.md",
+    "Learn Java/Notes/76. Input Streams.md",
     "Learn Java/Notes/75. What Are Streams.md",
     "Learn Java/Notes/74. Writing Files.md",
     "Learn Java/Notes/73. Fortmatted Output.md",
