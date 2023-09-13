@@ -14,8 +14,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "f881f6719041d6f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232,
-    "collapsed": true
+    "width": 232
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -82,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Readme.md"
+              }
             }
           },
           {
@@ -136,6 +153,16 @@
             "state": {
               "type": "git-history-view",
               "state": {}
+            }
+          },
+          {
+            "id": "75968f8131358608",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -161,8 +188,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f609fda8cc7a4a1e",
+  "active": "f881f6719041d6f0",
   "lastOpenFiles": [
+    "Notas Diarias/Introduction To Java.md",
+    "Learn Java/Notes/1. Scanning Input.md",
+    "Readme.md",
     "Learn Java/Notes/76. Input Streams.md",
     "Learn Java/Notes/80. Math Library.md",
     "Learn Java/Notes/79. Array Exceptions.md",
@@ -186,9 +216,6 @@
     "Learn Java/Notes/65. Custom Exceptions.md",
     "Learn Java/Notes/64. StringBuilder.md",
     "Learn Java/Notes/63. Throwing Exceptions.md",
-    "Learn Java/Notes/62. What is a Bug.md",
-    "Learn Java/Notes/61. Abstract Class.md",
-    "Learn Java/Notes/59. Hierarchy of Exceptions.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
     "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
