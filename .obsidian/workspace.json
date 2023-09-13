@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Notes/72. Debugging Techniques.md",
+                "file": "75. What Are Streams.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Notes/72. Debugging Techniques.md",
+                "file": "75. What Are Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Notes/72. Debugging Techniques.md",
+                "file": "75. What Are Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Notes/72. Debugging Techniques.md"
+                "file": "75. What Are Streams.md"
               }
             }
           },
@@ -169,11 +169,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "90bf927dd7af94f5",
+  "active": "f609fda8cc7a4a1e",
   "lastOpenFiles": [
+    "74. Writing Files.md",
+    "75. What Are Streams.md",
+    "73. Fortmatted Output.md",
+    "Learn Java/Notes/72. Debugging Techniques.md",
     "Learn Java/Notes/66. Files.md",
     "Learn Java/Notes/60. Exception Handling.md",
-    "Learn Java/Notes/72. Debugging Techniques.md",
     "Learn Java/Notes/71. Introduction to Logging.md",
     "Learn Java/Notes/70. Fields and Methods in Enums.md",
     "Learn Java/Notes/69. Enums In Java.md",
@@ -195,9 +198,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Substitución Forward y Backward.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Clasificación Asintótica.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Comportamiento Asintótico.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Inducción Matemática.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Reducción al Absurdo.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Demostración/Técnicas de Demostración - Por Contradicción o Contraposición.md",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
     "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
     "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
