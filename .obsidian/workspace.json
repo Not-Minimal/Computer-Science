@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "75. What Are Streams.md",
+                "file": "81. Numeric literals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "75. What Are Streams.md",
+                "file": "81. Numeric literals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "75. What Are Streams.md",
+                "file": "81. Numeric literals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "75. What Are Streams.md"
+                "file": "81. Numeric literals.md"
               }
             }
           },
@@ -171,9 +171,15 @@
   },
   "active": "f609fda8cc7a4a1e",
   "lastOpenFiles": [
-    "74. Writing Files.md",
-    "75. What Are Streams.md",
-    "73. Fortmatted Output.md",
+    "80. Math Library.md",
+    "81. Numeric literals.md",
+    "79. Array Exceptions.md",
+    "78. Multidimensional Array.md",
+    "77. Try With Resources.md",
+    "76. Input Streams.md",
+    "Learn Java/Notes/75. What Are Streams.md",
+    "Learn Java/Notes/74. Writing Files.md",
+    "Learn Java/Notes/73. Fortmatted Output.md",
     "Learn Java/Notes/72. Debugging Techniques.md",
     "Learn Java/Notes/66. Files.md",
     "Learn Java/Notes/60. Exception Handling.md",
@@ -191,13 +197,7 @@
     "Learn Java/Notes/59. Hierarchy of Exceptions.md",
     "Learn Java/Notes/58. Random.md",
     "Learn Java/Notes/52. Referencing SubClass Objects.md",
-    "Learn Java/Notes/55. Hiding and Overriding.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Recurrencias Telescópicas.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Reemplazo o Substitución.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Substitución Forward y Backward.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Clasificación Asintótica.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Extras/Comportamiento Asintótico.md",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
     "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
     "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
