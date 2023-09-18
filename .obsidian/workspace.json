@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Introduction Notes/14. Branching Statements.md",
+                "file": "Learn Java/Advanced Notes/0. Build Tools.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Introduction Notes/14. Branching Statements.md",
+                "file": "Learn Java/Advanced Notes/0. Build Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Introduction Notes/14. Branching Statements.md",
+                "file": "Learn Java/Advanced Notes/0. Build Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Introduction Notes/14. Branching Statements.md"
+                "file": "Learn Java/Advanced Notes/0. Build Tools.md"
               }
             }
           },
@@ -193,6 +193,8 @@
   },
   "active": "49792dccbc829060",
   "lastOpenFiles": [
+    "Learn Java/Introduction Notes/14. Branching Statements.md",
+    "Learn Java/Advanced Notes/0. Build Tools.md",
     "iTerm.md",
     "Readme.md",
     "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
@@ -237,8 +239,6 @@
     "Learn Java/Introduction Notes/65. Custom Exceptions.md",
     "Learn Java/Introduction Notes/64. StringBuilder.md",
     "Learn Java/Introduction Notes/47. Package.md",
-    "Learn Java/Introduction Notes/7. Boolean and Logical Operations.md",
-    "Learn Java/Introduction Notes/16. Units of Information.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
