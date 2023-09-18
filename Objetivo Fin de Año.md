@@ -120,4 +120,4 @@
 	   6. Fatiga Excentrica: 
 		   1. Press Frances con barra Zeta: 3 series de 12 repiticiones 20kg
     
-7. **Preferencias personales**: Me gustan bas
+7. **Preferencias personales**: Mi intension general es ganar masa muscular, pero principalmente en el area de pecho y espalda.
