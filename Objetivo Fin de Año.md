@@ -121,3 +121,35 @@
 		   1. Press Frances con barra Zeta: 3 series de 12 repiticiones 20kg
     
 7. **Preferencias personales**: Mi intension general es ganar masa muscular, pero principalmente en el area de pecho y espalda.
+
+**Mesociclo 1: Acondicionamiento y Adaptación (Semanas 1-4)**
+
+- Objetivo: Preparar tu cuerpo para el entrenamiento más intenso y desarrollar una base sólida.
+- Tasa de Esfuerzo Percibido (RPE): Enfócate en un RPE de 6-7 durante la mayoría de las series.
+- Volumen: Mantén el volumen moderado.
+- Progresión: Aumenta el peso o la resistencia de manera gradual cada semana.
+- Descanso: Descansa adecuadamente entre sesiones y cuida tu lesión en el menisco.
+
+**Mesociclo 2: Hipertrofia (Semanas 5-8)**
+
+- Objetivo: Estimular el crecimiento muscular.
+- Tasa de Esfuerzo Percibido (RPE): Apunta a un RPE de 7-8 durante las series.
+- Volumen: Aumenta el volumen de trabajo (número de series y repeticiones).
+- Progresión: Incrementa el peso o la resistencia de manera constante.
+- Variedad: Introduce ejercicios o variaciones nuevos para evitar la adaptación.
+
+**Mesociclo 3: Fuerza (Semanas 9-12)**
+
+- Objetivo: Desarrollar fuerza y potencia.
+- Tasa de Esfuerzo Percibido (RPE): Apunta a un RPE de 8-9 en ejercicios principales.
+- Volumen: Disminuye ligeramente el volumen, pero aumenta la intensidad.
+- Progresión: Incrementa el peso de manera progresiva.
+- Incluye ejercicios compuestos como sentadillas y press de banca.
+
+**Mesociclo 4: Pico de Fuerza y Descarga (Semanas 13-16)**
+
+- Objetivo: Alcanzar tu punto máximo de fuerza y permitir una recuperación adecuada.
+- Tasa de Esfuerzo Percibido (RPE): Reduce la intensidad, apunta a un RPE de 6-7 en la mayoría de las series.
+- Volumen: Disminuye el volumen significativamente para reducir la fatiga.
+- Progresión: Realiza pruebas de fuerza al final del mesociclo para medir tu progreso.
+- Descanso: Aprovecha para recuperarte y prevenir lesiones.
