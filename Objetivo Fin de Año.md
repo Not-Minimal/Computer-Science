@@ -64,7 +64,19 @@
 6. **Nivel de condición física actual**: 
    Divisiones: 
    1. Abdomen, Dorsal y Coraza:
-	   1. 
+	   1. Bi-Set:
+		   1. Press con mancuernas inclinado: 3 series de 12 repiticiones con 8KG
+		   2. Aperturas con mancuernas en banco inclinado: 3 series de 12 repiticiones con 8KG
+	   2. Piramide Creciente:
+		   1. Press mas apertura con mancuerna en Step: 3 series de 12 repiticiones con 7KG
+	   3. Drop-Set
+		   1. Jalon en maquina Lat Pulldow con triangulo: 3 series de 12 repiticiones con 44KG
+	   4. Bi-Set:
+		   1. Remo Polea Alta con cuerda: 3 series de 12 repiticiones con 18KG
+		   2. Remo en polea con triangulo: 3 series de 12 repiticiones con 33KG
+	   5. Bi-Set: 
+		   1. Abdominal Remador o Agrupado: 3 series de 12 repiticiones
+		   2. Abdominal Bisagra: 3 series de 12 repiticiones
    2. Lumbar y Hombros:
    3. Abdomen y Piernas:
    4. Triceps y Biceps:
