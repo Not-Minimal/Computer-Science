@@ -78,7 +78,23 @@
 		   1. Abdominal Remador o Agrupado: 3 series de 12 repiticiones
 		   2. Abdominal Bisagra: 3 series de 12 repiticiones
    2. Lumbar y Hombros:
+	   1. Bi-set:
+		   1. Press Militar Maquina: 3 series de 12 repiticiones 20Kg
+		   2. Press Militar Maquina con agarre cerrado: 3 series de 12 repiticiones 20Kg
+	   2. Bi-Set:
+		   1. Remo al Menton con Barra Zeta: 3 series de 12 repiticiones 18Kg
+		   2. Elevacion Multiple lateral - Frontal con mancuerna: 3 series de 12 repiticiones 7Kg
+	   3. Piramide Creciente:
+		   1. Vuelo Posterior Alternado en Maquina: 3 series de 12 repiticiones 35Kg
+	   4. Bi-Set:
+		   1. Press Arnold con mancuerna: 3 series de 12 repiticiones 8Kg
+		   2. Elevacion Frontal con Mancuerna Suprino: 3 series de 12 repiticiones 7Kg
+	   5. General: Swing con Kettlebell
    3. Abdomen y Piernas:
+	   1. Piramide Creciente:
+		   1. Sentadilla Smith: 3 series de 12 repiticiones 30Kg
+	   2. Piramide Creciente: 
+		   1. Leg Press 45°: 3 series de 12 repiticiones 120Kg
    4. Triceps y Biceps:
     
 7. **Preferencias personales**: ¿Tienes alguna preferencia por ciertos tipos de ejercicios o actividades físicas?
