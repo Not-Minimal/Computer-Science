@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8f52ea2fc3a2b15f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f881f6719041d6f0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5193c0224f41794b",
         "type": "tabs",
         "children": [
@@ -27,12 +11,9 @@
             "id": "a32fd72660612b47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Recursos/M32/5. Especificacion Modulos Internos.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf"
               }
             }
           }
@@ -102,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png"
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf"
               }
             }
           },
@@ -195,15 +176,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f881f6719041d6f0",
+  "active": "a32fd72660612b47",
   "lastOpenFiles": [
+    "4 Semestre/Arquitectura de Computadores/Recursos/M32/5. Especificacion Modulos Internos.md",
+    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+    "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por ABI.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por DBI.png",
-    "4 Semestre/Arquitectura de Computadores/Recursos/M32/5. Especificacion Modulos Internos.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Condiciones de Saltos.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por ALU.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Arquitectura Fisica.png",
-    "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/M32/4. Arquitectura Fisica.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/M32/3. Arquitectura Logica.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/2. Compuertas Logicas.md",
@@ -242,7 +224,6 @@
     "Learn Java/Introduction Notes/32. Iterating Over Arrays.md",
     "Learn Java/Introduction Notes/79. Array Exceptions.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
-    "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
     "3 Semestre/Organigrama.canvas",
