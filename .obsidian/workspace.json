@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Introduction Notes/76. Input Streams.md",
+                "file": "iTerm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330,
-    "collapsed": true
+    "width": 229
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Introduction Notes/76. Input Streams.md",
+                "file": "iTerm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Introduction Notes/76. Input Streams.md",
+                "file": "iTerm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Introduction Notes/76. Input Streams.md"
+                "file": "iTerm.md"
               }
             }
           },
@@ -175,15 +174,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Empezar/Parar de grabar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "random-note:Abrir nota al azar": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "random-note:Abrir nota al azar": false
     }
   },
   "active": "a32fd72660612b47",
   "lastOpenFiles": [
-    "Learn Java/Introduction Notes/77. Try With Resources.md",
+    "Readme.md",
+    "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
     "Learn Java/Introduction Notes/76. Input Streams.md",
+    "Learn Java/Introduction Notes/77. Try With Resources.md",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
     "4 Semestre/Arquitectura de Computadores/Recursos/M32/5. Especificacion Modulos Internos.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
@@ -226,8 +225,6 @@
     "Learn Java/Introduction Notes/47. Package.md",
     "Learn Java/Introduction Notes/7. Boolean and Logical Operations.md",
     "Learn Java/Introduction Notes/16. Units of Information.md",
-    "Learn Java/Introduction Notes/5. Arithmmetic Operations.md",
-    "Learn Java/Introduction Notes/32. Iterating Over Arrays.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",

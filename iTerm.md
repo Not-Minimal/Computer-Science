@@ -10,6 +10,6 @@ brew upgrade nvim
 brew upgrade msgpack
 brew upgrade tree // Tree View of documents
 omz update
-
+Hi test
 ```
 
