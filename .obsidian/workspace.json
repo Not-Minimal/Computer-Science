@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Building apps using Gradle.md",
+                "file": "5. Dependency Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Building apps using Gradle.md",
+                "file": "5. Dependency Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Building apps using Gradle.md",
+                "file": "5. Dependency Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Building apps using Gradle.md"
+                "file": "5. Dependency Management.md"
               }
             }
           },
@@ -193,8 +193,9 @@
   },
   "active": "49792dccbc829060",
   "lastOpenFiles": [
-    "3. Basic Project With Gradle.md",
     "4. Building apps using Gradle.md",
+    "5. Dependency Management.md",
+    "3. Basic Project With Gradle.md",
     "2. Java Archive.md",
     "Learn Java/Advanced Notes/1. Gradle Basics.md",
     "Learn Java/Advanced Notes/0. Build Tools.md",
@@ -230,7 +231,6 @@
     "Learn Java/Introduction Notes/21. The Main Method.md",
     "Learn Java/Introduction Notes/20. Declaring a Method.md",
     "Learn Java/Introduction Notes/19. Calling a Method.md",
-    "Learn Java/Introduction Notes/18. Type Casting.md",
     "4 Semestre/Arquitectura de Computadores/Recursos",
     "4 Semestre/Arquitectura de Computadores/Recursos/M32",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_3_Dise+¦o_Logico_IECI.pdf",
