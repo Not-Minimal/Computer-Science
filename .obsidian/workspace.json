@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Gradle Basics.md",
+                "file": "2. Java Archive.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Gradle Basics.md",
+                "file": "2. Java Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Gradle Basics.md",
+                "file": "2. Java Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Gradle Basics.md"
+                "file": "2. Java Archive.md"
               }
             }
           },
@@ -193,8 +193,9 @@
   },
   "active": "49792dccbc829060",
   "lastOpenFiles": [
+    "Learn Java/Advanced Notes/1. Gradle Basics.md",
+    "2. Java Archive.md",
     "Learn Java/Advanced Notes/0. Build Tools.md",
-    "1. Gradle Basics.md",
     "Learn Java/Introduction Notes/14. Branching Statements.md",
     "iTerm.md",
     "Readme.md",
@@ -238,7 +239,6 @@
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_4_Bloques_Digitales_Avanzados_IECI.pdf",
     "Learn Java/Introduction Notes/65. Custom Exceptions.md",
-    "Learn Java/Introduction Notes/64. StringBuilder.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
