@@ -95,6 +95,29 @@
 		   1. Sentadilla Smith: 3 series de 12 repiticiones 30Kg
 	   2. Piramide Creciente: 
 		   1. Leg Press 45°: 3 series de 12 repiticiones 120Kg
+	   3. Bi-Set: 
+		   1. Leg Extension: 3 series de 12 repiticiones 35Kg
+		   2. Sentadilla: 3 series de 12 repiticiones
+	   4. Combinado: 
+		   1. Sentadilla con barra por delante: 3 series de 12 repiticiones 18Kg
+		   2. Abdominal oblicuo alterno con piernas 90°: 3 series de 12 repiticiones
+	   5. Bi-Set: 
+		   1. Abdominal Bicicleta: 3 series de 12 repiticiones
+		   2. Escalador Cruzado: 3 series de 12 repiticiones
    4. Triceps y Biceps:
+	   1. Pico de contraccion:
+		   1. Biceps en Maquina: 3 series de 12 repiticiones 25Kg
+	   2. Pico de Contraccion: 
+		   1. Polea Triceps Cuerda: 3 series de 12 repiticiones 18Kg
+	   3. Combinado: 
+		   1. Curl con barra recta agarre inverso: 3 series de 12 repiticiones 18Kg
+		   2. Extension Triceps con banco: 3 series de 12 repiticiones
+	   4. Bi-Set:
+		   1. Curl Biceps en Banco de 45°: 3 series de 12 repiticiones 8Kg
+		   2. Curl Biceps Martillo Alternado con mancuernas: 3 series de 12 repiticiones 8Kg
+	   5. Piramide Creciente: 
+		   1. Tricpes Polea Sobre la cabeza: 3 series de 12 repiticiones 18Kg
+	   6. Fatiga Excentrica: 
+		   1. Press Frances con barra Zeta: 3 series de 12 repiticiones 20kg
     
-7. **Preferencias personales**: ¿Tienes alguna preferencia por ciertos tipos de ejercicios o actividades físicas?
+7. **Preferencias personales**: Me gustan bas
