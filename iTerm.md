@@ -8,8 +8,7 @@ brew upgrade yarn
 brew upgrade node
 brew upgrade nvim
 brew upgrade msgpack
-brew upgrade tree // Tree View of documents
+brew upgrade tree
 omz update
-Hi test
 ```
 
