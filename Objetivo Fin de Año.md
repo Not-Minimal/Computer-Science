@@ -52,3 +52,21 @@
 - Toma suficiente agua para mantener la hidratación adecuada y asegurar un buen funcionamiento digestivo.
 
 **Espero que este plan nutricional te ayude a alcanzar tu objetivo de peso de manera saludable y segura.**
+
+1. **Objetivos de entrenamiento**: Ganar fuerza, aumentar la masa muscular
+2. **Nivel de experiencia**: Llevo 2 Años haciendo ejercicio 2 a 3 veces por semana. Empece con 63Kg y ya peso 71KG.
+3. **Disponibilidad de tiempo**: 3-4 Dias de entrenamiento. Puedo dedicar desde 1 hora hasta 1 hora y media.
+    
+4. **Equipamiento y ubicación**: Entreno en Gimnasio pero tambien puedo entrenar en casa. El gimnasio esta bien equipado
+    
+5. **Salud y lesiones**: Lesion en los meniscos de la rodilla izquierda. Solo controlar bien el peso.
+    
+6. **Nivel de condición física actual**: 
+   Divisiones: 
+   1. Abdomen, Dorsal y Coraza:
+	   1. 
+   2. Lumbar y Hombros:
+   3. Abdomen y Piernas:
+   4. Triceps y Biceps:
+    
+7. **Preferencias personales**: ¿Tienes alguna preferencia por ciertos tipos de ejercicios o actividades físicas?
