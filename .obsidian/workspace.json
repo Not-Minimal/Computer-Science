@@ -11,9 +11,12 @@
             "id": "a32fd72660612b47",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf"
+                "file": "Learn Java/Introduction Notes/76. Input Streams.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 330,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -83,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+                "file": "Learn Java/Introduction Notes/76. Input Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+                "file": "Learn Java/Introduction Notes/76. Input Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf"
+                "file": "Learn Java/Introduction Notes/76. Input Streams.md"
               }
             }
           },
@@ -178,8 +182,10 @@
   },
   "active": "a32fd72660612b47",
   "lastOpenFiles": [
-    "4 Semestre/Arquitectura de Computadores/Recursos/M32/5. Especificacion Modulos Internos.md",
+    "Learn Java/Introduction Notes/77. Try With Resources.md",
+    "Learn Java/Introduction Notes/76. Input Streams.md",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+    "4 Semestre/Arquitectura de Computadores/Recursos/M32/5. Especificacion Modulos Internos.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por ABI.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por DBI.png",
@@ -222,7 +228,6 @@
     "Learn Java/Introduction Notes/16. Units of Information.md",
     "Learn Java/Introduction Notes/5. Arithmmetic Operations.md",
     "Learn Java/Introduction Notes/32. Iterating Over Arrays.md",
-    "Learn Java/Introduction Notes/79. Array Exceptions.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
