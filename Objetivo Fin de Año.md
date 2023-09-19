@@ -153,3 +153,18 @@
 - Volumen: Disminuye el volumen significativamente para reducir la fatiga.
 - Progresión: Realiza pruebas de fuerza al final del mesociclo para medir tu progreso.
 - Descanso: Aprovecha para recuperarte y prevenir lesiones.
+### Melena de Leon
+https://mycodelic.cl/producto/melena-de-leon-30gr-lions-mane/
+
+> Históricamente, el hongo melena de león se ha utilizado para tratar problemas gastrointestinales, trastornos neurológicos y para fortalecer el sistema inmunológico.
+
+- Mejora la función cognitiva y la memoria
+- Regula la inflamación en el cuerpo
+- Fortalece el sistema inmunológico
+- Reduce los niveles de colesterol y azúcar en la sangre
+- Mejora la salud cardiovascular
+- Alivia la ansiedad y la depresión
+- Mejora la digestión y alivia problemas estomacales
+- Estimula el crecimiento del cabello y la piel
+- Tiene propiedades anticancerígenas
+- Ayuda en la recuperación de lesiones deportivas y la regeneración de nervios.
