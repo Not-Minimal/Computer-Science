@@ -11,12 +11,9 @@
             "id": "49792dccbc829060",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf"
               }
             }
           },
@@ -30,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf"
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf"
               }
             }
           },
@@ -189,7 +185,7 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "4e542801a2257928",
+  "active": "49792dccbc829060",
   "lastOpenFiles": [
     "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
