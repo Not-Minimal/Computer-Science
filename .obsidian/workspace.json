@@ -8,33 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a32fd72660612b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iTerm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "49792dccbc829060",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Learn Java/Advanced Notes/2. Java Archive.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229,
-    "collapsed": true
+    "width": 232
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -101,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Advanced Notes/2. Java Archive.md",
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Advanced Notes/2. Java Archive.md",
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Advanced Notes/2. Java Archive.md"
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf"
               }
             }
           },
@@ -194,11 +176,13 @@
   },
   "active": "49792dccbc829060",
   "lastOpenFiles": [
+    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
+    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
+    "Learn Java/Advanced Notes/2. Java Archive.md",
     "Objetivo Fin de Año.md",
     "Learn Java/Advanced Notes/5. Dependency Management.md",
     "Learn Java/Advanced Notes/4. Building apps using Gradle.md",
     "Learn Java/Advanced Notes/3. Basic Project With Gradle.md",
-    "Learn Java/Advanced Notes/2. Java Archive.md",
     "Learn Java/Advanced Notes/1. Gradle Basics.md",
     "Learn Java/Advanced Notes/0. Build Tools.md",
     "Learn Java/Introduction Notes/14. Branching Statements.md",
@@ -231,7 +215,6 @@
     "Learn Java/Introduction Notes/24. Primitive and Reference Types.md",
     "Learn Java/Introduction Notes/22. Functional Decomposition.md",
     "Learn Java/Introduction Notes/21. The Main Method.md",
-    "Learn Java/Introduction Notes/20. Declaring a Method.md",
     "4 Semestre/Arquitectura de Computadores/Recursos",
     "4 Semestre/Arquitectura de Computadores/Recursos/M32",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_3_Dise+¦o_Logico_IECI.pdf",
@@ -239,7 +222,6 @@
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_1_Historia.pdf",
     "Learn Java/Advanced Notes",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_4_Bloques_Digitales_Avanzados_IECI.pdf",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
