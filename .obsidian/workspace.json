@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf"
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 363,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf",
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf",
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf"
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf"
               }
             }
           },
@@ -176,13 +177,17 @@
   },
   "active": "49792dccbc829060",
   "lastOpenFiles": [
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.1 - Teoria de Automatas.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/4 - Expresiones Regulares.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/3 - Lenguajes.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/2 - Alfabetos, Cadenas y Lenguajes.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/1 - Introduccion Analisis de Algoritmos y Teoria de Automatas.pdf",
-    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
-    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
+    "TopSecret/Algoritmos y Programación (Progra 2)/Ejercicios de Laboratorio/Ejercicios_Laboratorio_28_04_20.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/7 - Practica 7.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/6 - Resolucion.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/6 - Practica 6.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/4 - Practica 4.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/3 - Practica 3.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Resolucion.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Practica 2.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/1 - Resolucion.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/1 - Practica 1.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/7.2 - Compiladores.pdf",
     "Learn Java/Advanced Notes/2. Java Archive.md",
     "Objetivo Fin de Año.md",
     "Learn Java/Advanced Notes/5. Dependency Management.md",
@@ -196,7 +201,6 @@
     "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
     "Learn Java/Introduction Notes/76. Input Streams.md",
     "Learn Java/Introduction Notes/77. Try With Resources.md",
-    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
     "4 Semestre/Arquitectura de Computadores/Recursos/M32/5. Especificacion Modulos Internos.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por ABI.png",
@@ -212,7 +216,6 @@
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Instrucciones de Salto.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Instrucciones de Lectura y Escritura.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Definiciones.png",
-    "4 Semestre/Arquitectura de Computadores/Recursos/Images",
     "Learn Java/Introduction Notes/27. Binary Numbers.md",
     "Learn Java/Introduction Notes/29. Characters.md",
     "Learn Java/Introduction Notes/26. Arrays as Parameters.md",
@@ -220,8 +223,6 @@
     "Learn Java/Introduction Notes/24. Primitive and Reference Types.md",
     "Learn Java/Introduction Notes/22. Functional Decomposition.md",
     "Learn Java/Introduction Notes/21. The Main Method.md",
-    "4 Semestre/Arquitectura de Computadores/Recursos",
-    "4 Semestre/Arquitectura de Computadores/Recursos/M32",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
