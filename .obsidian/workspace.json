@@ -11,9 +11,12 @@
             "id": "49792dccbc829060",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf"
+                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
+                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
+                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf"
+                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md"
               }
             }
           },
@@ -177,6 +180,12 @@
   },
   "active": "49792dccbc829060",
   "lastOpenFiles": [
+    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+    "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
+    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
+    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
+    "Algorithms and Data Structures/20/09",
+    "Algorithms and Data Structures/20",
     "TopSecret/Algoritmos y Programación (Progra 2)/Ejercicios de Laboratorio/Ejercicios_Laboratorio_28_04_20.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/7 - Practica 7.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/6 - Resolucion.pdf",
@@ -184,10 +193,6 @@
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/4 - Practica 4.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/3 - Practica 3.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Resolucion.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Practica 2.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/1 - Resolucion.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/1 - Practica 1.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/7.2 - Compiladores.pdf",
     "Learn Java/Advanced Notes/2. Java Archive.md",
     "Objetivo Fin de Año.md",
     "Learn Java/Advanced Notes/5. Dependency Management.md",
@@ -221,8 +226,6 @@
     "Learn Java/Introduction Notes/26. Arrays as Parameters.md",
     "Learn Java/Introduction Notes/25. Array.md",
     "Learn Java/Introduction Notes/24. Primitive and Reference Types.md",
-    "Learn Java/Introduction Notes/22. Functional Decomposition.md",
-    "Learn Java/Introduction Notes/21. The Main Method.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
