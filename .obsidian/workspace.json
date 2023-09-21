@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf"
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf"
               }
             }
           },
@@ -185,8 +186,9 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "49792dccbc829060",
+  "active": "4e542801a2257928",
   "lastOpenFiles": [
+    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
     "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
