@@ -1,6 +1,7 @@
 # Temas de Arquitectura de Computadores
 
 ## Sistemas Numéricos
+[[Medidas de Capacidad de Memoria]]
 - Binario
 - Octal
 - Hexadecimal

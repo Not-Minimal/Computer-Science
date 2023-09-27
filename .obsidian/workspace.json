@@ -11,8 +11,13 @@
             "id": "7cb6bebfd6960541",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md"
+              }
             }
           },
           {
@@ -149,11 +157,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,20 +180,20 @@
   },
   "active": "7cb6bebfd6960541",
   "lastOpenFiles": [
+    "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
+    "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
+    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
     "Algorithms and Data Structures/22/09",
     "Algorithms and Data Structures/22",
     "Sin título.md",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
-    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
-    "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
-    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
     "Algorithms and Data Structures/20/09",
     "Algorithms and Data Structures/20",
     "TopSecret/Algoritmos y Programación (Progra 2)/Ejercicios de Laboratorio/Ejercicios_Laboratorio_28_04_20.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/7 - Practica 7.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/6 - Resolucion.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/6 - Practica 6.pdf",
     "Learn Java/Advanced Notes/2. Java Archive.md",
     "Objetivo Fin de Año.md",
     "Learn Java/Advanced Notes/5. Dependency Management.md",
