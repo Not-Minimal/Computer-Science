@@ -11,12 +11,9 @@
             "id": "7cb6bebfd6960541",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md"
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf"
               }
             }
           },
@@ -180,18 +177,19 @@
   },
   "active": "7cb6bebfd6960541",
   "lastOpenFiles": [
-    "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.1 - Automata de Pila.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6 - ER y Gramaticas.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/5.5 - Lema del Bombeo.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.1 - Teoria de Automatas.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/4 - Expresiones Regulares.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/2 - Alfabetos, Cadenas y Lenguajes.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/1 - Introduccion Analisis de Algoritmos y Teoria de Automatas.pdf",
     "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
+    "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
     "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
-    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_6_MicroArquitectura_IECI.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_5_Lenguaje_Ensamblador.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_4_Bloques_Digitales_Avanzados_IECI.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_3_Dise+¦o_Logico_IECI.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_1_Historia.pdf",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
     "Sin título.md",
     "Learn Java/Advanced Notes/2. Java Archive.md",
