@@ -11,9 +11,12 @@
             "id": "7cb6bebfd6960541",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf"
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Preparación Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -83,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Preparación Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Preparación Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf"
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Preparación Test.md"
               }
             }
           },
@@ -177,6 +181,10 @@
   },
   "active": "7cb6bebfd6960541",
   "lastOpenFiles": [
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Preparación Test.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.1 - Automata de Pila.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6 - ER y Gramaticas.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/5.5 - Lema del Bombeo.pdf",
@@ -188,8 +196,6 @@
     "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
     "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
-    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
-    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
     "Sin título.md",
     "Learn Java/Advanced Notes/2. Java Archive.md",
@@ -222,8 +228,6 @@
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Definiciones.png",
     "Learn Java/Introduction Notes/27. Binary Numbers.md",
     "Learn Java/Introduction Notes/29. Characters.md",
-    "Learn Java/Introduction Notes/26. Arrays as Parameters.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
     "3 Semestre/Organigrama.canvas",
