@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -181,8 +180,12 @@
   },
   "active": "7cb6bebfd6960541",
   "lastOpenFiles": [
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
+    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
+    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
+    "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
+    "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Preparación Test.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.1 - Automata de Pila.pdf",
@@ -191,11 +194,8 @@
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.1 - Teoria de Automatas.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/4 - Expresiones Regulares.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/2 - Alfabetos, Cadenas y Lenguajes.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/1 - Introduccion Analisis de Algoritmos y Teoria de Automatas.pdf",
     "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
-    "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
     "Sin título.md",
     "Learn Java/Advanced Notes/2. Java Archive.md",
@@ -227,7 +227,6 @@
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Instrucciones de Lectura y Escritura.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Definiciones.png",
     "Learn Java/Introduction Notes/27. Binary Numbers.md",
-    "Learn Java/Introduction Notes/29. Characters.md",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
     "3 Semestre/Organigrama.canvas",
