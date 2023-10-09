@@ -17,6 +17,15 @@
 - Semana 1: Reunión inicial de planificación y diseño de la estructura de la página web (9 de octubre).
 #### Notas Semana 1
 - Instalación de Node Js
+- Conocer sobre Astro.build
+- Aprender comandos Basicos como $cd, mkdir, dir$ en windows.
+- Crear un proyecto en Documents/Practica de Astro.build con: 
+```
+# npm create astro@latest
+```
+- 
+
+
 
 - Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).
 
