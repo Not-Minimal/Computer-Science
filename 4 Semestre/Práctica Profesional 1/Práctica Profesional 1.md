@@ -16,7 +16,7 @@
 
 - Semana 1: Reunión inicial de planificación y diseño de la estructura de la página web (9 de octubre).
 #### Notas Semana 1
-
+- Instalación de Node Js
 
 - Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).
 
