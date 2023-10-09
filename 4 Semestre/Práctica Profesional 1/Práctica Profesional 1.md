@@ -23,7 +23,7 @@
 ```
 # npm create astro@latest
 ```
-- Se menciona sobre Tailwind 
+- Se menciona sobre Tailwind.css
 
 
 
