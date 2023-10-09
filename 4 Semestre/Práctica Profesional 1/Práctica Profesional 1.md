@@ -1,12 +1,12 @@
-**Nombre del Proyecto:** Desarrollo de Sistema de Gestión para JC Reparación y Mantención de Vehículos y Maquinaria Pesada SpA
+**Nombre del Proyecto:** Desarrollo de pagina web y app móvil para crear ordenes de trabajo y cotización para JC Reparación y Mantención de Vehículos y Maquinaria Pesada SpA
 
 **Objetivos:**
 
-1. Crear una página web utilizando Astro.build para promocionar los servicios de JC Reparación y Mantención de Vehículos y Maquinaria Pesada SpA y capturar solicitudes de órdenes de trabajo y cotizaciones.
+1. Crear una página web utilizando Astro.build para promocionar los servicios de JC Reparación y Mantención de Vehículos y Maquinaria Pesada SpA.
 2. Desarrollar una aplicación móvil con Flutter y Firebase que permita a los usuarios generar órdenes de trabajo y cotizaciones desde dispositivos móviles.
 3. Configurar informes de producción en Google Data Studio y habilitar la visualización de estos informes en la aplicación móvil.
 4. Crear macros utilizando JavaScript en Google Sheets para automatizar el control de inventario.
-5. Diseñar y documentar un nuevo sistema de trabajo en gestión de órdenes de trabajo, cotizaciones y automatización para JC Reparación y Mantención de Vehículos y Maquinaria Pesada SpA.
+5. Diseñar y documentar un nuevo sistema de trabajo en gestión de órdenes de trabajo, cotizaciones y automatización.
 6. Generar material gráfico y documentación de servicios para promocionar y describir los servicios de la empresa.
 7. Desplegar la página web utilizando GitHub Deploy Sites y/o Netlify para que esté disponible en línea.
 
@@ -17,14 +17,10 @@
 - Semana 1: Reunión inicial de planificación y diseño de la estructura de la página web (9 de octubre).
 - Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).
 
-**Semana 3-4 (23 de octubre - 5 de noviembre): Generación de material gráfico y documentación de servicios.**
-
-- Semana 3: Diseño de material gráfico, como folletos y gráficos promocionales (del 23 de octubre al 29 de octubre).
-- Semana 4: Elaboración de documentos que describan los servicios de la empresa (del 30 de octubre al 5 de noviembre).
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
-- Semana 11: Inicio del desarrollo de la aplicación móvil (del 18 de diciembre al 24 de diciembre).
-- Semana 12: Continuación del desarrollo y configuración de Firebase para la aplicación (del 25 de diciembre al 28 de diciembre).
+- Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
+- Semana 12: Continuación del desarrollo y configuración de Firebase para la aplicación(del 30 de octubre al 5 de noviembre).
 
 **Semana 5-6 (6 de noviembre - 19 de noviembre): Despliegue de la página web con GitHub Deploy Sites y/o Netlify.**
 
@@ -44,6 +40,11 @@
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil (del 18 de diciembre al 24 de diciembre).
 - Semana 12: Continuación del desarrollo y configuración de Firebase para la aplicación (del 25 de diciembre al 28 de diciembre).
+
+**Semana 13 (23 de octubre - 5 de noviembre): Generación de material gráfico y documentación de servicios.**
+
+- Semana 3: Diseño de material gráfico, como folletos y gráficos promocionales (del 18 de diciembre al 24 de diciembre).
+- Semana 4: Elaboración de documentos que describan los servicios de la empresa(del 25 de diciembre al 28 de diciembre).
 
 **Recursos Necesarios:**
 
@@ -69,8 +70,6 @@
 - Reuniones regulares de seguimiento del proyecto.
 - Evaluación continua de los hitos alcanzados en relación con los objetivos.
 - Ajuste del plan en caso de desviaciones significativas.
-
-Con estos detalles adicionales, puedes tener un enfoque más específico y personalizado para el proyecto de desarrollo web y móvil para JC Reparación y Mantención de Vehículos y Maquinaria Pesada SpA.
 
 
 
