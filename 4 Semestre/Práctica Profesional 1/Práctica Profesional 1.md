@@ -15,6 +15,9 @@
 **Semana 1-2 (9 de octubre - 22 de octubre): Desarrollo de la Página Web con Astro.build.**
 
 - Semana 1: Reunión inicial de planificación y diseño de la estructura de la página web (9 de octubre).
+#### Notas Semana 1
+
+
 - Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
