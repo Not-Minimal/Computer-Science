@@ -24,7 +24,8 @@
 # npm create astro@latest
 ```
 - Se menciona sobre Tailwind.css
-
+- Se navego en el proyecto y se desplego en localHost.
+- Se modifico el ejemplo en un <h1><h1>
 
 
 - Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).
