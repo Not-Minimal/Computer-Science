@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1eea370a855345db",
+        "id": "f8b4dcb9deac7fe7",
         "type": "tabs",
         "children": [
           {
-            "id": "bc93ba56042c8e0d",
+            "id": "11493744b41a5943",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md"
+                "file": "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md"
               }
             }
           },
@@ -179,8 +178,11 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "bc93ba56042c8e0d",
+  "active": "11493744b41a5943",
   "lastOpenFiles": [
+    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
+    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Emprendiendo Mi Primer Negocio.md",
     "Learn Java/Introduction Notes/35. Write, Compile and Run.md",
     "Learn Java/Advanced Notes/5. Dependency Management.md",
@@ -202,7 +204,6 @@
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf",
     "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
-    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
     "Sin título.md",
     "Objetivo Fin de Año.md",
     "Learn Java/Advanced Notes/3. Basic Project With Gradle.md",
@@ -222,8 +223,6 @@
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Arquitectura Fisica.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/M32/4. Arquitectura Fisica.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/M32/3. Arquitectura Logica.md",
-    "4 Semestre/Arquitectura de Computadores/Recursos/2. Compuertas Logicas.md",
-    "4 Semestre/Arquitectura de Computadores/Recursos/1. Algebra de Boole.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Instrucciones Aritmeticas.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Instrucciones de Salto.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Instrucciones de Lectura y Escritura.png",
