@@ -16,6 +16,7 @@
 
 - Semana 1: Reunión inicial de planificación y diseño de la estructura de la página web (9 de octubre).
 #### Notas Semana 1
+##### 09/10
 - Instalación de Node Js
 - Conocer sobre Astro.build
 - Aprender comandos Basicos como $cd, mkdir, dir$ en windows.
@@ -25,7 +26,10 @@
 ```
 - Se menciona sobre Tailwind.css
 - Se navego en el proyecto y se desplego en localHost.
-- Se modifico el ejemplo en un <h1>Hola Mundo<h1/>
+- Se modifico el ejemplo en un Hola Mundo
+##### 11/10
+- Se instala la libreria de Tailwind.css 
+- Se instala libreria react
 
 
 - Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).

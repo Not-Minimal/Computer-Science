@@ -11,9 +11,12 @@
             "id": "11493744b41a5943",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf"
+                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
+                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf"
+                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md"
               }
             }
           },
@@ -178,6 +181,7 @@
   },
   "active": "11493744b41a5943",
   "lastOpenFiles": [
+    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
     "Learn Java/Introduction Notes/47. Package.md",
     "Learn Java/Introduction Notes/43. Introduction to OPP.md",
@@ -190,7 +194,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas/Teorema del Bombeo.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas/Teorema del Bombeo 2.0 - Como no Bombear.md",
     "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
-    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Emprendiendo Mi Primer Negocio.md",
     "Learn Java/Introduction Notes/35. Write, Compile and Run.md",
@@ -214,7 +217,6 @@
     "Learn Java/Advanced Notes/1. Gradle Basics.md",
     "Learn Java/Introduction Notes/14. Branching Statements.md",
     "iTerm.md",
-    "Readme.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por ABI.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por DBI.png",
