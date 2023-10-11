@@ -11,12 +11,9 @@
             "id": "11493744b41a5943",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Learn Java/Introduction Notes/47. Package.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Introduction Notes/47. Package.md",
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Introduction Notes/47. Package.md",
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Introduction Notes/47. Package.md"
+                "file": "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf"
               }
             }
           },
@@ -180,6 +178,8 @@
   },
   "active": "11493744b41a5943",
   "lastOpenFiles": [
+    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
+    "Learn Java/Introduction Notes/47. Package.md",
     "Learn Java/Introduction Notes/43. Introduction to OPP.md",
     "Learn Java/Introduction Notes/42. Running Programs on Computers.md",
     "Learn Java/Introduction Notes/39. Parameters And Options.md",
@@ -191,7 +191,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Teoremas/Teorema del Bombeo 2.0 - Como no Bombear.md",
     "4 Semestre/Arquitectura de Computadores/Preparar Certamen 1.md",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
-    "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Emprendiendo Mi Primer Negocio.md",
     "Learn Java/Introduction Notes/35. Write, Compile and Run.md",
@@ -216,7 +215,6 @@
     "Learn Java/Introduction Notes/14. Branching Statements.md",
     "iTerm.md",
     "Readme.md",
-    "Algorithms and Data Structures/Introduction To Computer Algorithms and Data Structures.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por ABI.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por DBI.png",
