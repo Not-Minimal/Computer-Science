@@ -28,6 +28,7 @@
 - Se menciona sobre Tailwind.css
 - Se navego en el proyecto y se desplego en localHost.
 - Se modifico el ejemplo en un Hola Mundo
+
 ##### 11/10
 - Se instala la libreria de Tailwind.css 
 - Se instala libreria react
