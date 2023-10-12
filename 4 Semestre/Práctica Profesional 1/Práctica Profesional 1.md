@@ -30,6 +30,7 @@
 ##### 11/10
 - Se instala la libreria de Tailwind.css 
 - Se instala libreria react
+- Se crea estrcutura del proyecto con las carpetas
 
 
 - Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).
