@@ -15,6 +15,7 @@
 **Semana 1-2 (9 de octubre - 22 de octubre): Desarrollo de la Página Web con Astro.build.**
 
 - Semana 1: Reunión inicial de planificación y diseño de la estructura de la página web (9 de octubre).
+- Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).
 #### Notas Semana 1
 ##### 09/10
 - Instalación de Node Js
@@ -35,9 +36,10 @@
 - Se creo input.css que corresponde al css global para uso de fuente Inter.
 - Se creo Layout, Navigation y se dejo puesto en marcha Hero o landing.
 - Dentro de la carpeta global: se cree Navigation.astro para el navbar que muestra el logo, y acceso a paginas de servicios, Nosotros y Contacto.
-- 
 
-- Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).
+
+##### 12/10
+- 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
