@@ -33,7 +33,7 @@
 - Se crea estrcutura del proyecto con las carpetas necesarias: 
 	- -Global, Icons, infopages, landing, layouts, pages, components.
 - Se creo input.css que corresponde al css global para uso de fuente Inter.
-- Se creo La
+- Se creo Layout, Navigation y se dejo puesto en marcha Hero o landing.
 - Dentro de la carpeta global: se cree Navigation.astro para el navbar que muestra el logo, y acceso a paginas de servicios, Nosotros y Contacto.
 - 
 
