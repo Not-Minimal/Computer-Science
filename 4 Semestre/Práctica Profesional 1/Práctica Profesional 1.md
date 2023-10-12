@@ -30,7 +30,11 @@
 ##### 11/10
 - Se instala la libreria de Tailwind.css 
 - Se instala libreria react
-- Se crea estrcutura del proyecto con las carpetas
+- Se crea estrcutura del proyecto con las carpetas necesarias: 
+	- -Global, Icons, infopages, landing, layouts, pages, components.
+- Se creo input.css que corresponde al css global para uso de fuente Inter.
+- 
+- Dentro de la carpeta global: se cree Navigation.astro para el navbar que muestra el logo, y acceso a paginas de servicios, Nosotros y Contacto.
 
 
 - Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).
