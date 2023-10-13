@@ -40,7 +40,25 @@
 
 
 ##### 12/10
-- 
+- Crear Landing de Servicios: 
+	1. Mantenimiento Preventivo
+	2. Reparaciones Mecánicas
+	3. Servicios de Frenos y Suspensión
+	4. Alineación y Balanceo
+	5. Diagnóstico Electrónico y Reparación de Electrónica
+	6. Reparación de Maquinaria Pesada
+- Crear Landing de Equipo:
+	- Equipo 1:
+		1. Jefe Mecanico: Jose Obreque
+		2. Jefe Mecanico: Cristian Chavez
+		3. Mecanico: Cesar Sepulveda
+		4. Ingenierio Mecanico: Jose Hernandez
+		5. Ayudante Mecanico: Fabian Martinez
+		6. Administrador: Saul Muñoz
+	Equipo 2:
+		1. Desarrollador Web: Matias Arenas
+		2. Desarrollador Web: Victor Cabero
+		3. Desarrollador Web: Saul Muñoz
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
