@@ -38,7 +38,6 @@
 - Se creo Layout, Navigation y se dejo puesto en marcha Hero o landing.
 - Dentro de la carpeta global: se cree Navigation.astro para el navbar que muestra el logo, y acceso a paginas de servicios, Nosotros y Contacto.
 
-
 ##### 12/10
 - Crear Landing de Servicios: 
 	1. Mantenimiento Preventivo
