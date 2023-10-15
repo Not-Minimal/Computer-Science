@@ -58,6 +58,9 @@
 		1. Desarrollador Web: Matias Arenas
 		2. Desarrollador Web: Victor Cabero
 		3. Desarrollador Web: Saul Muñoz
+- Conocer mas sobre componentes de Tailwind CSS
+- Se enseña sobre diseños, uso de diseños preestablecidos como Material Design, Tailwind, etc.
+- Estructura basica de una Pagina web: Navigation o NavBar, Landing, Footer.
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
