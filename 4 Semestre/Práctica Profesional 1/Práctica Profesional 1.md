@@ -64,7 +64,8 @@
 
 ##### 16/10
 - Instalar Git 
-- Hacer Git Clone "https://github.com/Not-Minimal/hilarious-horizon" 
+- Hacer Git Clone "https://github.com/Not-Minimal/hilarious-horizon"
+- Estar todos conectados en el mismo repositorio con Github.
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
