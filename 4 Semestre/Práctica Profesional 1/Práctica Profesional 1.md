@@ -63,7 +63,8 @@
 - Estructura basica de una Pagina web: Navigation o NavBar, Landing, Footer.
 
 ##### 16/10
-- 
+- Instalar Git 
+- Hacer Git Clone "https://github.com/Not-Minimal/hilarious-horizon" 
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
