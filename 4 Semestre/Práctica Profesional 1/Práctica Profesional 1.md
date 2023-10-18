@@ -66,12 +66,13 @@
 - Instalar Git 
 - Hacer Git Clone "https://github.com/Not-Minimal/hilarious-horizon"
 - Estar todos conectados en el mismo repositorio con Github.
-17/10
+##### 17/10
 - Se agrega redes sociales a la pagina web
 - Se agregan los logos de las marcas con las que trabaja el taller
 - Se agregan descripciones e imagenes a los servicios
 - Se agrego informacion de los equipos
-
+##### 18/10
+- Crear Componente Card y reutilizar
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
