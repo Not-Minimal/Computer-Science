@@ -72,8 +72,13 @@
 - Se agregan descripciones e imagenes a los servicios
 - Se agrego informacion de los equipos
 ##### 18/10
-- Retroalimentacion de lo aprendido desde el 
-- Crear Componente Card y reutilizar
+- Retroalimentacion de lo aprendido desde el inicio
+- Crear Componente Card y reutilizar para optimizar codigo
+- Direccionar a secciones de la pagina: Servicios, Equipo.
+- Crear Pagina Nosotros
+
+##### 19/10
+- Crear Componente Equipo y Reutilizar codigo.
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
