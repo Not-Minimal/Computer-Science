@@ -1,0 +1,3 @@
+
+Sirve para trabajar colecciones.
+
