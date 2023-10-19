@@ -78,6 +78,7 @@
 - Crear Pagina Nosotros
 
 ##### 19/10
+- Reparar bug de no cierre cuando el NavBar quedaba abierto ![[Captura de pantalla 2023-10-19 a la(s) 20.18.27.png]]- Lo que se hizo fue modificar la clase de tailwind css para que el punto de quiebre o breakpoint de la web, funcionara como corresponde.
 - Crear Componente Equipo y Reutilizar codigo.
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
