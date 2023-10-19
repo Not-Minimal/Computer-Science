@@ -72,6 +72,7 @@
 - Se agregan descripciones e imagenes a los servicios
 - Se agrego informacion de los equipos
 ##### 18/10
+- Retroalimentacion de lo aprendido desde el 
 - Crear Componente Card y reutilizar
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
