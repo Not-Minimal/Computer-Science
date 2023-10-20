@@ -82,7 +82,9 @@
 - Crear Componente Equipo y Reutilizar codigo.
 - Cambiamos el nav bar a uno con mas estilo:
   ![[Captura de pantalla 2023-10-19 a la(s) 20.47.27.png]]![[Captura de pantalla 2023-10-19 a la(s) 20.47.48.png]]
-  
+##### 20/10 
+- Modificar width del breakpoint menor en servicios
+- Agregamos la page Nosotros dentro del index.astro para generar contraste en la pagina web.
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
