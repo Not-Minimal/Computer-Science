@@ -83,6 +83,8 @@
 - Cambiamos el nav bar a uno con mas estilo:
   ![[Captura de pantalla 2023-10-19 a la(s) 20.47.27.png]]![[Captura de pantalla 2023-10-19 a la(s) 20.47.48.png]]
   
+
+
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
