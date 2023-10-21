@@ -85,6 +85,8 @@
 ##### 20/10 
 - Modificar width del breakpoint menor en servicios
 - Agregamos la page Nosotros dentro del index.astro para generar contraste en la pagina web.
+- Se agrego en el componente Nosotros, Una mision y vision de la empresa.
+- Se agregaron datos relevantes tales como: Cantidad de Ordenes de Trabajo realizas por la empresa, cantidad de trabajadores, Horario y cantidad de servicios en terreno.
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
