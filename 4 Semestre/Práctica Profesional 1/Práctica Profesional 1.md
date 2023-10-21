@@ -88,7 +88,10 @@
 - Se agrego en el componente Nosotros, Una mision y vision de la empresa.
 - Se agregaron datos relevantes tales como: Cantidad de Ordenes de Trabajo realizas por la empresa, cantidad de trabajadores, Horario y cantidad de servicios en terreno.
 - Se agregan las siguientes dependencias:
-	- 
+	- npm install -D @tailwindcss/forms
+	- npm install -D @tailwindcss/typography
+- Se crea formulario de contacto
+![[Captura de pantalla 2023-10-20 a la(s) 21.58.05.png]]
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
