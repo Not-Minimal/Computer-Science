@@ -98,6 +98,7 @@
 	- Agregar Feed de instagram de la empresa.
 	- Cambiar servicio de Alineacion y balanceo por Ajustes de Motor.
 - En base a la retroalimentacion, seguiremos trabajando.
+- Se logra poner el feed de instagram en la pagina web haciendo uso de un widget de la pagina Elfsight.(Por ahora como prototipo, esperamos programarlo)
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
