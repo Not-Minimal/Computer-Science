@@ -92,7 +92,12 @@
 	- npm install -D @tailwindcss/typography
 - Se crea formulario de contacto
 ![[Captura de pantalla 2023-10-20 a la(s) 21.58.05.png]]
-
+##### 23/10
+- Se visito el taller, para mostrar los avances de la pagina web y se recibieron las siguientes recomendaciones:
+	- Imagenes 100% del taller.
+	- Agregar Feed de instagram de la empresa.
+	- Cambiar servicio de Alineacion y balanceo por Ajustes de Motor.
+- En base a la retroalimentacion, seguiremos trabajando.
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
