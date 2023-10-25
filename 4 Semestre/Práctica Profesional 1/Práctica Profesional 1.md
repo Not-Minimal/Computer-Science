@@ -100,6 +100,10 @@
 - En base a la retroalimentacion, seguiremos trabajando.
 - Se logra poner el feed de instagram en la pagina web haciendo uso de un widget de la pagina Elfsight.(Por ahora como prototipo, esperamos programarlo)
 
+##### 24/10
+- Ver el formulario de contacto, que en su momento solamente lo agregamos como un Form, pero no vimos la parte logica y del servidor para poder hacer funcional el formulario.
+- Se intenta crear un formulario mediante node-mailer y bodyParser.
+
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
