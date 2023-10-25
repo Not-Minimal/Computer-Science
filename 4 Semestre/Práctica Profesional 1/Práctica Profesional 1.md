@@ -105,9 +105,12 @@
 - Se intenta crear un formulario mediante node-mailer y bodyParser.
 - Se hace uso de plugin para formulario directo con la plataforma de despliegue "Netlify". Esta detecta en el form de html que es un formulario, por ende los datos registrados son enviados directamente al correo de la empresa.
 - Se hace deploy de la web, para ver que todo funcione correcto.
+- De momento el dominio es: https://friendly-horse-33bfe5.netlify.app/
+- 
 
 ##### 25/10
 - Ver por que las imagenes y SVG's no aparecen en linea.
+- Agregar favicon.
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
