@@ -103,6 +103,11 @@
 ##### 24/10
 - Ver el formulario de contacto, que en su momento solamente lo agregamos como un Form, pero no vimos la parte logica y del servidor para poder hacer funcional el formulario.
 - Se intenta crear un formulario mediante node-mailer y bodyParser.
+- Se hace uso de plugin para formulario directo con la plataforma de despliegue "Netlify". Esta detecta en el form de html que es un formulario, por ende los datos registrados son enviados directamente al correo de la empresa.
+- Se hace deploy de la web, para ver que todo funcione correcto.
+
+##### 25/10
+- Ver por que las imagenes y SVG's no aparecen en linea.
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
