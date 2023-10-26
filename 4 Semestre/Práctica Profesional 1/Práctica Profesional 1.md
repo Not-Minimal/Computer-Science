@@ -111,6 +111,7 @@
 ##### 25/10
 - Ver por que las imagenes y SVG's no aparecen en linea.
 - Agregar favicon.
+- Ver que las lineas de componentes sean en toda la pagina igual. En los dispositivos medianos como tablet.
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
