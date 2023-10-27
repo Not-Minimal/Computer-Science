@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "Autotruck Diesel/Sistema Taller.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "Autotruck Diesel/Sistema Taller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "Autotruck Diesel/Sistema Taller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md"
+                "file": "Autotruck Diesel/Sistema Taller.md"
               }
             }
           },
@@ -182,6 +181,9 @@
   },
   "active": "11493744b41a5943",
   "lastOpenFiles": [
+    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+    "Autotruck Diesel/Sistema Taller.md",
+    "Autotruck Diesel",
     "Captura de pantalla 2023-10-20 a la(s) 21.58.05.png",
     "Captura de pantalla 2023-10-19 a la(s) 20.47.48.png",
     "Captura de pantalla 2023-10-19 a la(s) 20.47.27.png",
@@ -190,7 +192,6 @@
     "4 Semestre/Paradigmas de la Programación/Clase ArrayList.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/M32/3. Arquitectura Logica.md",
     "4 Semestre/Paradigmas de la Programación/Paradigmas de la Programación.md",
-    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.md",
     "Learn Java/Introduction Notes/47. Package.md",
@@ -218,7 +219,6 @@
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.1 - Automata de Pila.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6 - ER y Gramaticas.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/5.5 - Lema del Bombeo.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.1 - Teoria de Automatas.pdf",
     "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
     "Objetivo Fin de Año.md",
     "Learn Java/Advanced Notes/3. Basic Project With Gradle.md",
@@ -228,7 +228,6 @@
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por DBI.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Condiciones de Saltos.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por ALU.png",
-    "4 Semestre/Arquitectura de Computadores/Recursos/Images/Arquitectura Fisica.png",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
     "3 Semestre/Organigrama.canvas",
