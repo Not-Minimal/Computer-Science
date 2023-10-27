@@ -52,7 +52,7 @@
 
 - Diseña la estructura de la base de datos utilizando PostgreSQL a través de Supabase. Define las tablas, relaciones y campos necesarios para almacenar la información de las órdenes de trabajo, informes técnicos, cotizaciones, etc.
 - Asegúrate de normalizar adecuadamente la base de datos para evitar redundancia de datos y garantizar la eficiencia en la gestión de la información.
-
+Se implemento la base de datos, faltan los informes tecnicos, cotizaciones y ordenes de repuestos que se veran mas adelante.
 # Desarrollo del Backend (Node.js)
 
 - Configura un servidor Node.js utilizando un marco como Express.js.
