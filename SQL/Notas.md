@@ -44,3 +44,6 @@ ORDER By ProductName, SupplierID desc
 SELECT  DISTINCT ProductName FROM Products order by ProductName asc: Solo muestra un dato sin duplicado. En vez de 10 manzanas y 5 peras. Muestra una manzana y una pera.
 SELECT * FROM Products Where Price  <= 40
 SELECT * FROM Products Where Price  <= 40   ORDER By Price Asc
+DELETE  FROM Products Where ProductID = 2
+UPDATE Products SET ProductName = "Sushi" WHERE ProductID = 33
+### Operadores Logicos
