@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autotruck Diesel/Sistema Taller.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Teorema Maestro (Simplificado).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autotruck Diesel/Sistema Taller.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Teorema Maestro (Simplificado).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autotruck Diesel/Sistema Taller.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Teorema Maestro (Simplificado).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autotruck Diesel/Sistema Taller.md"
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Teorema Maestro (Simplificado).md"
               }
             }
           },
@@ -181,8 +180,13 @@
   },
   "active": "11493744b41a5943",
   "lastOpenFiles": [
-    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Teorema Maestro.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Reemplazo o Substitución.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Substitución Forward y Backward.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Recurrencias Telescópicas.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Recurrencias Lineas Homogéneas.md",
     "Autotruck Diesel/Sistema Taller.md",
+    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "Autotruck Diesel",
     "Captura de pantalla 2023-10-20 a la(s) 21.58.05.png",
     "Captura de pantalla 2023-10-19 a la(s) 20.47.48.png",
@@ -210,7 +214,6 @@
     "Learn Java/Advanced Notes/5. Dependency Management.md",
     "Learn Java/Advanced Notes/4. Building apps using Gradle.md",
     "Learn Java/Advanced Notes/2. Java Archive.md",
-    "Learn Java/Advanced Notes/0. Build Tools.md",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
     "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
@@ -219,10 +222,6 @@
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.1 - Automata de Pila.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6 - ER y Gramaticas.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/5.5 - Lema del Bombeo.pdf",
-    "4 Semestre/Arquitectura de Computadores/Recursos/Medidas de Capacidad de Memoria.md",
-    "Objetivo Fin de Año.md",
-    "Learn Java/Advanced Notes/3. Basic Project With Gradle.md",
-    "Learn Java/Advanced Notes/1. Gradle Basics.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por ABI.png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por DBI.png",
