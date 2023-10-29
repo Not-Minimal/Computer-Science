@@ -21,3 +21,9 @@ Una entidad lo es gracias a sus atributos o propiedades, Tamaño, direccion, Ven
 		- Informacion de contacto: compuesto
 		- Todo lo demas: Simples
 
+Consulta: Query
+Table: Tabla
+Campo: Field
+Valor de campo: fiel Value
+Registro: Record
+Identifiers: ID
