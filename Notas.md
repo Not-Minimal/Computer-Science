@@ -27,3 +27,8 @@ Campo: Field
 Valor de campo: fiel Value
 Registro: Record
 Identifiers: ID
+
+SELECT *  FROM Employees
+As: ayuda a darle un nombre mas descriptivo a la consulta.
+SELECT LastName As Apellido  FROM Employees
+SELECT FirstName As Nombre, LastName As Apellido  FROM Employees
