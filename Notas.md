@@ -12,3 +12,11 @@ Una entidad lo es gracias a sus atributos o propiedades, Tamaño, direccion, Ven
 - Clave o Key: Forma unica de identificar algo:
 	- ejemplo casa: Id de casa.
 	- Son atributos, Ovalado y dentro subrayado.
+	Ejemplo de diagrama.
+	![[Captura de pantalla 2023-10-28 a la(s) 22.51.34.png]]
+	- Empleado
+		- id empleado: Key
+		- Habilidades: multivalor
+		- Edad: dereivado
+		- Informacion de contacto: compuesto
+		- Todo lo demas: Simples
