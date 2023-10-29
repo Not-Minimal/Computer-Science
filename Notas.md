@@ -39,3 +39,6 @@ SELECT * FROM Products
 ORDER By ProductName ASC
 SELECT * FROM Products
 ORDER By ProductName ASC Nulls Last
+SELECT * FROM Products
+ORDER By ProductName, SupplierID desc
+SELECT  DISTINCT ProductName FROM Products order by ProductName asc
