@@ -8,5 +8,7 @@ Una entidad lo es gracias a sus atributos o propiedades, Tamaño, direccion, Ven
 	- Atributo simple: Datos unicos; precio.
 	- Atributo compuestos: Se componen de otros datos; comedor, living, baño, etc,.
 	- Atributos multivalor: Ambientes ya que hay mas que uno. representado con doble ovalo.
-	- Atributos derivaados: Antiguedad y ubicacion
-- 
+	- Atributos derivaados: Antiguedad y ubicacion, se adquieran a traves de otros, ejemplo: fecha final menos fecha inicial. representado como bordeado punteado
+- Clave o Key: Forma unica de identificar algo:
+	- ejemplo casa: Id de casa.
+	- Son atributos, Ovalado y dentro subrayado.
