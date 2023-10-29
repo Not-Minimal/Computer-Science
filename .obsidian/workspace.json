@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Notas.md",
+                "file": "SQL/Chat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Notas.md",
+                "file": "SQL/Chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Notas.md",
+                "file": "SQL/Chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Notas.md"
+                "file": "SQL/Chat.md"
               }
             }
           },
@@ -181,6 +180,8 @@
   },
   "active": "5c59ad4a13e33afb",
   "lastOpenFiles": [
+    "SQL/Notas.md",
+    "SQL/Chat.md",
     "Learn Java/Introduction Notes/63. Throwing Exceptions.md",
     "Algorithms and Data Structures/Notas/Fixed-size array.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - InsertionSort.md",
@@ -192,7 +193,6 @@
     "Captura de pantalla 2023-10-19 a la(s) 20.47.48.png",
     "Captura de pantalla 2023-10-28 a la(s) 22.51.34.png",
     "iTerm.md",
-    "SQL/Notas.md",
     "SQL",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Teorema Maestro.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Reemplazo o Substitución.md",
@@ -215,7 +215,6 @@
     "Learn Java/Introduction Notes/39. Parameters And Options.md",
     "Learn Java/Introduction Notes/37. What Is An Exception.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Preparación Test.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de Autómatas.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
