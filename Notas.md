@@ -32,3 +32,6 @@ SELECT *  FROM Employees
 As: ayuda a darle un nombre mas descriptivo a la consulta.
 SELECT LastName As Apellido  FROM Employees
 SELECT FirstName As Nombre, LastName As Apellido  FROM Employees
+SELECT  Price FROM Products
+SELECT  Price * 2 As precio_doble FROM Products
+SELECT  Price, Price * 2 As precio_doble FROM Products
