@@ -35,3 +35,7 @@ SELECT FirstName As Nombre, LastName As Apellido  FROM Employees
 SELECT  Price FROM Products
 SELECT  Price * 2 As precio_doble FROM Products
 SELECT  Price, Price * 2 As precio_doble FROM Products
+SELECT * FROM Products
+ORDER By ProductName ASC
+SELECT * FROM Products
+ORDER By ProductName ASC Nulls Last
