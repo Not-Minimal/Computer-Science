@@ -41,4 +41,4 @@ SELECT * FROM Products
 ORDER By ProductName ASC Nulls Last
 SELECT * FROM Products
 ORDER By ProductName, SupplierID desc
-SELECT  DISTINCT ProductName FROM Products order by ProductName asc
+SELECT  DISTINCT ProductName FROM Products order by ProductName asc: Solo muestra un dato sin duplicado. En vez de 10 manzanas y 5 peras. Muestra una manzana y una pera.
