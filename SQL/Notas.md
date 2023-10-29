@@ -47,3 +47,6 @@ SELECT * FROM Products Where Price  <= 40   ORDER By Price Asc
 DELETE  FROM Products Where ProductID = 2
 UPDATE Products SET ProductName = "Sushi" WHERE ProductID = 33
 ### Operadores Logicos
+SELECT * FROM Products  where  ProductID = 33 AND ProductName = "Sushi"
+SELECT * FROM  Customers where CustomerID >= 50 and CustomerID < 55
+SELECT * FROM  Employees where  FirstName = "Nancy" or FirstName = "Anne"
