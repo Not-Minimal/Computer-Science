@@ -86,3 +86,9 @@ Se puede usar en selec, update y delete
 Permiten agregar datos, reunirlos y trabajar con estadistcias
 SELECT count(FirstName) FROM Employees
 SELECT sum(Price) FROM Products
+SELECT avg(Price) FROM Products
+SELECT round(avg(Price)) FROM Products
+SELECT round(avg(Price),2) FROM Products
+SELECT ProductName, min(price) FROM Products where ProductName is not NULL
+-- Comentarios en sql
+### Group By y Having
