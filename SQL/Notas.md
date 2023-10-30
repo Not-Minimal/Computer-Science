@@ -60,3 +60,11 @@ SELECT  * FROM Products where not CategoryID = 6 and not SupplierID = 1 and Pric
 SELECT  * FROM Products where not CategoryID = 6 and not SupplierID = 1 and Price <=30 ORDER by random() LIMIT 3+
 
 ### BetWeen
+SELECT * FROM Products WHERE Price BETWEEN  20 and 40
+SELECT * FROM Products WHERE Price BETWEEN  20 and 40 and CategoryID = 6
+SELECT * FROM Products WHERE Price BETWEEN  20 and 40 or CategoryID = 6
+SELECT * FROM Products WHERE Price not BETWEEN  20 and 40 
+SELECT * FROM Products WHERE Price not BETWEEN  20 and 40  ORDER by Price
+SELECT * FROM Employees WHERE BirthDate  BETWEEN  "1960-0-1" and "1970-0-1" 
+
+### Like
