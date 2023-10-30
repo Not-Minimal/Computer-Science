@@ -70,5 +70,6 @@ SELECT * FROM Employees WHERE BirthDate  BETWEEN  "1960-0-1" and "1970-0-1"
 #### Like: Buscar y filtrar registros en función de patrones de cadenas de texto
 
 SELECT * FROM Employees WHERE LastName like "Fuller"
-Comodines: % o %∂%
+Comodines: %, %∂%
 SELECT * FROM Employees WHERE LastName like "f%r"
+SELECT * FROM Employees WHERE LastName like "F __ __ r"
