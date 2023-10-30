@@ -115,13 +115,14 @@
 - Se cambia la ubicacion de imagenes, iconos y logos de la pagina.
 - Agregar favicon.
 - Se optimizo la misión y vision.
+- Boton de llamar, funciona directamente para llamar al jefe mecanico.
 ##### 27/10
 - Visita a taller en busqueda de retroalimentacion sobre la pagina.
 - Nos pidieron agregar mas servicios que son fundamentales y principales en la empresa.
-- Se nos solicita agregar en la web Los principales Scanners que usa la empresa para a
+- Se nos solicita agregar en la web Los principales Scanners que usa la empresa para mostrarlos.
 
 ##### 30/10
-- Se cambia la ubicacion de imagenes, iconos y logos de la pagina.
+- Se cambia la ubicación de imagenes, iconos y logos de la pagina.
 - Se mejoro el apartado de Nosotros, se optimizo la misión y vision.
 - Ahora toda la pagina tiene una linea 
 
