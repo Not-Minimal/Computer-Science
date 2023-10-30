@@ -92,3 +92,5 @@ SELECT round(avg(Price),2) FROM Products
 SELECT ProductName, min(price) FROM Products where ProductName is not NULL
 -- Comentarios en sql
 ### Group By y Having
+SELECT SupplierID, round(avg(price)) FROM Products  group by SupplierID
+SELECT ProductName,SupplierID, round(avg(price)) as Promedio FROM Products  group by SupplierID ORDER by Promedio DESC
