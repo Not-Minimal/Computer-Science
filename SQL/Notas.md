@@ -73,3 +73,9 @@ SELECT * FROM Employees WHERE LastName like "Fuller"
 Comodines: %, %∂%
 SELECT * FROM Employees WHERE LastName like "f%r"
 SELECT * FROM Employees WHERE LastName like "F __ __ r"
+
+### Null y Not Null
+SELECT * FROM Products where ProductName is NULL order by ProductName ASC
+
+### In
+SELECT * FROM Products WHERE SupplierID = 3 or SupplierID = 5
