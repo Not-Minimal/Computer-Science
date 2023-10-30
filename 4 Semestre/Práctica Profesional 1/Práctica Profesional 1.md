@@ -124,7 +124,12 @@
 ##### 30/10
 - Se cambia la ubicación de imagenes, iconos y logos de la pagina.
 - Se mejoro el apartado de Nosotros, se optimizo la misión y vision.
-- Ahora toda la pagina tiene una linea 
+- Ahora toda la pagina tiene una linea de diseño clara.
+
+#### 31/10
+- Agregar mas servicios que son fundamentales y principales en la empresa.
+- Se nos solicita agregar en la web Los principales Scanners que usa la empresa para mostrarlos.
+
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
