@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Chat.md",
+                "file": "SQL/Notas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Chat.md",
+                "file": "SQL/Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Chat.md",
+                "file": "SQL/Notas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Chat.md"
+                "file": "SQL/Notas.md"
               }
             }
           },
@@ -180,8 +181,8 @@
   },
   "active": "5c59ad4a13e33afb",
   "lastOpenFiles": [
-    "SQL/Notas.md",
     "SQL/Chat.md",
+    "SQL/Notas.md",
     "Learn Java/Introduction Notes/63. Throwing Exceptions.md",
     "Algorithms and Data Structures/Notas/Fixed-size array.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - InsertionSort.md",

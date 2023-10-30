@@ -50,3 +50,11 @@ UPDATE Products SET ProductName = "Sushi" WHERE ProductID = 33
 SELECT * FROM Products  where  ProductID = 33 AND ProductName = "Sushi"
 SELECT * FROM  Customers where CustomerID >= 50 and CustomerID < 55
 SELECT * FROM  Employees where  FirstName = "Nancy" or FirstName = "Anne"
+SELECT  * FROM Customers  WHERE CustomerID >= 50 and CustomerID < 55 and NOT Country = "Germany"
+SELECT  * FROM Customers  WHERE CustomerID >= 50 and NOT Country = "Germany"
+LIMIT 5
+SELECT  * FROM Customers  WHERE CustomerID >= 50 and NOT Country = "Germany" AND not Country = "UK" AND NOT Country ="Mexico" AND NOT Country = "France"
+LIMIT 5 
+SELECT  * FROM Products where not CategoryID = 6 and not SupplierID = 1
+SELECT  * FROM Products where not CategoryID = 6 and not SupplierID = 1 and Price <=30
+LIMIT 3
