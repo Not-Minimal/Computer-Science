@@ -106,12 +106,24 @@
 - Se hace uso de plugin para formulario directo con la plataforma de despliegue "Netlify". Esta detecta en el form de html que es un formulario, por ende los datos registrados son enviados directamente al correo de la empresa.
 - Se hace deploy de la web, para ver que todo funcione correcto.
 - De momento el dominio es: https://friendly-horse-33bfe5.netlify.app/
-- 
 
 ##### 25/10
 - Ver por que las imagenes y SVG's no aparecen en linea.
 - Agregar favicon.
 - Ver que las lineas de componentes sean en toda la pagina igual. En los dispositivos medianos como tablet.
+##### 26/10
+- Se cambia la ubicacion de imagenes, iconos y logos de la pagina.
+- Agregar favicon.
+- Se optimizo la misión y vision.
+##### 27/10
+- Visita a taller en busqueda de retroalimentacion sobre la pagina.
+- Nos pidieron agregar mas servicios que son fundamentales y principales en la empresa.
+- Se nos solicita agregar en la web Los principales Scanners que usa la empresa para a
+
+##### 30/10
+- Se cambia la ubicacion de imagenes, iconos y logos de la pagina.
+- Se mejoro el apartado de Nosotros, se optimizo la misión y vision.
+- Ahora toda la pagina tiene una linea 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 

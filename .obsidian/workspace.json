@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Notas.md",
+                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Notas.md",
+                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Notas.md",
+                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Notas.md"
+                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md"
               }
             }
           },
@@ -181,8 +181,9 @@
   },
   "active": "5c59ad4a13e33afb",
   "lastOpenFiles": [
-    "SQL/Chat.md",
+    "4 Semestre/Emprendiendo Mi Primer Negocio.md",
     "SQL/Notas.md",
+    "SQL/Chat.md",
     "Learn Java/Introduction Notes/63. Throwing Exceptions.md",
     "Algorithms and Data Structures/Notas/Fixed-size array.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - InsertionSort.md",
@@ -215,7 +216,6 @@
     "Learn Java/Introduction Notes/42. Running Programs on Computers.md",
     "Learn Java/Introduction Notes/39. Parameters And Options.md",
     "Learn Java/Introduction Notes/37. What Is An Exception.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Preparación Test.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
