@@ -56,5 +56,5 @@ LIMIT 5
 SELECT  * FROM Customers  WHERE CustomerID >= 50 and NOT Country = "Germany" AND not Country = "UK" AND NOT Country ="Mexico" AND NOT Country = "France"
 LIMIT 5 
 SELECT  * FROM Products where not CategoryID = 6 and not SupplierID = 1
-SELECT  * FROM Products where not CategoryID = 6 and not SupplierID = 1 and Price <=30
-LIMIT 3
+SELECT  * FROM Products where not CategoryID = 6 and not SupplierID = 1 and Price <=30 LIMIT 3
+SELECT  * FROM Products where not CategoryID = 6 and not SupplierID = 1 and Price <=30 ORDER by random() LIMIT 3
