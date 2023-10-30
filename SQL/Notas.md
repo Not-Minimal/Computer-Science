@@ -79,3 +79,10 @@ SELECT * FROM Products where ProductName is NULL order by ProductName ASC
 
 ### In
 SELECT * FROM Products WHERE SupplierID = 3 or SupplierID = 5
+SELECT * FROM Products WHERE SupplierID in (3,5)
+Se puede usar en selec, update y delete
+
+### Funciones de Agregacion
+Permiten agregar datos, reunirlos y trabajar con estadistcias
+SELECT count(FirstName) FROM Employees
+SELECT sum(Price) FROM Products
