@@ -127,7 +127,11 @@
 - Ahora toda la pagina tiene una linea de diseño clara.
 
 #### 31/10
-- Se nos solicita agregar en la web Los principales Scanners que usa la empresa para mostrarlos.
+- Se agrega en la web Los principales Scanners que usa la empresa para mostrarlos(Falta Mejorarlos)
+
+#### 01/11
+- Se mejora el landing de Scanners que usa la empresa para mostrarlos(Falta Mejorarlos)
+
 
 
 
