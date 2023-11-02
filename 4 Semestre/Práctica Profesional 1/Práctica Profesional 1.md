@@ -137,7 +137,7 @@
 - Agregar servicios extras.
 
 #### 02/11
-- Comprar Dominio junto con el cetificado de seguridad o protocolo HTTPS
+- Se Compra Dominio junto con el cetificado de seguridad o protocolo HTTPS
 - Empezar a cargar imagenes reales.
 - Añadir SEO
 
