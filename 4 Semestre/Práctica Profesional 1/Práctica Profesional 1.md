@@ -139,6 +139,7 @@
 #### 02/11
 - Comprar Dominio junto con el cetificado de seguridad o protocolo HTTPS
 - Empezar a cargar imagenes reales.
+- Añadir SEO
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
