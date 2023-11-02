@@ -139,7 +139,8 @@
 #### 02/11
 - Se Compra Dominio junto con el cetificado de seguridad o protocolo HTTPS
 - Empezar a cargar imagenes reales.
-- Hablar sobre SEO
+- Hablar sobre SEO y agregarlo la siguiente semana.
+- Se carga nuevo favicon con logo de la empresa.
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
