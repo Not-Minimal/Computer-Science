@@ -130,7 +130,11 @@
 - Se agrega en la web Los principales Scanners que usa la empresa para mostrarlos(Falta Mejorarlos)
 
 #### 01/11
-- Se mejora el landing de Scanners que usa la empresa para mostrarlos(Falta Mejorarlos)
+- Se mejora el landing de Scanners que usa la empresa para mostrarlos
+- Se crea el landing de productos de la empresa
+- Se agregan las imagenes, Nombres, Precios y SKU de los productos
+- Se agrega el Link a productos en el navBar
+- Agregar servicios extras.
 
 
 
