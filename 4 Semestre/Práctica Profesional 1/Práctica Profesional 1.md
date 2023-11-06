@@ -143,10 +143,8 @@
 - Se carga nuevo favicon con logo de la empresa.
 
 ##### 03/11
-- Se visito el taller, para mostrar la de la pagina web y se recibieron las siguientes recomendaciones:
-	- Imagenes 100% del taller.
-	- Agregar Feed de instagram de la empresa.
-	- Cambiar servicio de Alineacion y balanceo por Ajustes de Motor.
+- Se visito el taller, para mostrar la pagina web terminada, nos felicitaron y agradecieron.
+- Se empiezan a cargar imagenes 100% del taller.
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
