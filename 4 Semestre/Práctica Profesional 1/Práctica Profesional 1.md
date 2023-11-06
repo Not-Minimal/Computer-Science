@@ -127,7 +127,7 @@
 - Ahora toda la pagina tiene una linea de diseño clara.
 
 #### 31/10
-- Se agrega en la web Los principales Scanners que usa la empresa para mostrarlos(Falta Mejorarlos)
+- Se agrega en la web Los principales Scanners que usa la empresa para diagnostico automotriz(Falta Mejorarlos)
 
 #### 01/11
 - Se mejora el landing de Scanners que usa la empresa para mostrarlos
@@ -141,6 +141,12 @@
 - Empezar a cargar imagenes reales.
 - Hablar sobre SEO y agregarlo la siguiente semana.
 - Se carga nuevo favicon con logo de la empresa.
+
+##### 03/11
+- Se visito el taller, para mostrar la de la pagina web y se recibieron las siguientes recomendaciones:
+	- Imagenes 100% del taller.
+	- Agregar Feed de instagram de la empresa.
+	- Cambiar servicio de Alineacion y balanceo por Ajustes de Motor.
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
