@@ -148,6 +148,7 @@
 
 ##### 06/11
 - Conocer sobre SEO Web
+- Agregar SEO a la pagina con: npm install astro-seo
 - Conectar Pagina a Google Analitics
 ##### 07/11
 - Planificar siguientes semanas de practica.
