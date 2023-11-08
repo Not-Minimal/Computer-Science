@@ -146,6 +146,16 @@
 - Se visito el taller, para mostrar la pagina web terminada, nos felicitaron y agradecieron.
 - Se empiezan a cargar imagenes 100% del taller.
 
+##### 06/11
+- Conocer sobre SEO Web
+- Conectar Pagina a Google Analitics
+##### 07/11
+- Planificar siguientes semanas de practica.
+- Detallar pasos a seguir, teniendo en cuenta frameworks, uso de bases de datos, informes mediante Google Data Studio, etc.
+
+##### 08/11
+- Planificar siguientes semanas de practica.
+- Detallar pasos a seguir, teniendo en cuenta frameworks, uso de bases de datos, informes mediante Google Data Studio, etc.
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
