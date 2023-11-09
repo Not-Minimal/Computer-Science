@@ -149,15 +149,17 @@
 ##### 06/11
 - Conocer sobre SEO Web
 - Agregar SEO a la pagina con: npm install astro-seo
-- Conectar Pagina a Google Analitics![[Captura de pantalla 2023-11-08 a la(s) 9.16.46 p. m..png]]
 
 ##### 07/11
 - Planificar siguientes semanas de practica.
 - Detallar pasos a seguir, teniendo en cuenta frameworks, uso de bases de datos, informes mediante Google Data Studio, etc.
 
 ##### 08/11
-- Planificar siguientes semanas de practica.
-- Detallar pasos a seguir, teniendo en cuenta frameworks, uso de bases de datos, informes mediante Google Data Studio, etc.
+- Conectar Pagina a Google Analitics![[Captura de pantalla 2023-11-08 a la(s) 9.16.46 p. m..png]]
+- Conocer Sobre Looker studio o Google Data Studio para creación de informes con datos de la empresa.
+##### 09/11
+
+
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
