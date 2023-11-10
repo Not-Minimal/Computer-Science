@@ -158,7 +158,7 @@
 - Conectar Pagina a Google Analitics![[Captura de pantalla 2023-11-08 a la(s) 9.16.46 p. m..png]]
 - Conocer Sobre Looker studio o Google Data Studio para creación de informes con datos de la empresa.
 ##### 09/11
-- Diseño detallado del nuevo sistema de gestión de órdenes de trabajo y cotizaciones.
+- Diseño detallado del nuevo sistema de gestión de órdenes de trabajo y cotizaciones.![[Diagrama en blanco.png]]
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
