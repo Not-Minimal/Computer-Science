@@ -159,7 +159,8 @@
 - Conocer Sobre Looker studio o Google Data Studio para creación de informes con datos de la empresa.
 ##### 09/11
 - Diseño detallado del nuevo sistema de gestión de órdenes de trabajo y cotizaciones.![[Diagrama en blanco.png]]
-
+##### 10/11
+- Diseño de
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
