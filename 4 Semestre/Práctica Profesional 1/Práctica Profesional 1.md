@@ -160,7 +160,14 @@
 ##### 09/11
 - Diseño detallado del nuevo sistema de gestión de órdenes de trabajo y cotizaciones.![[Diagrama en blanco.png]]
 ##### 10/11
-- Diseño de
+- Se visito el taller, para comprender mejor la gestion y el proceso de trabajo.
+##### 13/11
+- Se Mejoro SEO de la pagina web
+- Se agregaron productos nuevos
+- Se Mejoro 
+##### 14/11
+- Se visito el taller, para comprender mejor la gestion y el proceso de trabajo.
+
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
