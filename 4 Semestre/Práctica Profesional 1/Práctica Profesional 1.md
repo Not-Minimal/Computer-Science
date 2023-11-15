@@ -164,9 +164,10 @@
 ##### 13/11
 - Se Mejoro SEO de la pagina web
 - Se agregaron productos nuevos
-- Se Mejoro 
+- Se Actualizaron las columnas de servicios mostradas en dispositivos medianos pasando de 1 a 2. (Muestra Mas info)
+- Se deja constancia para futura creacion de banner en SEO.
 ##### 14/11
-- Se visito el taller, para comprender mejor la gestion y el proceso de trabajo.
+- Creación de  proyecto para aplicacion, se vio el apartado de Ordenes de Trabajo y como automataizar la creacion de un PDF con los Datos.
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
