@@ -168,6 +168,9 @@
 - Se deja constancia para futura creacion de banner en SEO.
 ##### 14/11
 - Creación de  proyecto para aplicacion, se vio el apartado de Ordenes de Trabajo y como automataizar la creacion de un PDF con los Datos.
+##### 15/11
+- Corroborar datos entregados por la empresa para empezar el proyecto.
+- Revisando los datos en excel 
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
