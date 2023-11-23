@@ -172,6 +172,11 @@
 ##### 15/11
 - Corroborar datos entregados por la empresa para empezar el proyecto.
 - Revisando los datos en excel para ordenar y organizar.
+##### 16/11
+- 
+-
+
+##### 17/11
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
