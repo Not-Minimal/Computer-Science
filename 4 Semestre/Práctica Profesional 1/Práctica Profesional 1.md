@@ -173,8 +173,9 @@
 - Corroborar datos entregados por la empresa para empezar el proyecto.
 - Revisando los datos en excel para ordenar y organizar.
 ##### 16/11
-- 
--
+- Diseño de la Interfaz de Usuario y Configuración Firebase
+- Continuar organizando los datos y definir la estructura de la base de datos en Firebase
+- Diseñar la interfaz de usuario para la sección de Órdenes de Trabajo.|
 
 ##### 17/11
 
