@@ -175,10 +175,28 @@
 ##### 16/11
 - Diseño de la Interfaz de Usuario y Configuración Firebase
 - Continuar organizando los datos y definir la estructura de la base de datos en Firebase
-- Diseñar la interfaz de usuario para la sección de Órdenes de Trabajo.|
+- Diseñar la interfaz de usuario para la sección de Órdenes de Trabajo.
 
 ##### 17/11
+- Investigación y Revisión de Diseño
+- Investigar los principios fundamentales de la Interfaz de Usuario (UI) y Experiencia de Usuario (UX).
+- Leer artículos y estudios de caso para comprender la importancia del diseño centrado en el usuario.
 
+##### 20/11
+- Introducción a Sistemas de Diseño
+- Investigae sobre sistemas de diseño y su papel en el desarrollo de aplicaciones
+- Leer acerca de cómo los sistemas de diseño mejoran la coherencia y eficiencia en el diseño.
+##### 21/11
+- Explorar sistemas de diseño populares como Google Material Design, Tailwind css, Apple Design entre otros.
+- Comprende los componentes y principios de diseño que ofrecen estos sistemas.
+
+##### 22/11
+
+##### 23/11
+
+##### 24/11
+
+##### 25/11
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
