@@ -191,10 +191,17 @@
 - Comprende los componentes y principios de diseño que ofrecen estos sistemas.
 
 ##### 22/11
+- Profundizar Material Design
+- Dedicar tiempo a comprender en detalle los principios y directrices de Material Design.
+- Estudiar la paleta de colores, tipografía y la disposición de los elementos en Material Design https://m3.material.io/
 
 ##### 23/11
+- Explorar la documentación oficial de Material Design para obtener información detallada sobre componentes y comportamientos.
+- Analizar casos de uso específicos de Material Design en aplicaciones similares.
 
 ##### 24/11
+- Aplicación Práctica de Material Design en Flutter
+- Investiga cómo implementar Material Design en Flutter.
 
 ##### 25/11
 
