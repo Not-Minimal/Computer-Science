@@ -206,7 +206,7 @@
 
 ##### 25/11
 - Diseño de App en Figma en base a Material Design.
-Prototipado
+- Prototipado de la app
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
