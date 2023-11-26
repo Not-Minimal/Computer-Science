@@ -37,6 +37,8 @@
 7. **Resumen Final:**
     
     - La Máquina de Turing demuestra una estrategia para reconocer el lenguaje anbncn y se destaca la importancia de la estrategia de marcar y avanzar en su funcionamiento.
+
+
 Resumen:
 En la clase, se aborda el problema de reconocer palíndromos separados por un hashtag utilizando una Máquina de Turing. Se presenta una estrategia que implica contar las letras y marcar la mitad de la palabra. Luego, se utilizan estados para verificar la simetría de las letras en ambos lados de la marca central.
 
@@ -75,6 +77,65 @@ Se adelanta que en la próxima clase se verá una representación más compacta 
 Observaciones Finales:
 Se destaca la complejidad de la máquina presentada y se anima a los estudiantes a practicar la resolución de problemas similares. La eficiencia en la representación de la máquina será abordada en la siguiente clase.
 
+Para resolver la cadena ����anbn, donde el número de �a es igual al número de �b, puedes utilizar una Máquina de Turing para verificar si la cadena cumple con esa estructura.
+
+La idea es que la máquina de Turing, mientras lee �a's, marca cada �a, y cuando empieza a leer �b's, verifica que por cada �b haya una marca correspondiente de �a. Si en algún punto la cadena no cumple con esta condición, la máquina de Turing rechaza la entrada.
+
+Voy a proporcionarte una descripción general de cómo sería la máquina de Turing para resolver ����anbn:
+
+1. **Estado Inicial (q0):**
+    
+    - Leer �a y marcarla.
+    - Avanzar a la derecha.
+2. **Estado de Marcado (q1):**
+    
+    - Leer �a, marcarla si no está marcada.
+    - Avanzar a la derecha.
+3. **Estado de Búsqueda (q2):**
+    
+    - Leer �b y desmarcar la marca correspondiente �a.
+    - Avanzar a la derecha.
+4. **Estado de Aceptación (q3):**
+    
+    - Si llega al final de la cadena y todas las marcas han sido desmarcadas, acepta la entrada. Si no, rechaza.
+5. **Estado de Rechazo (qr):**
+    
+    - En caso de cualquier discrepancia en el número de �a's y �b's, rechazar la entrada.
+
+El proceso implica marcar todas las �a's, luego desmarcarlas cuando se encuentran con �b's y verificar que al final no haya ninguna �a marcada.
+
+Es importante mencionar que esta es solo una descripción general, y la implementación exacta podría variar según las convenciones específicas que estés utilizando para representar las transiciones de la máquina de Turing.
 
 
+  
+Resumen:
 
+El profesor explicó el uso de la notación modular en la escritura de máquinas de Turing para hacerlo más comprensible. Luego, abordó el concepto de cómputo no determinista, destacando que permite explorar múltiples caminos en la resolución de un problema. Utilizó un ejemplo de una máquina de Turing no determinista para resolver el lenguaje de wdve en dos cintas, empleando una técnica de copiado y bifurcación para encontrar un divisor de manera no determinista.
+
+Mapa Conceptual:
+
+1. **Notación Modular en Máquinas de Turing:**
+    
+    - Uso de la notación modular para facilitar la escritura de máquinas de Turing.
+    - Representación gráfica de instrucciones como flechas y símbolos.
+2. **Cómputo No Determinista:**
+    
+    - Exploración de múltiples caminos simultáneamente en la resolución de problemas.
+    - Empleo de bifurcaciones y elecciones no deterministas en la computación.
+3. **Ejemplo de Máquina de Turing No Determinista:**
+    
+    - Resolución del lenguaje de wdve en dos cintas.
+    - Técnica de copiado en la cinta 2 y bifurcaciones para encontrar un divisor.
+4. **Simulación de Cómputo No Determinista:**
+    
+    - Uso de una cinta adicional para simular las bifurcaciones y elecciones.
+    - Emulación de la exploración de múltiples caminos mediante un recorrido en profundidad en un árbol de decisiones.
+5. **Complejidad Exponencial:**
+    
+    - Explicación de que el cómputo no determinista puede llevar a una complejidad exponencial en términos de tiempo.
+    - Comparación con la simulación en una máquina de Turing determinista.
+6. **Preparación para el Certamen:**
+    
+    - Posibles temas para el próximo certamen, incluyendo problemas de máquinas de Turing y autómatas con pila.
+
+Esquematización de las ideas y relaciones entre los conceptos mencionados.
