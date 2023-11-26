@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/2. Forma de Backus Naur y Equivalencia.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/2. Forma de Backus Naur y Equivalencia.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/2. Forma de Backus Naur y Equivalencia.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/2. Forma de Backus Naur y Equivalencia.md"
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "5c59ad4a13e33afb",
   "lastOpenFiles": [
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/1. Gramáticas Libres de contexto y Automatas con pila.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo 2.0 - Como no Bombear.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/2. Forma de Backus Naur y Equivalencia.md",
+    "Captura de pantalla 2023-11-25 a la(s) 10.14.21 p. m..png",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/1. Gramáticas Libres de contexto y Automatas con pila.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Preparación Test.md",
@@ -194,7 +196,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing MultiCabeza y MultiCinta.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño/Técnicas de Diseño - BackTracking.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño/Técnicas de Diseño - Algoritmo Voraz.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo 2.0 - Como no Bombear.md",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "Diagrama en blanco.png",
     "Captura de pantalla 2023-11-08 a la(s) 9.16.46 p. m. (2).png",
@@ -214,7 +215,6 @@
     "iTerm.md",
     "SQL",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Teorema Maestro.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Reemplazo o Substitución.md",
     "Autotruck Diesel",
     "Captura de pantalla 2023-10-19 a la(s) 20.47.27.png",
     "Captura de pantalla 2023-10-19 a la(s) 20.18.27.png",
@@ -226,7 +226,6 @@
     "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.1 - Automata de Pila.pdf",
-    "4 Semestre/Arquitectura de Computadores/Recursos/Images/Operaciones Realizadas por OP-Y-SEL.png",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
     "3 Semestre/Organigrama.canvas",
