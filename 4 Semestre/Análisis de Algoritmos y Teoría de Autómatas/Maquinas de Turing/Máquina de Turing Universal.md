@@ -1,1 +1,0 @@
-[[Problema del Alto]]

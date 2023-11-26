@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Sin título.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Sin título.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Sin título.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Sin título.md"
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md"
               }
             }
           },
@@ -180,8 +181,9 @@
   },
   "active": "5c59ad4a13e33afb",
   "lastOpenFiles": [
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Sin título.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing No Deterministas.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing MultiCabeza y MultiCinta.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño/Técnicas de Diseño - BackTracking.md",
@@ -216,7 +218,6 @@
     "Captura de pantalla 2023-10-19 a la(s) 20.47.27.png",
     "Captura de pantalla 2023-10-19 a la(s) 20.18.27.png",
     "4 Semestre/Paradigmas de la Programación/Clase ArrayList.md",
-    "4 Semestre/Arquitectura de Computadores/Recursos/M32/3. Arquitectura Logica.md",
     "4 Semestre/Arquitectura de Computadores/Arquitectura de Computadores.pdf",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",

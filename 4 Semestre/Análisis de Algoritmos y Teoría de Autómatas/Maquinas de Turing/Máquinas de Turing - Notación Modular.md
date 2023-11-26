@@ -1,1 +1,0 @@
-[[Máquina de Turing Universal]]
