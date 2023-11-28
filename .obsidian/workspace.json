@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md",
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md"
+                "file": "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md"
               }
             }
           },
@@ -180,17 +180,17 @@
   },
   "active": "5c59ad4a13e33afb",
   "lastOpenFiles": [
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquinas de Turing y Modelos.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Sin título.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/1. Gramáticas Libres de contexto y Automatas con pila.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo 2.0 - Como no Bombear.md",
+    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/2. Forma de Backus Naur y Equivalencia.md",
     "Captura de pantalla 2023-11-25 a la(s) 10.14.21 p. m..png",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/1. Gramáticas Libres de contexto y Automatas con pila.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto/Teoremas/Teorema del Bombeo.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Lenguajes Libres de Contexto",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Preparación Test.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquinas de Turing y Modelos.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Sin título.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing No Deterministas.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing MultiCabeza y MultiCinta.md",
