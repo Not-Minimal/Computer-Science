@@ -204,9 +204,12 @@
 - Investiga cómo implementar Material Design en Flutter.
 - Comenzar la adaptacion la interfaz de usuario de la app en Figma(Diseño)
 
-##### 25/11
+##### 27/11
 - Diseño de App en Figma en base a Material Design.
 - Prototipado de la app
+
+##### 28/11
+- Acciones de los botones en diseño de figma 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
