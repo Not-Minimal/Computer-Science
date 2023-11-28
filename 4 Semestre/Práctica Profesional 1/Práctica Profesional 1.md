@@ -209,7 +209,7 @@
 - Prototipado de la app
 
 ##### 28/11
-- Acciones de los botones en diseño de figma 
+- Acciones de los botones de la app de diseño en figma 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
