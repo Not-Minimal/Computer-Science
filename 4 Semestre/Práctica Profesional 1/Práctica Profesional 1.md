@@ -212,6 +212,10 @@
 - Acciones de los botones de la app de diseño en figma 
 - Ver SDK de Flutter e instalar
 
+##### 29/11
+- Acciones de los botones de la app de diseño en figma 
+- Ver SDK de Flutter e instalar
+
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
