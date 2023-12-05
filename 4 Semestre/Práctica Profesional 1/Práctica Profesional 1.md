@@ -217,7 +217,14 @@
 - Actualizar Dependencias de Desarrollo
 
 ##### 30/11
+- Instalar extensiones en VS Code de flutter y Dart
 - Testear y compilar proyecto base de flutter
+##### 1/12
+- Ver documentacion sobre Flutter, acerca de Sistemas o Aplicaciones creadas con este framework
+- Ver casos de exito de Flutter
+##### 4/12
+-
+
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
