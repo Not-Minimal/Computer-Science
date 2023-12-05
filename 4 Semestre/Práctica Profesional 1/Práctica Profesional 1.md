@@ -213,8 +213,11 @@
 - Ver SDK de Flutter e instalar
 
 ##### 29/11
-- Acciones de los botones de la app de diseño en figma 
-- Ver SDK de Flutter e instalar
+- Instalar SDK De Android Studio
+- Actualizar Dependencias de Desarrollo
+
+##### 30/11
+- 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
