@@ -217,7 +217,7 @@
 - Actualizar Dependencias de Desarrollo
 
 ##### 30/11
-- 
+- Testear y compilar proyecto base de flutter
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
