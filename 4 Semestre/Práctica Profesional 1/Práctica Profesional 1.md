@@ -223,8 +223,14 @@
 - Ver documentacion sobre Flutter, acerca de Sistemas o Aplicaciones creadas con este framework
 - Ver casos de exito de Flutter
 ##### 4/12
-- 
 
+##### 5/12
+- Crear App base de template de Flutter, conocer ciertos componentes, etc.
+- Agregar Drawer y AppBar(No funciona, ver el dia siguiente)
+
+##### 6/12
+- Crear App base de template de Flutter, conocer ciertos componentes, etc.
+- Agregar Drawer y AppBar
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
