@@ -229,8 +229,10 @@
 - Agregar Drawer y AppBar(No funciona, ver el dia siguiente)
 
 ##### 6/12
-- Crear App base de template de Flutter, conocer ciertos componentes, etc.
-- Agregar Drawer y AppBar
+- Agregar Firebase al proyecto
+- Agregar plataformas: Android, IOS, MacOS, Windows
+- Agregar las dependencias como firebase_core, firebase_core_platform_interface, etc.
+
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
