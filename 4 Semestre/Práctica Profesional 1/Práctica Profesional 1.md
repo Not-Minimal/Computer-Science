@@ -223,7 +223,7 @@
 - Ver documentacion sobre Flutter, acerca de Sistemas o Aplicaciones creadas con este framework
 - Ver casos de exito de Flutter
 ##### 4/12
--
+- 
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
