@@ -11,12 +11,9 @@
             "id": "5c59ad4a13e33afb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Resolucion.pdf"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -87,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Resolucion.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Resolucion.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md"
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Resolucion.pdf"
               }
             }
           },
@@ -181,6 +177,10 @@
   },
   "active": "5c59ad4a13e33afb",
   "lastOpenFiles": [
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Practica 2.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/1 - Resolucion.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/1 - Practica 1.pdf",
+    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquinas de Turing y Modelos.md",
@@ -197,7 +197,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Cómo computar en máquinas de Turing MultiCabeza y MultiCinta.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño/Técnicas de Diseño - BackTracking.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño/Técnicas de Diseño - Algoritmo Voraz.md",
-    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "Diagrama en blanco.png",
     "Captura de pantalla 2023-11-08 a la(s) 9.16.46 p. m. (2).png",
     "Captura de pantalla 2023-11-08 a la(s) 9.16.46 p. m..png",
@@ -225,8 +224,6 @@
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
     "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
     "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.1 - Automata de Pila.pdf",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
     "3 Semestre/Organigrama.canvas",
