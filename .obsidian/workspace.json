@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/5.6- Equivalencia y Minimizacion AFDs.pdf"
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6 - ER y Gramaticas.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/5.6- Equivalencia y Minimizacion AFDs.pdf",
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6 - ER y Gramaticas.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/5.6- Equivalencia y Minimizacion AFDs.pdf",
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6 - ER y Gramaticas.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/5.6- Equivalencia y Minimizacion AFDs.pdf"
+                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6 - ER y Gramaticas.pdf"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "5c59ad4a13e33afb",
   "lastOpenFiles": [
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/5.6- Equivalencia y Minimizacion AFDs.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/7 - Practica 7.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/6 - Resolucion.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/6 - Practica 6.1.pdf",
@@ -187,7 +188,6 @@
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Resolucion.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/2 - Practica 2.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/1 - Resolucion.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/1 - Practica 1.pdf",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
