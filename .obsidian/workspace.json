@@ -26,7 +26,17 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf"
+                "file": "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_3_Dise+¦o_Logico_IECI.pdf"
+              }
+            }
+          },
+          {
+            "id": "f13be03cab38f91c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf"
               }
             }
           }
@@ -81,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -98,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
+                "file": "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_3_Dise+¦o_Logico_IECI.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
+                "file": "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_3_Dise+¦o_Logico_IECI.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf"
+                "file": "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_3_Dise+¦o_Logico_IECI.pdf"
               }
             }
           },
@@ -192,17 +201,18 @@
   },
   "active": "e01cdfa47b451ac2",
   "lastOpenFiles": [
+    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_1_Historia.pdf",
+    "TopSecret/Arquitectura de Computadores/Lecturas/Repertorio Instrucciones MIPS.pdf",
+    "TopSecret/Arquitectura de Computadores/Lecturas/Por qué no computadoras ternarias.pdf",
+    "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
+    "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio Extra.pdf",
+    "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio 6.pdf",
+    "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio 5.pdf",
+    "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf",
+    "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales.pdf",
+    "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Ejercicios 2.pdf",
+    "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
     "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
-    "TopSecret/Algoritmos y Programación (Progra 2)/Ejercicios de Laboratorio/Ejercicios_Laboratorio_28_04_20.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.4 - Automata Finito No Determinístico.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.3 - Automata Finito.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.1 - Teoria de Automatas.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/4 - Expresiones Regulares.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/3 - Lenguajes.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/1 - Introduccion Analisis de Algoritmos y Teoria de Automatas.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/7.2 - Compiladores.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/7.1 - Gramática BNF.pdf",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
