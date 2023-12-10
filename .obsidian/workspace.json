@@ -26,7 +26,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf"
+                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf"
               }
             }
           },
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "|",
+                "query": "  Segmento de Datos:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,11 +87,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
+                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
+                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf"
+                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf"
               }
             }
           },
@@ -201,9 +203,10 @@
   },
   "active": "e01cdfa47b451ac2",
   "lastOpenFiles": [
-    "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
-    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
+    "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Ejercicios 2.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
+    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
+    "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_6_MicroArquitectura_IECI.pdf",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_5_Lenguaje_Ensamblador.pdf",
@@ -211,7 +214,6 @@
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_3_Dise+¦o_Logico_IECI.pdf",
     "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_1_Historia.pdf",
     "TopSecret/Arquitectura de Computadores/Lecturas/Repertorio Instrucciones MIPS.pdf",
-    "TopSecret/Arquitectura de Computadores/Lecturas/Por qué no computadoras ternarias.pdf",
     "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
