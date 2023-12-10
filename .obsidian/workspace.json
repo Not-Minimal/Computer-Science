@@ -11,9 +11,12 @@
             "id": "5c59ad4a13e33afb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf"
+                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -83,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf",
+                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf",
+                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf"
+                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md"
               }
             }
           },
@@ -177,6 +181,11 @@
   },
   "active": "5c59ad4a13e33afb",
   "lastOpenFiles": [
+    "TopSecret/Algoritmos y Programación (Progra 2)/Ejercicios de Laboratorio/Ejercicios_Laboratorio_28_04_20.pdf",
+    "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.4 - Automata Finito No Determinístico.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.3 - Automata Finito.pdf",
+    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.1 - Teoria de Automatas.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/4 - Expresiones Regulares.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/3 - Lenguajes.pdf",
@@ -184,10 +193,6 @@
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/7.2 - Compiladores.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/7.1 - Gramática BNF.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.1 - Automata de Pila.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6 - ER y Gramaticas.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/5.6- Equivalencia y Minimizacion AFDs.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Practicas/7 - Practica 7.pdf",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
@@ -220,7 +225,6 @@
     "Captura de pantalla 2023-10-19 a la(s) 20.47.48.png",
     "Captura de pantalla 2023-10-28 a la(s) 22.51.34.png",
     "iTerm.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Teorema Maestro.md",
     "Captura de pantalla 2023-10-19 a la(s) 20.47.27.png",
     "Captura de pantalla 2023-10-19 a la(s) 20.18.27.png",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
