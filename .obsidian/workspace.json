@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e01cdfa47b451ac2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
+                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
+                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md"
+                "file": "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf"
               }
             }
           },
@@ -179,10 +190,10 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "5c59ad4a13e33afb",
+  "active": "e01cdfa47b451ac2",
   "lastOpenFiles": [
-    "TopSecret/Algoritmos y Programación (Progra 2)/Ejercicios de Laboratorio/Ejercicios_Laboratorio_28_04_20.pdf",
     "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
+    "TopSecret/Algoritmos y Programación (Progra 2)/Ejercicios de Laboratorio/Ejercicios_Laboratorio_28_04_20.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.4 - Automata Finito No Determinístico.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.3 - Automata Finito.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/5.2 - Automatas Finitos.pdf",
@@ -192,7 +203,6 @@
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Catedras/1 - Introduccion Analisis de Algoritmos y Teoria de Automatas.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/7.2 - Compiladores.pdf",
     "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/7.1 - Gramática BNF.pdf",
-    "TopSecret/Análisis de Algoritmos y Teoría de Autómatas/Gramaticas y Automatas de Pila/6.2 - Gramáticas libres del contexto.pdf",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
