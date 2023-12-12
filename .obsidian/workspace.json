@@ -39,9 +39,19 @@
                 "file": "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf"
               }
             }
+          },
+          {
+            "id": "51b6669f3764c304",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf",
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf",
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf"
+                "file": "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf"
               }
             }
           },
@@ -201,20 +210,21 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "f13be03cab38f91c",
+  "active": "51b6669f3764c304",
   "lastOpenFiles": [
-    "Sin título.md",
-    "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf",
-    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
-    "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
-    "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Ejercicios 2.pdf",
-    "TopSecret/Arquitectura de Computadores/Certamen 2/Certamen 2.pdf",
-    "TopSecret/Arquitectura de Computadores/TareaDeProgramacion[PabloMontoya]/Informe Tarea de Programación.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_6_MicroArquitectura_IECI.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_5_Lenguaje_Ensamblador.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_4_Bloques_Digitales_Avanzados_IECI.pdf",
+    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
+    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_1_Historia.pdf",
+    "TopSecret/Arquitectura de Computadores/Lecturas/Repertorio Instrucciones MIPS.pdf",
+    "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
+    "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio Extra.pdf",
+    "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio 6.pdf",
+    "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio 5.pdf",
+    "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf",
+    "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales.pdf",
+    "Sin título.md",
+    "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
@@ -246,7 +256,6 @@
     "Captura de pantalla 2023-10-20 a la(s) 21.58.05.png",
     "Captura de pantalla 2023-10-19 a la(s) 20.47.48.png",
     "Captura de pantalla 2023-10-28 a la(s) 22.51.34.png",
-    "iTerm.md",
     "Captura de pantalla 2023-10-19 a la(s) 20.47.27.png",
     "Captura de pantalla 2023-10-19 a la(s) 20.18.27.png",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
