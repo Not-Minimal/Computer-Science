@@ -253,12 +253,12 @@
 ##### 12/12
 
 - Mostrar datos de firestores en App(Pendiente)
-- Realizar pruebas exhaustivas en diferentes plataformas (Android, IOS, MacOS, Windows).
+- Realizar pruebas exhaustivas en diferentes plataformas (Android(Pendiente), IOS(pendiente), MacOS, Windows).
 
 ##### 13/12
 
-- Mostrar datos de firestores en App(Pendiente)
-- Realizar pruebas exhaustivas en diferentes plataformas (Android, IOS, MacOS, Windows).
+- Mostrar datos de firestores en App(Funciona, gracias a cambio de reglas de la base de datos de Cloud Firestore)
+- Realizar pruebas exhaustivas en diferentes plataformas Android
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
