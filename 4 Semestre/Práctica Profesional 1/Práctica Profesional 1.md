@@ -233,6 +233,27 @@
 - Agregar plataformas: Android, IOS, MacOS, Windows
 - Agregar las dependencias como firebase_core, firebase_core_platform_interface, etc.
 
+##### 7/12
+
+- Crear la pantalla de inicio de sesión y registro.(Pendiente)
+- Configurar las reglas de seguridad en Firebase.
+
+##### 8/12
+
+- Desarrollar la lógica para gestionar usuarios autenticados y no autenticados.(Pendiente)
+- Personalizar la interfaz de usuario de la pantalla de inicio.
+- Implementar la funcionalidad de cerrar sesión.(Pendiente)
+
+##### 11/12
+
+- Crear una pantalla principal después del inicio de sesión con información relevante de las ordenes de Trabajo.
+- Obtener y mostrar datos desde Firebase Firestore en la aplicación.
+- Implementar la capacidad de agregar datos en Firestore.
+
+##### 12/12
+
+- Mostrar datos de firestores en App(Pendiente)
+- Realizar pruebas exhaustivas en diferentes plataformas (Android, IOS, MacOS, Windows).
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
