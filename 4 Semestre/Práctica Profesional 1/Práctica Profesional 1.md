@@ -255,6 +255,12 @@
 - Mostrar datos de firestores en App(Pendiente)
 - Realizar pruebas exhaustivas en diferentes plataformas (Android, IOS, MacOS, Windows).
 
+##### 13/12
+
+- Mostrar datos de firestores en App(Pendiente)
+- Realizar pruebas exhaustivas en diferentes plataformas (Android, IOS, MacOS, Windows).
+
+
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
