@@ -257,7 +257,7 @@
 
 ##### 13/12
 
-- Mostrar datos de firestores en App(Funciona, gracias a cambio de reglas de la base de datos de Cloud Firestore)
+- Mostrar datos de firestore en App(Funciona, gracias a cambio de reglas de la base de datos de Cloud Firestore)
 - Realizar pruebas exhaustivas en diferentes plataformas Android
 
 
