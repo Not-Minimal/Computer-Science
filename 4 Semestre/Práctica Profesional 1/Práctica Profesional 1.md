@@ -257,8 +257,32 @@
 
 ##### 13/12
 
-- Mostrar datos de firestore en App(Funciona, gracias a cambio de reglas de la base de datos de Cloud Firestore)
-- Realizar pruebas exhaustivas en diferentes plataformas Android
+- Mostrar datos de firestore en App(Funciona, gracias a cambio de reglas de la base de datos de Cloud Firestore) de: 
+```  
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
+```
+a:
+```  
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write: if
+      	request.time < timestamp.date(2023,12,30)
+    }
+  }
+}
+```
+- Realizar pruebas exhaustivas en plataformas Android y Web.
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
