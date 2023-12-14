@@ -282,6 +282,7 @@ service cloud.firestore {
   }
 }
 ```
+
 - Realizar pruebas exhaustivas en plataformas Android y Web.
 
 
