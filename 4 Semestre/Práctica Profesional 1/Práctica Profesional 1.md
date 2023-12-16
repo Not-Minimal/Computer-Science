@@ -289,6 +289,9 @@ service cloud.firestore {
 - Se actualizó el DrawerHeader con un nuevo diseño y un texto personalizado.
 - Se agregaron nuevos elementos ListTile para representar distintas secciones en el menú del Drawer(Dashboard, Ordenes de Trabajo, Informes Tecnicos, Ordenes de Repuesto, Clientes, Vehiculos).
 - Cada ListTile tiene un texto, un ícono representativo y una función de callback (en este caso, onTap: () {}), esta permitirá navegar entre las distintas pestañas de la App.
+- - Se realizaron cambios significativos en las páginas `edit_data.dart` y `home.dart`, incluyendo modificaciones en la lógica de navegación y actualización de datos.
+- En `firebase_service.dart`, se mejoró la manipulación de datos al agregar un objeto `person` al lugar de `doc.data()`.
+- Se optimizó la estructura del código eliminando parámetros innecesarios y mejorando la legibilidad.
 
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
