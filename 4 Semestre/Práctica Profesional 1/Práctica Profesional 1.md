@@ -292,7 +292,12 @@ service cloud.firestore {
 - - Se realizaron cambios significativos en las páginas `edit_data.dart` y `home.dart`, incluyendo modificaciones en la lógica de navegación y actualización de datos.
 - En `firebase_service.dart`, se mejoró la manipulación de datos al agregar un objeto `person` al lugar de `doc.data()`.
 - Se optimizó la estructura del código eliminando parámetros innecesarios y mejorando la legibilidad.
-
+#### 15/12
+- Actualizaciones en la apariencia del Drawer con cambios de color.
+- Adición de una función para eliminar atributos de documentos.
+- Incorporación de una página principal llamada "Dashboard" con funcionalidad de navegación entre pestañas.
+- Se finalizo el CRUD para el documento de solo un atributo: Name.
+- Falta implementarlo para todos los datos lentamente.
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
