@@ -299,6 +299,12 @@ service cloud.firestore {
 - Se finalizo el CRUD para el documento de solo un atributo: Name.
 - Falta implementarlo para todos los datos lentamente.
 
+#### 18/12
+- Implementación de Firebase Auth con soporte para autenticación mediante correo electrónico.
+- Agregada validación de contraseña débil y de correo en uso durante el registro.
+- Mejoras no especificadas en el commit `d4ce2f29`.
+- Optimización del inicio de sesión con `FirebaseAuthService` y mejoras en la experiencia de usuario al registrarse o iniciar sesión.
+
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
