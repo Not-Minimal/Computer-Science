@@ -305,6 +305,12 @@ service cloud.firestore {
 - Mejoras no especificadas en el commit `d4ce2f29`.
 - Optimización del inicio de sesión con `FirebaseAuthService` y mejoras en la experiencia de usuario al registrarse o iniciar sesión.
 
+#### 19/12
+- Se ha incorporado Firebase Authentication para gestionar la autenticación y obtener el UID del usuario actual.
+- La función `getPeople` ahora filtra las personas por el UID del usuario autenticado, permitiendo que cada usuario vea solo sus propias personas.
+- Los métodos `addPerson`, `updatePerson` y `deletePerson` han sido ajustados para operar en la colección 'userPeople' del usuario actual, garantizando la privacidad de los datos.
+- Se han agregado comentarios para mejorar la comprensión del código.
+
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
