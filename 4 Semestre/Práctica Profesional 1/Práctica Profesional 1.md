@@ -311,6 +311,13 @@ service cloud.firestore {
 - Los métodos `addPerson`, `updatePerson` y `deletePerson` han sido ajustados para operar en la colección 'userPeople' del usuario actual, garantizando la privacidad de los datos.
 - Se han agregado comentarios para mejorar la comprensión del código.
 
+##### 20/12
+- Se actualizó la función de agregar datos en la aplicación.
+- Ahora admite fecha y número de orden como parámetros.
+- La página de edición (`edit_page`) también fue mejorada para permitir la edición de fechas.
+- Se introdujo una nueva función para el número de orden.
+- Se implementó una función de autoincremento en la colección "Counters" para controlar el índice de las órdenes.
+
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
