@@ -318,6 +318,30 @@ service cloud.firestore {
 - Se introdujo una nueva función para el número de orden.
 - Se implementó una función de autoincremento en la colección "Counters" para controlar el índice de las órdenes.
 
+##### 21/12
+Se realizaron modificaciones significativas en la página de Dashboard (`DashboardPage`) para mejorar la experiencia del usuario y proporcionar información más útil. A continuación, se detallan los cambios implementados:
+
+1. **Limitación de la lista "Últimas órdenes":**
+    
+    - Se implementó una limitación en la cantidad de elementos mostrados en la lista "Últimas órdenes" a 10 elementos.
+    - Para lograr esto, se utilizó la función `take(10)` para tomar los primeros 10 elementos de la lista de datos obtenida de la función `getPeople()`.
+    
+    dartCopy code
+    
+    `// Fragmento de código relevante if (snapshot.hasData) {   // Limita la lista a 10 elementos   final limitedData = (snapshot.data as List<dynamic>).take(10).toList();   // Resto del código... }`
+    
+2. **Mini vista de las últimas órdenes:**
+    
+    - Se agregó una mini vista en la parte superior de la pantalla de DashboardPage.
+    - Esta mini vista proporciona información resumida de las órdenes más recientes, permitiendo una rápida visión general de las actividades recientes.
+    
+    dartCopy code
+    
+    `// Fragmento de código relevante Row(   children: [     // ... (código existente)   ], ), Expanded(   child: Container(     // ... (código de la mini vista de órdenes)   ), ), // ... (código existente)`
+    
+
+Estos cambios contribuyen a una interfaz de usuario más efectiva y eficiente, facilitando a los usuarios acceder rápidamente a información relevante sobre las órdenes más recientes. La implementación se realizó de manera organizada y mantenible para asegurar un rendimiento óptimo y una experiencia de usuario mejorada.
+
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
