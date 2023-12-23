@@ -342,6 +342,17 @@ Se realizaron modificaciones significativas en la página de Dashboard (`Dashboa
 
 Estos cambios contribuyen a una interfaz de usuario más efectiva y eficiente, facilitando a los usuarios acceder rápidamente a información relevante sobre las órdenes más recientes. La implementación se realizó de manera organizada y mantenible para asegurar un rendimiento óptimo y una experiencia de usuario mejorada.
 
+##### 22/12
+- Agregado Botón de Crear orden en la parte superior de la página Dashboard, mejorando la visibilidad de los ListViewBuilder para mostrar órdenes de trabajo.
+- Añadida página de clientes y actualización de la interfaz de la página de inicio de sesión.
+- Característica agregada: BasePage con barra de navegación y menú lateral.
+- Se añadió un botón de acción flotante a la BasePage.
+- Mejora: Refactorización de la filtración y visualización de clientes.
+##### 25/12
+- Refactorización de la lógica de filtrado por tipo de cliente y actualización de la interfaz de usuario.
+- Actualización de rutas e imagen de fondo en la página de inicio de sesión.
+- Se añadió un botón de retroceso a la página de clientes.
+
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
