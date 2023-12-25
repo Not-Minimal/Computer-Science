@@ -353,6 +353,14 @@ Estos cambios contribuyen a una interfaz de usuario más efectiva y eficiente, f
 - Actualización de rutas e imagen de fondo en la página de inicio de sesión.
 - Se añadió un botón de retroceso a la página de clientes.
 
+##### 26/12
+- Eliminación de importaciones no utilizadas y descomentario de la llamada a setState para modificar el error: índice fuera de rango, desbordamiento.
+- Refactorización del selector de fecha y eliminación de código comentado.
+- Añadidos textformfields al formulario de la colección de órdenes de trabajo con sus controladores.
+- Actualización de todos los formularios; ahora en el diseño se tienen más datos como vehículos, clientes, repuestos y productos desde los datos de la orden.
+- Añadidos campos de formulario para los detalles de la factura.
+
+
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
