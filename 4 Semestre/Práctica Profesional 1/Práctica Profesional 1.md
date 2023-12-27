@@ -6,7 +6,7 @@
 2. Desarrollar una aplicación móvil con Flutter y Firebase que permita a los usuarios generar órdenes de trabajo y cotizaciones desde dispositivos móviles.
 3. Configurar informes de producción en Google Data Studio y habilitar la visualización de estos informes en la aplicación móvil.
 4. Crear macros utilizando JavaScript en Google Sheets para automatizar el control de inventario.
-5. Diseñar y documentar un nuevo sistema de trabajo en gestión de órdenes de trabajo, cotizaciones y automatización.
+5. Diseñar y documentar un nuevo sistema de trabajo en gestión de órdenes de trabajo, cotizaciones y automatización.  aja
 6. Generar material gráfico y documentación de servicios para promocionar y describir los servicios de la empresa.
 7. Desplegar la página web utilizando GitHub Deploy Sites y/o Netlify para que esté disponible en línea.
 
