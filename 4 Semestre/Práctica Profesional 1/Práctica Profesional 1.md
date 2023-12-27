@@ -6,7 +6,7 @@
 2. Desarrollar una aplicación móvil con Flutter y Firebase que permita a los usuarios generar órdenes de trabajo y cotizaciones desde dispositivos móviles.
 3. Configurar informes de producción en Google Data Studio y habilitar la visualización de estos informes en la aplicación móvil.
 4. Crear macros utilizando JavaScript en Google Sheets para automatizar el control de inventario.
-5. Diseñar y documentar un nuevo sistema de trabajo en gestión de órdenes de trabajo, cotizaciones y automatización.  aja
+5. Diseñar y documentar un nuevo sistema de trabajo en gestión de órdenes de trabajo, cotizaciones y automatización.
 6. Generar material gráfico y documentación de servicios para promocionar y describir los servicios de la empresa.
 7. Desplegar la página web utilizando GitHub Deploy Sites y/o Netlify para que esté disponible en línea.
 
@@ -359,7 +359,14 @@ Estos cambios contribuyen a una interfaz de usuario más efectiva y eficiente, f
 - Añadidos textformfields al formulario de la colección de órdenes de trabajo con sus controladores.
 - Actualización de todos los formularios; ahora en el diseño se tienen más datos como vehículos, clientes, repuestos y productos desde los datos de la orden.
 - Añadidos campos de formulario para los detalles de la factura.
-
+##### 27/12
+- Agregado el paquete Google Fonts y actualización del tema.
+- Actualización del estilo del título del panel de control.
+- Refactorización de BasePage y adición de tema oscuro.
+- Refactorización del diseño del panel de control.
+- Actualización del esquema de colores en themes.dart, modificación con BasePage en add_data.dart para tener una Base permanente. Y mejora del TextFormField.
+- Modificación de espaciado en el relleno, nuevos SizedBox para espaciado en la aplicación, hermosos TextFormField con etiqueta y labelText.
+- Refactorización de código para mejorar el rendimiento y la legibilidad.
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
