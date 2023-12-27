@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "057485947091ab9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +164,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -179,7 +192,7 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "9c52a423c4bdaefa",
+  "active": "057485947091ab9a",
   "lastOpenFiles": [
     "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
     "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf",
