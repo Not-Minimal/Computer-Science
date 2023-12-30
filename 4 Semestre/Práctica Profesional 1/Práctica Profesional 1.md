@@ -372,6 +372,7 @@ Estos cambios contribuyen a una interfaz de usuario más efectiva y eficiente, f
 - Actualización del esquema de colores y diseño del panel de control.
 - Refactorización del código para un mejor rendimiento y legibilidad.
 - Nuevo lanzamiento publicado por Not-Minimal: **Versión Estable.**
+- 
 
 
 
