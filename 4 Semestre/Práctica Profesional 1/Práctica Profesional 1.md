@@ -10,12 +10,6 @@
 6. Generar material gráfico y documentación de servicios para promocionar y describir los servicios de la empresa.
 7. Desplegar la página web utilizando GitHub Deploy Sites y/o Netlify para que esté disponible en línea.
 
-**Cronograma Tentativo:**
-
-**Semana 1-2 (9 de octubre - 22 de octubre): Desarrollo de la Página Web con Astro.build.**
-
-- Semana 1: Reunión inicial de planificación y diseño de la estructura de la página web (9 de octubre).
-- Semana 2: Desarrollo de la interfaz de usuario y la funcionalidad principal de la página web (del 10 de octubre al 22 de octubre).
 #### Notas Semana 1
 ##### 09/10
 - Instalación de Node Js
@@ -367,6 +361,19 @@ Estos cambios contribuyen a una interfaz de usuario más efectiva y eficiente, f
 - Actualización del esquema de colores en themes.dart, modificación con BasePage en add_data.dart para tener una Base permanente. Y mejora del TextFormField.
 - Modificación de espaciado en el relleno, nuevos SizedBox para espaciado en la aplicación, hermosos TextFormField con etiqueta y labelText.
 - Refactorización de código para mejorar el rendimiento y la legibilidad.
+##### 28/12
+- Finalización del CRUD para la aplicación móvil.
+- Mejora del diseño del panel de control.
+- Optimización del inicio de sesión y registro con Firebase Authentication.
+- Adición de página y funcionalidad de detalles de la orden.
+
+##### 29/12
+- Mejora de la experiencia de usuario en la aplicación móvil.
+- Actualización del esquema de colores y diseño del panel de control.
+- Refactorización del código para un mejor rendimiento y legibilidad.
+- Nuevo lanzamiento publicado por Not-Minimal: **Versión Estable.**
+
+
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
@@ -374,28 +381,6 @@ Estos cambios contribuyen a una interfaz de usuario más efectiva y eficiente, f
 - Semana 12: Continuación del desarrollo y configuración de Firebase para la aplicación(del 30 de octubre al 5 de noviembre).
 
 **Semana 5-6 (6 de noviembre - 19 de noviembre): Despliegue de la página web con GitHub Deploy Sites y/o Netlify.**
-
-- Preparación final y despliegue de la página web en la plataforma elegida (del 6 de noviembre al 19 de noviembre).
-
-**Semana 7-8 (20 de noviembre - 3 de diciembre): Diseño y documentación del nuevo sistema de trabajo.**
-
-- Semana 7: Diseño detallado del nuevo sistema de gestión de órdenes de trabajo y cotizaciones (del 20 de noviembre al 26 de noviembre).
-- Semana 8: Documentación de procesos, flujos de trabajo y políticas del nuevo sistema (del 27 de noviembre al 3 de diciembre).
-
-**Semana 9-10 (4 de diciembre - 17 de diciembre): Desarrollo de macros en Google Sheets para el control de inventario.**
-
-- Semana 9: Creación de macros para automatizar tareas de control de inventario (del 4 de diciembre al 10 de diciembre).
-- Semana 10: Pruebas y refinamiento de los macros en Google Sheets (del 11 de diciembre al 17 de diciembre).
-
-**Semana 11-12 (18 de diciembre - 28 de diciembre): Creación de la aplicación móvil con Flutter y Firebase.**
-
-- Semana 11: Inicio del desarrollo de la aplicación móvil (del 18 de diciembre al 24 de diciembre).
-- Semana 12: Continuación del desarrollo y configuración de Firebase para la aplicación (del 25 de diciembre al 28 de diciembre).
-
-**Semana 13 (23 de octubre - 5 de noviembre): Generación de material gráfico y documentación de servicios.**
-
-- Semana 3: Diseño de material gráfico, como folletos y gráficos promocionales (del 18 de diciembre al 24 de diciembre).
-- Semana 4: Elaboración de documentos que describan los servicios de la empresa(del 25 de diciembre al 28 de diciembre).
 
 **Recursos Necesarios:**
 
