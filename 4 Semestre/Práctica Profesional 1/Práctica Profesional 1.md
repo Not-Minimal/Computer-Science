@@ -388,26 +388,21 @@ Los precios del resumen se actualizan en tiempo real:
 ![[Captura de pantalla 2023-12-30 a la(s) 7.25.23 p. m..png]]
 Al presionar guardar, se cargan los datos en la base de datos de firebase: estos puedes ser modificados, incluso eliminados.
 ![[Captura de pantalla 2023-12-30 a la(s) 7.26.23 p. m..png]]
+Se carga rapidamente en la pagina Dashboard nuestra nueva orden.
+![[Captura de pantalla 2023-12-30 a la(s) 7.31.44 p. m..png]]
 Navigation Drawer: 
 ![[Captura de pantalla 2023-12-30 a la(s) 7.26.51 p. m..png]]
 Ordenes de Trabajo
 ![[Captura de pantalla 2023-12-30 a la(s) 7.27.18 p. m..png]]
-Se desliza 
+Se desliza a la izquierda para eliminar.
 ![[Captura de pantalla 2023-12-30 a la(s) 7.28.06 p. m..png]]
-**Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
-
-- Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
-- Semana 12: Continuación del desarrollo y configuración de Firebase para la aplicación(del 30 de octubre al 5 de noviembre).
-
-**Semana 5-6 (6 de noviembre - 19 de noviembre): Despliegue de la página web con GitHub Deploy Sites y/o Netlify.**
-
-**Recursos Necesarios:**
-
-- Equipo de desarrollo web y móvil.
-- Diseñador gráfico (si es necesario).
-- Personal de gestión de proyectos.
-- Acceso a herramientas como Astro.build, Flutter, Firebase, Google Data Studio, Figma y GitHub/Netlify.
-- Acceso a Google Sheets para la automatización de inventario.
+Al confirmar, se borran en la base de datos:
+![[Captura de pantalla 2023-12-30 a la(s) 7.29.08 p. m..png]]
+Nuestra base de datos, posee un sistema de autenticación actual de correo y contraseña. Permite muchos usuarios.
+![[Captura de pantalla 2023-12-30 a la(s) 7.30.35 p. m..png]]
+Una pagina de clientes que se puede filtrar con Chips.
+![[Captura de pantalla 2023-12-30 a la(s) 7.30.50 p. m..png]]
+![[Captura de pantalla 2023-12-30 a la(s) 7.31.01 p. m..png]]
 
 **Presupuesto:**
 
