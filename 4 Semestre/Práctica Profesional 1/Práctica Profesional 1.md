@@ -383,9 +383,9 @@ Crear Orden de Trabajo:
 
 ![[Captura de pantalla 2023-12-30 a la(s) 7.04.45 p. m..png]]
 ![[Captura de pantalla 2023-12-30 a la(s) 7.05.31 p. m..png]]
-![[Captura de pantalla 2023-12-30 a la(s) 7.06.18 p. m..png]]
+![[Captura de pantalla 2023-12-30 a la(s) 7.18.38 p. m..png]]
 Los precios del resumen se actualizan en tiempo real:
-![[Captura de pantalla 2023-12-30 a la(s) 7.06.48 p. m..png]]
+![[Captura de pantalla 2023-12-30 a la(s) 7.19.16 p. m..png]]
 
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
