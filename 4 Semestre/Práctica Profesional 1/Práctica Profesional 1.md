@@ -372,7 +372,15 @@ Estos cambios contribuyen a una interfaz de usuario más efectiva y eficiente, f
 - Actualización del esquema de colores y diseño del panel de control.
 - Refactorización del código para un mejor rendimiento y legibilidad.
 - Nuevo lanzamiento publicado por Not-Minimal: **Versión Estable.**
-- 
+Imagenes de la Aplicación:
+Pagina de Login
+![[Captura de pantalla 2023-12-30 a la(s) 6.59.38 p. m..png]]
+Pagina de Registro:
+![[Captura de pantalla 2023-12-30 a la(s) 7.00.49 p. m..png]]
+Dashboard: Error al cargar datos ya que el usuario es nuevo y no existen ordenes aun.
+![[Captura de pantalla 2023-12-30 a la(s) 7.02.08 p. m..png]]
+Crear Orden de Trabajo:
+
 
 
 
