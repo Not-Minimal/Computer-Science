@@ -385,8 +385,15 @@ Crear Orden de Trabajo:
 ![[Captura de pantalla 2023-12-30 a la(s) 7.05.31 p. m..png]]
 ![[Captura de pantalla 2023-12-30 a la(s) 7.18.38 p. m..png]]
 Los precios del resumen se actualizan en tiempo real:
-![[Captura de pantalla 2023-12-30 a la(s) 7.19.16 p. m..png]]
-
+![[Captura de pantalla 2023-12-30 a la(s) 7.25.23 p. m..png]]
+Al presionar guardar, se cargan los datos en la base de datos de firebase: estos puedes ser modificados, incluso eliminados.
+![[Captura de pantalla 2023-12-30 a la(s) 7.26.23 p. m..png]]
+Navigation Drawer: 
+![[Captura de pantalla 2023-12-30 a la(s) 7.26.51 p. m..png]]
+Ordenes de Trabajo
+![[Captura de pantalla 2023-12-30 a la(s) 7.27.18 p. m..png]]
+Se desliza 
+![[Captura de pantalla 2023-12-30 a la(s) 7.28.06 p. m..png]]
 **Semana 3-4 (23 de octubre - 5 de noviembre): Creación de la aplicación móvil con Flutter y Firebase.**
 
 - Semana 11: Inicio del desarrollo de la aplicación móvil(del 23 de octubre al 29 de octubre). 
