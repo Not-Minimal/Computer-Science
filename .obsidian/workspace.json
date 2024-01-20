@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "Learn Java/Learn Java.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "057485947091ab9a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
               }
             }
           }
@@ -80,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "Learn Java/Learn Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+                "file": "Learn Java/Learn Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md"
+                "file": "Learn Java/Learn Java.md"
               }
             }
           },
@@ -193,6 +182,8 @@
   },
   "active": "9c52a423c4bdaefa",
   "lastOpenFiles": [
+    "iTerm.md",
+    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "Captura de pantalla 2023-12-30 a la(s) 7.31.44 p. m..png",
     "Captura de pantalla 2023-12-30 a la(s) 7.31.01 p. m..png",
     "Captura de pantalla 2023-12-30 a la(s) 7.30.50 p. m..png",
@@ -203,7 +194,6 @@
     "Captura de pantalla 2023-12-30 a la(s) 7.26.51 p. m..png",
     "Captura de pantalla 2023-12-30 a la(s) 7.26.23 p. m..png",
     "Captura de pantalla 2023-12-30 a la(s) 7.25.23 p. m..png",
-    "Captura de pantalla 2023-12-30 a la(s) 7.19.16 p. m..png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
     "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
@@ -216,7 +206,6 @@
     "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio Extra.pdf",
     "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio 6.pdf",
     "Sin título.md",
-    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquinas de Turing y Modelos.md",
