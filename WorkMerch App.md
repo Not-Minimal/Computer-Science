@@ -68,40 +68,37 @@ deactivate Client
 
 ### Explicación
 
-1. El usuario (`**Client**` ) envía una solicitud de inicio de sesión (`**Sign-in request**` ) al servicio de autenticación de Firebase (`**FirebaseAuthService**` ).
-    
-2. El servicio de autenticación (`**FirebaseAuthService**` ) autentica al usuario en Firebase (`**FirebaseAuth**` ).
-    
-3. Si el inicio de sesión es exitoso, se obtiene un objeto de usuario y se envía de vuelta al usuario. Si falla, se devuelve una respuesta nula.
-    
+1. El usuario (`**Client**`) envía una solicitud de inicio de sesión (`**Sign-in request**` ) al servicio de autenticación de Firebase (`**FirebaseAuthService**`).
+2. El servicio de autenticación (`**FirebaseAuthService**`) autentica al usuario en Firebase (`**FirebaseAuth**`)
+3. Si el inicio de sesión es exitoso, se obtiene un objeto de usuario y se envía de vuelta al usuario. Si falla, se devuelve una respuesta nula. 
 
 ![diagram-export-27-1-2024-18_08_33.png](https://eraser.imgix.net/workspaces/WEJGXVuNz0EDQJfepg3a/foQFEQh3MteGbtpABAp87TbUrVk2/rbPvP8O1Jubm8hEJkFght.png?ixlib=js-3.7.0 "diagram-export-27-1-2024-18_08_33.png")
 
+> Este documento describe la arquitectura en la nube utilizando Firebase para gestionar servicios de autenticación y almacenamiento de datos en Cloud Firestore.
 
-Este documento describe la arquitectura en la nube utilizando Firebase para gestionar servicios de autenticación y almacenamiento de datos en Cloud Firestore.
-
-## Firebase Services
+### Firebase Services
 
 ![Firebase](https://eraser.imgix.net/workspaces/3JR4douZSALxNZBah7YU/foQFEQh3MteGbtpABAp87TbUrVk2/p7Ywqg9okm7v-JZQhnckV.png?ixlib=js-3.7.0)
 - **Authentication:** Servicio de Firebase para la autenticación de usuarios.
 - **Firestore Database:** Base de datos en tiempo real y en la nube proporcionada por Firebase.
-## Cloud Firestore
+### Cloud Firestore
 
 ![Cloud Firestore](https://eraser.imgix.net/workspaces/3JR4douZSALxNZBah7YU/foQFEQh3MteGbtpABAp87TbUrVk2/PY4oPQxCKwRAW0YAu_nct.png?ixlib=js-3.7.0)
 - **Clients:** Colección en Cloud Firestore para almacenar datos de clientes.
 - **Vehicles:** Colección en Cloud Firestore para almacenar datos de vehículos.
 - **Work Orders:** Colección en Cloud Firestore para almacenar datos de órdenes de trabajo.
 - **Order Summary:** Colección en Cloud Firestore para almacenar resúmenes de órdenes.
-## Conexiones
+### Conexiones
 
 - **Authentication > Firestore Database:** Integración entre el servicio de autenticación de Firebase y la base de datos Firestore.
 - **Firestore Database > Cloud Firestore:** Conexión entre el servicio Firestore Database de Firebase y Cloud Firestore para almacenar y recuperar datos.
 
 ![[diagram-export-27-1-2024-18_41_15.png]]
+
+
+> Resumen de la arquitectura en la nube utilizando Firebase.
+
 ---
-
-Este es un resumen de la arquitectura en la nube utilizando Firebase. Asegúrate de personalizar la documentación según las características específicas de tu aplicación y las necesidades de tu proyecto.
-
 ## Diagrama de Entidad Relación Firebase Service 
 Este diagrama de entidad-relación (ERD) representa la estructura de datos para el servicio Firebase.
 ### Explicación
@@ -125,4 +122,4 @@ Este diagrama de entidad-relación (ERD) representa la estructura de datos para 
 
 ![[diagram-export-27-1-2024-18_49_12.png]]
 
-Este es un resumen de tu modelo de entidad-relación para el servicio Firebase. Asegúrate de ajustar y personalizar la documentación según las características específicas de tu aplicación y las necesidades de tu proyecto.
+> Resumen de modelo entidad-relación para el servicio Firebase.
