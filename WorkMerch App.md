@@ -108,3 +108,28 @@ Este documento describe la arquitectura en la nube utilizando Firebase para gest
 ---
 
 Este es un resumen de la arquitectura en la nube utilizando Firebase. Asegúrate de personalizar la documentación según las características específicas de tu aplicación y las necesidades de tu proyecto.
+
+## Diagrama de Entidad Relación Firebase Service 
+Este diagrama de entidad-relación (ERD) representa la estructura de datos para el servicio Firebase.
+### Explicación
+
+- **people:** Representa la colección de usuarios.
+- **counters:** Almacena los contadores asociados a los usuarios para el número de órdenes.
+- **clients:** Almacena datos de clientes.
+- **vehicles:** Almacena datos de vehículos.
+- **workOrders:** Contiene información sobre las órdenes de trabajo, incluyendo servicios y repuestos.
+- **orderSumary:** Almacena resúmenes de las órdenes.
+
+### Relaciones
+
+- **people.counters.orderNumber > counters.id:** Relación entre el contador y el número de órdenes asociado a los usuarios.
+- **people.clients <> clients.uid:** Relación entre la colección de usuarios y los clientes.
+- **people.vehicles <> vehicles.uid:** Relación entre la colección de usuarios y los vehículos.
+- **people.workOrders <> workOrders.uid:** Relación entre la colección de usuarios y las órdenes de trabajo.
+- **workOrders.clientId > clients.uid:** Relación entre las órdenes de trabajo y los clientes.
+- **workOrders.vehicleId > vehicles.uid:** Relación entre las órdenes de trabajo y los vehículos.
+- **people.orderSumary <> orderSumary.id:** Relación entre la colección de usuarios y los resúmenes de órdenes.
+
+---
+
+Este es un resumen de tu modelo de entidad-relación para el servicio Firebase. Asegúrate de ajustar y personalizar la documentación según las características específicas de tu aplicación y las necesidades de tu proyecto.
