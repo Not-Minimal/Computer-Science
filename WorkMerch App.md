@@ -1,8 +1,7 @@
 ## Diagrama de Flujo Plataformas
 Este diagrama de flujo describe el proceso de configuración de opciones en Firebase según la plataforma de destino.
 
-
-``` mermaid
+``` sequence
 graph TD
   Start[shape: oval, icon: flag] -->|Inicio| CheckIfWeb[shape: diamond, icon: globe]
   CheckIfWeb -->|Sí| UseWebConfig[icon: gcp-app-engine]
@@ -30,12 +29,13 @@ graph TD
     - Windows: Configuración específica para Windows.
 - **EndWebConfig, EndAndroidConfig, EndiOSConfig, EndMacOSConfig, EndWindowsConfig:** Fin del proceso de configuración para cada plataforma específica.
 ![[diagram-export-27-1-2024-18_39_51.png]]
+---
 ## Diagrama Secuencias Firebase Authentication
 Este diagrama de secuencia describe el flujo de autenticación en Firebase para las operaciones de registro e inicio de sesión.
 
 ### Registro de Usuario
 
-sequence
+``` sequence
 Client [icon: user] > FirebaseAuthService: Register request
 activate Client
 FirebaseAuthService [icon: firebase] > FirebaseAuth [icon: firebase]: Create user
@@ -46,16 +46,13 @@ else [label: if registration fails]
   FirebaseAuthService --> Client: Null response
 end
 deactivate Client
+``` 
 
 ### Explicación
 
 1. El usuario (`**Client**` ) envía una solicitud de registro (`**Register request**` ) al servicio de autenticación de Firebase (`**FirebaseAuthService**` ).
-    
 2. El servicio de autenticación (`**FirebaseAuthService**` ) interactúa con Firebase (`**FirebaseAuth**` ) para crear un nuevo usuario.
-    
 3. Si el registro es exitoso, se obtiene un objeto de usuario y se envía de vuelta al usuario. Si falla, se devuelve una respuesta nula.
-    
-
 ### Inicio de Sesión
 
 sequenceCopy codeClient [icon: user] > FirebaseAuthService: Sign-in request
@@ -87,17 +84,13 @@ Este documento describe la arquitectura en la nube utilizando Firebase para gest
 
 ![Firebase](https://eraser.imgix.net/workspaces/3JR4douZSALxNZBah7YU/foQFEQh3MteGbtpABAp87TbUrVk2/p7Ywqg9okm7v-JZQhnckV.png?ixlib=js-3.7.0)
 - **Authentication:** Servicio de Firebase para la autenticación de usuarios.
-![Cloud Firestore](https://eraser.imgix.net/workspaces/3JR4douZSALxNZBah7YU/foQFEQh3MteGbtpABAp87TbUrVk2/S4RtZ7fuQDzjtHsCOEIZ5.png?ixlib=js-3.7.0)
 - **Firestore Database:** Base de datos en tiempo real y en la nube proporcionada por Firebase.
 ## Cloud Firestore
 
 ![Cloud Firestore](https://eraser.imgix.net/workspaces/3JR4douZSALxNZBah7YU/foQFEQh3MteGbtpABAp87TbUrVk2/PY4oPQxCKwRAW0YAu_nct.png?ixlib=js-3.7.0)
 - **Clients:** Colección en Cloud Firestore para almacenar datos de clientes.
-![Cloud Firestore](https://eraser.imgix.net/workspaces/3JR4douZSALxNZBah7YU/foQFEQh3MteGbtpABAp87TbUrVk2/Z8sfoEZszrzQBB8HPaJoG.png?ixlib=js-3.7.0)
 - **Vehicles:** Colección en Cloud Firestore para almacenar datos de vehículos.
-![Cloud Firestore](https://eraser.imgix.net/workspaces/3JR4douZSALxNZBah7YU/foQFEQh3MteGbtpABAp87TbUrVk2/pDXmP23qN2G8TxcfM4Joo.png?ixlib=js-3.7.0)
 - **Work Orders:** Colección en Cloud Firestore para almacenar datos de órdenes de trabajo.
-![Cloud Firestore](https://eraser.imgix.net/workspaces/3JR4douZSALxNZBah7YU/foQFEQh3MteGbtpABAp87TbUrVk2/PaZZAmaLX-5vXuIySD3WM.png?ixlib=js-3.7.0)
 - **Order Summary:** Colección en Cloud Firestore para almacenar resúmenes de órdenes.
 ## Conexiones
 
@@ -130,6 +123,6 @@ Este diagrama de entidad-relación (ERD) representa la estructura de datos para 
 - **workOrders.vehicleId > vehicles.uid:** Relación entre las órdenes de trabajo y los vehículos.
 - **people.orderSumary <> orderSumary.id:** Relación entre la colección de usuarios y los resúmenes de órdenes.
 
----
+![[diagram-export-27-1-2024-18_49_12.png]]
 
 Este es un resumen de tu modelo de entidad-relación para el servicio Firebase. Asegúrate de ajustar y personalizar la documentación según las características específicas de tu aplicación y las necesidades de tu proyecto.
