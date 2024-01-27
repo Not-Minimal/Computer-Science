@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Java/Learn Java.md",
+                "file": "Readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfe12327c393272e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkMerch App.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Java/Learn Java.md",
+                "file": "WorkMerch App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Java/Learn Java.md",
+                "file": "WorkMerch App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Java/Learn Java.md"
+                "file": "WorkMerch App.md"
               }
             }
           },
@@ -180,20 +194,24 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "9c52a423c4bdaefa",
+  "active": "dfe12327c393272e",
   "lastOpenFiles": [
+    "Readme.md",
+    "WorkMerch App.md",
+    "4 Semestre/Práctica Profesional 1/Images/Diagrama en blanco.png",
+    "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-10-19 a la(s) 20.17.58.png",
+    "4 Semestre/Práctica Profesional 1/Images",
+    "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.30.35 p. m..png",
+    "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.30.50 p. m..png",
+    "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.31.44 p. m..png",
+    "Learn Java/Learn Java.md",
     "iTerm.md",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
-    "Captura de pantalla 2023-12-30 a la(s) 7.31.44 p. m..png",
-    "Captura de pantalla 2023-12-30 a la(s) 7.31.01 p. m..png",
-    "Captura de pantalla 2023-12-30 a la(s) 7.30.50 p. m..png",
-    "Captura de pantalla 2023-12-30 a la(s) 7.30.35 p. m..png",
-    "Captura de pantalla 2023-12-30 a la(s) 7.29.08 p. m..png",
-    "Captura de pantalla 2023-12-30 a la(s) 7.28.06 p. m..png",
-    "Captura de pantalla 2023-12-30 a la(s) 7.27.18 p. m..png",
-    "Captura de pantalla 2023-12-30 a la(s) 7.26.51 p. m..png",
-    "Captura de pantalla 2023-12-30 a la(s) 7.26.23 p. m..png",
-    "Captura de pantalla 2023-12-30 a la(s) 7.25.23 p. m..png",
+    "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.31.01 p. m..png",
+    "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.29.08 p. m..png",
+    "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.28.06 p. m..png",
+    "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.27.18 p. m..png",
+    "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.26.51 p. m..png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
     "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
@@ -204,8 +222,6 @@
     "TopSecret/Arquitectura de Computadores/Lecturas/Repertorio Instrucciones MIPS.pdf",
     "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
     "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio Extra.pdf",
-    "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio 6.pdf",
-    "Sin título.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquinas de Turing y Modelos.md",
@@ -226,8 +242,6 @@
     "Learn Java/Introduction Notes/63. Throwing Exceptions.md",
     "Algorithms and Data Structures/Notas/Fixed-size array.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Ordenamientos/Ordenamiento - InsertionSort.md",
-    "4 Semestre/Ingles/Ingles.md",
-    "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Métodos de Resolución Recursiva/Métodos de Resolución Recursiva - Teorema Maestro (Simplificado).md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
