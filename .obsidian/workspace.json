@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dfe12327c393272e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WorkMerch App.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkMerch App.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkMerch App.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkMerch App.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -195,14 +181,14 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "dfe12327c393272e",
+  "active": "9c52a423c4bdaefa",
   "lastOpenFiles": [
+    "WorkMerch App.md",
     "diagram-export-27-1-2024-18_49_12.png",
     "diagram-export-27-1-2024-18_41_15.png",
     "diagram-export-27-1-2024-18_39_51.png",
     "diagram-export-27-1-2024-18_32_22.png",
     "Readme.md",
-    "WorkMerch App.md",
     "4 Semestre/Práctica Profesional 1/Images/Diagrama en blanco.png",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-10-19 a la(s) 20.17.58.png",
     "4 Semestre/Práctica Profesional 1/Images",
@@ -213,7 +199,6 @@
     "iTerm.md",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.31.01 p. m..png",
-    "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.29.08 p. m..png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
     "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf",
     "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
