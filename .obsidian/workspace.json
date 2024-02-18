@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5681d9cd6d781d78",
+        "id": "bc8dd77f763f02cf",
         "type": "tabs",
         "children": [
           {
-            "id": "9c52a423c4bdaefa",
+            "id": "d436a045a095329a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkMerch App.md",
+                "file": "iTerm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkMerch App.md",
+                "file": "iTerm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkMerch App.md",
+                "file": "iTerm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkMerch App.md"
+                "file": "iTerm.md"
               }
             }
           },
@@ -181,17 +180,27 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "9c52a423c4bdaefa",
+  "active": "d436a045a095329a",
   "lastOpenFiles": [
-    "Readme.md",
+    "TopSecret/Base de Datos/Trabajo Semestral/Entrega 2/Informe Entrega 2 Proyecto BD.pdf",
+    "TopSecret/Base de Datos/Trabajo Semestral/Entrega 2/Enunciado Entrega 2.pdf",
+    "TopSecret/Base de Datos/Trabajo Semestral/Entrega 1/Informe Entrega 1 Proyecto BD.pdf",
+    "TopSecret/Base de Datos/Trabajo Semestral/Entrega 1/Enunciado Entrega 1.pdf",
+    "TopSecret/Base de Datos/Evaluaciones/4.1 Control 4 (Manejo de Usuarios).pdf",
+    "TopSecret/Base de Datos/Evaluaciones/3.2 Respuestas Control 3.pdf",
+    "TopSecret/Base de Datos/Evaluaciones/2.2 Respuestas Control 2.pdf",
+    "TopSecret/Base de Datos/Evaluaciones/1.2 Respuetas Control 1.pdf",
+    "TopSecret/Base de Datos/Evaluaciones/1.1 Control 1 (AR-CR).pdf",
+    "TopSecret/Base de Datos/Clases/12.- Transacciones.pdf",
+    "TopSecret/Base de Datos/Clases/9.- Normalizacion.pdf",
     "WorkMerch App.md",
+    "Readme.md",
     "diagram-export-27-1-2024-18_49_12.png",
     "diagram-export-27-1-2024-18_41_15.png",
     "diagram-export-27-1-2024-18_39_51.png",
     "diagram-export-27-1-2024-18_32_22.png",
     "4 Semestre/Práctica Profesional 1/Images/Diagrama en blanco.png",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-10-19 a la(s) 20.17.58.png",
-    "4 Semestre/Práctica Profesional 1/Images",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.30.35 p. m..png",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.30.50 p. m..png",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.31.44 p. m..png",
@@ -200,15 +209,6 @@
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.31.01 p. m..png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
-    "TopSecret/Arquitectura de Computadores/Guia Ejercicios/Problemas de circuitos digitales 2.pdf",
-    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 2.pdf",
-    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Propuestas Certamen 1.pdf",
-    "TopSecret/Arquitectura de Computadores/Soluciones/Soluciones Examen.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_2_Fundamentos_IECI.pdf",
-    "TopSecret/Arquitectura de Computadores/Materia/Copia de Lecture_1_Historia.pdf",
-    "TopSecret/Arquitectura de Computadores/Lecturas/Repertorio Instrucciones MIPS.pdf",
-    "TopSecret/Arquitectura de Computadores/Lecturas/Apuntes SPIM MIPS.pdf",
-    "TopSecret/Arquitectura de Computadores/Informes/Informe Laboratorio Extra.pdf",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquina Universal y alto.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Maquinas de Turing y Modelos.md",
