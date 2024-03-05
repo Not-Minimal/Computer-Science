@@ -4,23 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "bc8dd77f763f02cf",
-        "type": "tabs",
+        "id": "002c71a5e6150dc5",
+        "type": "split",
         "children": [
           {
-            "id": "d436a045a095329a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iTerm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "bc8dd77f763f02cf",
+            "type": "tabs",
+            "dimension": 63.73106060606061,
+            "children": [
+              {
+                "id": "b1501491009de228",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notas Sesión Nicolas Jara G..md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "c8402cbebcb0cc58",
+            "type": "tabs",
+            "dimension": 36.26893939393939,
+            "children": [
+              {
+                "id": "0b9b0f318f929db1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "WorkMerch App.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -49,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "  Segmento de Datos:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -86,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iTerm.md",
+                "file": "Notas Sesión Nicolas Jara G..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iTerm.md",
+                "file": "Notas Sesión Nicolas Jara G..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iTerm.md"
+                "file": "Notas Sesión Nicolas Jara G..md"
               }
             }
           },
@@ -180,8 +209,16 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "d436a045a095329a",
+  "active": "b1501491009de228",
   "lastOpenFiles": [
+    "WorkMerch App.md",
+    "Notas Sesión Nicolas Jara G..md",
+    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+    "diagram-export-27-1-2024-18_41_15.png",
+    "diagram-export-27-1-2024-18_32_22.png",
+    "Sin título.md",
+    "Autotruck Diesel/Sistema Taller.md",
+    "iTerm.md",
     "TopSecret/Base de Datos/Trabajo Semestral/Entrega 2/Informe Entrega 2 Proyecto BD.pdf",
     "TopSecret/Base de Datos/Trabajo Semestral/Entrega 2/Enunciado Entrega 2.pdf",
     "TopSecret/Base de Datos/Trabajo Semestral/Entrega 1/Informe Entrega 1 Proyecto BD.pdf",
@@ -192,21 +229,15 @@
     "TopSecret/Base de Datos/Evaluaciones/1.2 Respuetas Control 1.pdf",
     "TopSecret/Base de Datos/Evaluaciones/1.1 Control 1 (AR-CR).pdf",
     "TopSecret/Base de Datos/Clases/12.- Transacciones.pdf",
-    "TopSecret/Base de Datos/Clases/9.- Normalizacion.pdf",
-    "WorkMerch App.md",
     "Readme.md",
     "diagram-export-27-1-2024-18_49_12.png",
-    "diagram-export-27-1-2024-18_41_15.png",
     "diagram-export-27-1-2024-18_39_51.png",
-    "diagram-export-27-1-2024-18_32_22.png",
     "4 Semestre/Práctica Profesional 1/Images/Diagrama en blanco.png",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-10-19 a la(s) 20.17.58.png",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.30.35 p. m..png",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.30.50 p. m..png",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.31.44 p. m..png",
     "Learn Java/Learn Java.md",
-    "iTerm.md",
-    "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "4 Semestre/Práctica Profesional 1/Images/Captura de pantalla 2023-12-30 a la(s) 7.31.01 p. m..png",
     "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
@@ -225,9 +256,6 @@
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Técnicas de Diseño/Técnicas de Diseño - Algoritmo Voraz.md",
     "4 Semestre/Emprendiendo Mi Primer Negocio.md",
     "SQL/Notas.md",
-    "SQL/Chat.md",
-    "Learn Java/Introduction Notes/63. Throwing Exceptions.md",
-    "Algorithms and Data Structures/Notas/Fixed-size array.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Análisis de Algoritmos y Teoría de.canvas",
     "Malla Curricular.canvas",
     "3 Semestre/Estructura de Datos/Estructura de Datos/Assets/Untitled.canvas",
