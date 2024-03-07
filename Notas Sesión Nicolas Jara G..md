@@ -61,4 +61,11 @@ Nicolás Jara G.
 
 
 
-Fintoc
+Pasarela de Pagos: Fintoc
+
+
+Los proyectos de emprendimiento postulados deberán contar con, al menos, una idea de producto o servicio (solución), con un plan que les permita finalizar la ejecución del proyecto habiendo realizado su primera venta. Los proyectos deberán tener un objetivo alineado con el presente instrumento de financiamiento, por cual, serán proyectos no admisibles, entre otros, aquellos que: No consultoria, no compras ni importacion o exportacion, no solo local, pensar en regiones o internacionalmente.
+# 3 Resultados esperados.
+a) Obtener la validación técnica del producto o servicio
+b) Obtener los primeros ingresos por venta de un producto o servicio durante el período de ejecución del proyecto o bien, en el caso de un servicio, acreditar un contrato firmado que dé cuenta de la venta de dicho servicio, cuya prestación se haya iniciado durante el período de ejecución del proyecto. c) Recibir servicios de apoyo para el desarrollo del emprendimiento, considerando servicios de mentoría y adquisición de conocimientos y habilidades de acuerdo con la metodología del Proyecto Institucional de Corfo denominado “El Viaje del Emprendedor” y haberlos iniciado dentro de los primeros 4 (cuatro) meses de ejecución del proyecto. d) Disponer, durante la ejecución del proyecto, de una estrategia que permita diagnosticar, priorizar, definir indicadores y diseñar un plan de acción de medidas iniciales que contribuyan a realizar una operación sostenible del emprendimiento.
+

@@ -4,51 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "002c71a5e6150dc5",
-        "type": "split",
+        "id": "bc8dd77f763f02cf",
+        "type": "tabs",
         "children": [
           {
-            "id": "bc8dd77f763f02cf",
-            "type": "tabs",
-            "dimension": 63.73106060606061,
-            "children": [
-              {
-                "id": "b1501491009de228",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notas Sesión Nicolas Jara G..md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "b1501491009de228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Sesión Nicolas Jara G..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "c8402cbebcb0cc58",
-            "type": "tabs",
-            "dimension": 36.26893939393939,
-            "children": [
-              {
-                "id": "0b9b0f318f929db1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "WorkMerch App.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,9 +169,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "zk-prefixer:Crear nueva nota única": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
