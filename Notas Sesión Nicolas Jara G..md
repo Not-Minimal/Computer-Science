@@ -338,3 +338,204 @@ El objeto social de WorkMerch es directamente relevante con las actividades a de
 - **WorkMerch ofrecerá servicios de consultoría y capacitación para ayudar a los talleres mecánicos a aprovechar al máximo la aplicación.**
 
 **En conclusión, WorkMerch tiene un claro potencial para contribuir al desarrollo del sector mecánico en Chile.**
+
+## Evaluación de WorkMerch con base en los criterios de la convocatoria:
+
+**Criterio:** Innovación (40%)
+
+**Subcriterio:** Relevancia del Problema/Oportunidad (15%)
+
+**Evaluación:**
+
+- WorkMerch aborda un problema real y relevante para los talleres mecánicos: la falta de una solución integral para optimizar su gestión.
+- No existe una solución similar en el mercado que integre en una sola plataforma las funcionalidades que ofrece WorkMerch.
+- La solución propuesta tiene un alto potencial para mejorar la eficiencia y productividad de los talleres mecánicos.
+
+**Ponderación:** 15%
+
+**Subcriterio:** Propuesta de Valor (25%)
+
+**Evaluación:**
+
+- WorkMerch ofrece un valor agregado significativo en comparación con las alternativas existentes:
+    - Mayor eficiencia y ahorro de tiempo.
+    - Mejora en la comunicación con los clientes.
+    - Optimización del rendimiento del taller.
+    - Seguridad y accesibilidad de datos.
+- WorkMerch tiene un claro potencial para satisfacer una demanda del mercado con disposición a pago.
+- La propuesta se ajusta a la temática y/o desafío de la convocatoria.
+
+**Ponderación:** 25%
+
+**Total Innovación:** 40%
+
+**Criterio:** Escalabilidad (30%)
+
+**Subcriterio:** Modelo de Negocios (15%)
+
+**Evaluación:**
+
+- El modelo de negocios de WorkMerch es escalable y sostenible:
+    - Se basa en un modelo de suscripción mensual con diferentes planes.
+    - Se contemplan alianzas estratégicas con empresas clave.
+    - Se proyecta un crecimiento gradual en la base de clientes.
+
+**Ponderación:** 15%
+
+**Subcriterio:** Tamaño y Potencial del Mercado (15%)
+
+**Evaluación:**
+
+- El mercado objetivo de WorkMerch es grande y con un alto potencial de crecimiento:
+    - Talleres mecánicos de todos los tamaños en la región.
+    - Crecimiento constante del sector mecánico.
+    - Demanda por soluciones digitales para la gestión de talleres.
+
+**Ponderación:** 15%
+
+**Total Escalabilidad:** 30%
+
+**Criterio:** Equipo Emprendedor (20%)
+
+**Subcriterio:** Experiencia y Capacidades (10%)
+
+**Evaluación:**
+
+- El equipo emprendedor de WorkMerch cuenta con la experiencia y las capacidades necesarias para llevar a cabo el proyecto:
+    - Conocimientos en gestión de proyectos, desarrollo de software y marketing.
+    - Experiencia en el sector mecánico.
+    - Habilidades de liderazgo y trabajo en equipo.
+
+**Ponderación:** 10%
+
+**Subcriterio:** Dedicación y Compromiso (10%)
+
+**Evaluación:**
+
+- El equipo emprendedor está comprometido con el proyecto y dispuesto a dedicarle el tiempo necesario:
+    - Dedicación horaria adecuada para el desarrollo del proyecto.
+    - Roles y responsabilidades bien definidos.
+    - Plan de trabajo claro y con objetivos concretos.
+
+**Ponderación:** 10%
+
+**Total Equipo Emprendedor:** 20%
+
+**Evaluación total:**
+
+- Innovación: 40%
+- Escalabilidad: 30%
+- Equipo Emprendedor: 20%
+
+**WorkMerch cumple con los criterios de la convocatoria y tiene un alto potencial de éxito.**
+
+## Evaluación de WorkMerch con base en los criterios de la convocatoria:
+
+**Criterio:** Escalabilidad (30%)
+
+**Subcriterio:** Modelo de Negocios (5%)
+
+**Evaluación:**
+
+- El modelo de negocios de WorkMerch es escalable:
+    - Se basa en un modelo de suscripción mensual con diferentes planes.
+    - Se contemplan alianzas estratégicas con empresas clave.
+    - Se proyecta un crecimiento gradual en la base de clientes.
+- El modelo de negocios define:
+    - Perfil del cliente: talleres mecánicos de todos los tamaños.
+    - Canal de comunicación: marketing digital, ventas directas y alianzas.
+    - Canal de venta: plataforma web y aplicaciones móviles.
+    - Modelo de ingresos: suscripciones mensuales, comisiones por ventas y publicidad.
+
+**Ponderación:** 5%
+
+**Subcriterio:** Mercado (10%)
+
+**Evaluación:**
+
+- El mercado objetivo de WorkMerch es grande y con un alto potencial de crecimiento:
+    - Talleres mecánicos de todos los tamaños en la región.
+    - Crecimiento constante del sector mecánico.
+    - Demanda por soluciones digitales para la gestión de talleres.
+- Se ha realizado una identificación completa de:
+    - Clientes: talleres mecánicos de todos los tamaños.
+    - Competencia: software de gestión de talleres, herramientas de contabilidad, etc.
+    - Tamaño del mercado: grande y en crecimiento.
+    - Madurez del mercado: en crecimiento.
+    - Barreras de entrada: desarrollo de software, marketing, competencia.
+    - Tendencias actuales: digitalización del sector mecánico.
+    - Momento oportuno: alta demanda por soluciones digitales.
+
+**Ponderación:** 10%
+
+**Subcriterio:** Plan de validación (10%)
+
+**Evaluación:**
+
+- El plan de validación de WorkMerch es completo y coherente:
+    - Se realizarán pruebas piloto con talleres mecánicos.
+    - Se realizarán encuestas de satisfacción.
+    - Se analizará la competencia.
+    - Se definirá la estrategia de marketing y ventas.
+- El plan de validación permite proyectar la expansión a nuevos mercados:
+    - La plataforma es adaptable a diferentes idiomas y monedas.
+    - Se contemplan alianzas con empresas locales.
+
+**Ponderación:** 10%
+
+**Subcriterio:** Sostenibilidad (5%)
+
+**Evaluación:**
+
+- WorkMerch se compromete con una operación sostenible:
+    - Uso eficiente de recursos.
+    - Minimización de la huella ambiental.
+    - Implementación de prácticas socialmente responsables.
+
+**Ponderación:** 5%
+
+**Total Escalabilidad:** 30%
+
+**Recuerda adaptar esta evaluación a las características específicas de tu proyecto y a los requisitos de la convocatoria a la que te postulas.**
+
+## Evaluación de WorkMerch con base en los criterios de la convocatoria:
+
+**Criterio:** Equipo (30%)
+
+**Subcriterio:** Capacidad del equipo (20%)
+
+**Evaluación:**
+
+- El equipo de WorkMerch está compuesto por 2 personas con experiencia complementaria:
+    - **[Nombre del emprendedor]:** experiencia en desarrollo de software y gestión de proyectos.
+    - **[Nombre del otro miembro del equipo]:** experiencia en marketing y ventas.
+- Los roles y responsabilidades del equipo están bien definidos y son coherentes con las actividades a desarrollar.
+- El equipo tiene las habilidades y conocimientos necesarios para llevar a cabo el proyecto.
+
+**Ponderación:** 20%
+
+**Subcriterio:** Compromiso del equipo (10%)
+
+**Evaluación:**
+
+- El equipo de WorkMerch está comprometido con el proyecto y dispuesto a dedicarle el tiempo necesario:
+    - Dedicación horaria adecuada para el desarrollo del proyecto.
+    - Roles y responsabilidades bien definidos.
+    - Plan de trabajo claro y con objetivos concretos.
+
+**Ponderación:** 10%
+
+**Total Equipo:** 30%
+
+**Recuerda adaptar esta evaluación a las características específicas de tu equipo y a los requisitos de la convocatoria a la que te postulas.**
+
+**¡Te deseo mucho éxito!**
+
+**Recomendaciones:**
+
+- **Destaca las habilidades y experiencia de cada miembro del equipo.**
+- **Explica cómo las habilidades y experiencia de cada miembro se complementan entre sí.**
+- **Define claramente los roles y responsabilidades de cada miembro del equipo.**
+- **Demuestra el compromiso del equipo con el proyecto.**
+- **Proporciona información sobre la dedicación horaria del equipo al proyecto.**
+- **Incluye un plan de trabajo claro y con objetivos concretos.**
