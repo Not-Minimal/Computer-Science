@@ -71,3 +71,5 @@ b) Obtener los primeros ingresos por venta de un producto o servicio durante el 
 
 # 4.2. Equipo emprendedor (opcional):
 Para efectos del presente instrumento, se entenderá como “equipo emprendedor” a aquel grupo de hasta tres personas naturales ide
+
+
