@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc8dd77f763f02cf",
+        "id": "5517be5a6af92efc",
         "type": "tabs",
         "children": [
           {
-            "id": "b1501491009de228",
+            "id": "ca59818520efd6c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notas Sesión Nicolas Jara G..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "5 Semestre/Base de Datos/1 Programa.pdf"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
-    "collapsed": true
+    "width": 274
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -87,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Sesión Nicolas Jara G..md",
+                "file": "5 Semestre/Base de Datos/1 Programa.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Sesión Nicolas Jara G..md",
+                "file": "5 Semestre/Base de Datos/1 Programa.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Sesión Nicolas Jara G..md"
+                "file": "5 Semestre/Base de Datos/1 Programa.pdf"
               }
             }
           },
@@ -181,26 +177,27 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "b1501491009de228",
+  "active": "ca59818520efd6c4",
   "lastOpenFiles": [
-    "WorkMerch App.md",
-    "Notas Sesión Nicolas Jara G..md",
+    "5 Semestre/Base de Datos/Base de Datos.md",
+    "5 Semestre/Base de Datos/Programa.pdf",
+    "5 Semestre/Base de Datos/5 Algebra Relacional.pdf",
+    "5 Semestre/Base de Datos/1 Programa.pdf",
+    "5 Semestre/Base de Datos/6 Calculo Relacional.pdf",
+    "5 Semestre/Base de Datos/4 Modelo Relacional.pdf",
+    "5 Semestre/Base de Datos/2 Introducción.pdf",
+    "5 Semestre/Base de Datos/3 Modelo Entidad Relacion.pdf",
+    "5 Semestre/Base de Datos/7 SQL.pdf",
+    "5 Semestre/Base de Datos",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
+    "Notas Sesión Nicolas Jara G..md",
+    "WorkMerch App.md",
     "diagram-export-27-1-2024-18_41_15.png",
     "diagram-export-27-1-2024-18_32_22.png",
     "Sin título.md",
     "Autotruck Diesel/Sistema Taller.md",
     "iTerm.md",
     "TopSecret/Base de Datos/Trabajo Semestral/Entrega 2/Informe Entrega 2 Proyecto BD.pdf",
-    "TopSecret/Base de Datos/Trabajo Semestral/Entrega 2/Enunciado Entrega 2.pdf",
-    "TopSecret/Base de Datos/Trabajo Semestral/Entrega 1/Informe Entrega 1 Proyecto BD.pdf",
-    "TopSecret/Base de Datos/Trabajo Semestral/Entrega 1/Enunciado Entrega 1.pdf",
-    "TopSecret/Base de Datos/Evaluaciones/4.1 Control 4 (Manejo de Usuarios).pdf",
-    "TopSecret/Base de Datos/Evaluaciones/3.2 Respuestas Control 3.pdf",
-    "TopSecret/Base de Datos/Evaluaciones/2.2 Respuestas Control 2.pdf",
-    "TopSecret/Base de Datos/Evaluaciones/1.2 Respuetas Control 1.pdf",
-    "TopSecret/Base de Datos/Evaluaciones/1.1 Control 1 (AR-CR).pdf",
-    "TopSecret/Base de Datos/Clases/12.- Transacciones.pdf",
     "Readme.md",
     "diagram-export-27-1-2024-18_49_12.png",
     "diagram-export-27-1-2024-18_39_51.png",
