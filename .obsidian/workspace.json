@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "5 Semestre/Base de Datos/4 Modelo Relacional.pdf"
+                "file": "5 Semestre/Base de Datos/6 Calculo Relacional.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Semestre/Base de Datos/4 Modelo Relacional.pdf",
+                "file": "5 Semestre/Base de Datos/6 Calculo Relacional.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Semestre/Base de Datos/4 Modelo Relacional.pdf",
+                "file": "5 Semestre/Base de Datos/6 Calculo Relacional.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Semestre/Base de Datos/4 Modelo Relacional.pdf"
+                "file": "5 Semestre/Base de Datos/6 Calculo Relacional.pdf"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "ca59818520efd6c4",
   "lastOpenFiles": [
+    "5 Semestre/Base de Datos/5 Algebra Relacional.pdf",
+    "5 Semestre/Base de Datos/4 Modelo Relacional.pdf",
     "5 Semestre/Base de Datos/3 Modelo Entidad Relacion.pdf",
     "5 Semestre/Base de Datos/2 Introducción.pdf",
     "5 Semestre/Ingles 2/SYLLABUS English 2 2024-1.pdf",
@@ -188,8 +190,6 @@
     "5 Semestre/Sistemas Financieros y Contable",
     "5 Semestre/Ingles 2/340273 INGLÉS II (2024-2028).pdf",
     "5 Semestre/Base de Datos/1 Programa.pdf",
-    "5 Semestre/Ingles 2",
-    "5 Semestre/Sistemas de Informacion/Planificación Actividades 2024.pdf",
     "5 Semestre/Base de Datos/Base de Datos.md",
     "4 Semestre/Práctica Profesional 1/Práctica Profesional 1.md",
     "Notas Sesión Nicolas Jara G..md",
