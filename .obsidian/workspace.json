@@ -11,8 +11,13 @@
             "id": "d396fa9ff5be0834",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5 Semestre/Metodología de Desarrollo/E-Park.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 274,
+    "collapsed": true
   },
   "right": {
     "id": "fc30061e53f1e7b3",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5 Semestre/Metodología de Desarrollo/E-Park.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5 Semestre/Metodología de Desarrollo/E-Park.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5 Semestre/Metodología de Desarrollo/E-Park.md"
+              }
             }
           },
           {
@@ -173,6 +183,7 @@
   },
   "active": "d396fa9ff5be0834",
   "lastOpenFiles": [
+    "5 Semestre/Metodología de Desarrollo/E-Park.md",
     "diagram-export-27-1-2024-18_39_51.png",
     "TopSecret/Sistemas Financieros/Test 2/Pregunta 2.jpg",
     "TopSecret/Sistemas Financieros/Test 2/Pregunta 1.jpg",
@@ -201,7 +212,6 @@
     "iTerm.md",
     "Readme.md",
     "diagram-export-27-1-2024-18_49_12.png",
-    "4 Semestre/Práctica Profesional 1/Images/Diagrama en blanco.png",
     "Learn Java/Learn Java.md",
     "4 Semestre/Arquitectura de Computadores/Recursos/Preparar Certamen 2.md",
     "4 Semestre/Análisis de Algoritmos y Teoría de Autómatas/Maquinas de Turing/Complejidad Computacional.md",
