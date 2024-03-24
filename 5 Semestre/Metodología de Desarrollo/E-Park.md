@@ -3,6 +3,7 @@ $ npx express-generator
 ```
 
 Crear proyecto con https://expressjs.com/es/starter/generator.html
+
 ```javascript
 $ express --view=pug myapp
 
