@@ -1,5 +1,9 @@
+```javascript
+$ npx express-generator
+```
+
 Crear proyecto con https://expressjs.com/es/starter/generator.html
-```console
+```javascript
 $ express --view=pug myapp
 
    create : myapp
@@ -57,3 +61,4 @@ La aplicación generada tiene la siguiente estructura de directorios:
 7 directories, 9 files
 ```
 Instalar React
+https://www.freecodecamp.org/espanol/news/como-crear-una-aplicacion-react-con-un-backend-de-node-la-guia-completa/
